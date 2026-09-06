@@ -1,0 +1,27 @@
+# activations and caches
+activations/
+data/raw/
+data/processed/
+*.npy
+*.npz
+*.pt
+*.safetensors
+
+# local config with absolute paths
+config.ini
+configs/config.ini
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# slurm
+slurm-*.out
+logs/
+
+# os / editor
+.DS_Store
+.vscode/
