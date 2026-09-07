@@ -31,6 +31,8 @@ CUDA_MODULE="CUDA/12.4.0"
 TORCH_INDEX="https://download.pytorch.org/whl/cu124"
 
 # --- module system ---------------------------------------------------------
+export LC_ALL="${LC_ALL:-C.UTF-8}"
+export LANG="${LANG:-C.UTF-8}"
 source /etc/profile
 
 # --- stack selection by CPU vendor ----------------------------------------

@@ -8,10 +8,11 @@
 #SBATCH --export=NONE
 
 unset SLURM_EXPORT_ENV
-set -euo pipefail
 
 cd "${SLURM_SUBMIT_DIR:-$HOME/multilingual-probing}"
 source setup_env.sh
+
+set -euo pipefail
 
 echo "=== node ==="
 hostname
