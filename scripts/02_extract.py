@@ -183,6 +183,7 @@ def main() -> int:
         pooling=args.pooling,
         max_length=args.max_length,
         batch_size=args.batch_size,
+        inference_dtype=args.dtype,
     )
 
     texts = index["text"].tolist()

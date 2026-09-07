@@ -73,6 +73,7 @@ class ExtractionConfig:
     max_length: int = 128
     batch_size: int = 16
     dtype: str = "float32"
+    inference_dtype: str = "unknown"
     add_bos: bool = True
 
     def to_dict(self) -> dict:
@@ -85,7 +86,7 @@ class ExtractionConfig:
         at `mean` is a comparison of two different quantities. It will still
         produce a number.
         """
-        for field in ("model_id", "pooling", "max_length", "add_bos"):
+        for field in ("model_id", "pooling", "max_length", "add_bos", "inference_dtype"):
             mine, theirs = getattr(self, field), getattr(other, field)
             if mine != theirs:
                 raise ValueError(
