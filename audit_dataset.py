@@ -43,6 +43,9 @@ RULE = "=" * 72
 
 
 def load(path: Path) -> list[dict]:
+    if path.suffix.lower() == ".csv":
+        import pandas as pd
+        return pd.read_csv(path).to_dict("records")
     data = json.loads(path.read_text(encoding="utf-8"))
     if not isinstance(data, list):
         raise SystemExit(f"{path}: expected a JSON array, got {type(data).__name__}")
