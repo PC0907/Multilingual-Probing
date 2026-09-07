@@ -1,138 +1,213 @@
-# Initial probing results: Llama 3.1 8B, English and German
+# Initial Probing Results: Simple Explanation
 
-Status as of 7 September 2026. First complete pass: extraction, in-language
-probe accuracy over layer depth, and surface-form controls. Teammates are
-running the remaining models against the same protocol.
+**Status: 7 September 2026**
 
-## Setup
+## The main idea
 
-`meta-llama/Llama-3.1-8B` (base, not instruct). Forward passes only, no
-fine-tuning. Activations pooled at the final token, cached at every layer
-(0 to 32, where layer 0 is the embedding output), bfloat16 inference and float32
-storage. Analysis reports every fourth layer; the cache holds all of them so the
-grid can be refined without further GPU time.
+We tested whether **Llama 3.1 8B internally represents whether statements are true or false**.
 
-Probe is the mass-mean direction of Marks and Tegmark: theta is the difference of
-class means, classification projects onto theta and thresholds at the midpoint of
-the training projections. No learned scale, no regularisation. A direction that
-classifies is one that exists in the representation rather than one fitted into
-existence.
+We tested English and German statements and looked at different layers of the model to see where this information is easiest to detect.
 
-Five-fold cross-validation with whole groups assigned to folds, where a group is
-a set of statements sharing an opening phrase. This matters because hand-authored
-datasets contain near-minimal pairs, and a random split puts one variant in train
-and its partner in test.
+The main result is that **the pipeline works**, but the results also show that **dataset construction and topic matter a lot**.
 
-## Datasets
+---
 
-| set | source | n | true/false | groups |
-| --- | --- | --- | --- | --- |
-| `en_cities` | geometry-of-truth `cities.csv` | 1496 | 748 / 748 | 723 |
-| `en` | Truth_is_Universal `common_claim_true_false.csv`, balanced subsample | 1996 | 998 / 998 | 1898 |
-| `de` | own construction, four topics | 1996 | 997 / 999 | 1309 |
+## How the experiment works
 
-The German set was written for this project: 500 statements each in geography,
-sports, entertainment and history/news, balanced within every topic. The English
-subsample is size-matched to it.
+The model was not trained or fine-tuned.
 
-## Results
+Instead:
 
-Peak grouped accuracy, with the lexical baseline below it. The lexical baseline
-is a TF-IDF logistic regression on the raw strings under the same grouped folds:
-accuracy reachable with no model and no activations at all.
+1. A statement is given to the model.
+2. We collect its internal activations from every layer.
+3. We create a simple direction representing the difference between true and false statements.
+4. We test whether that direction can correctly classify unseen statements.
 
-| set | peak layer | peak accuracy | lexical floor | margin |
-| --- | --- | --- | --- | --- |
-| `en_cities` | 16 (50% depth) | 0.976 | 0.475 | +0.50 |
-| `en` | 12 (38% depth) | 0.757 | 0.596 | +0.16 |
-| `de` | 12 (38% depth) | 0.656 | 0.449 | +0.21 |
+We used five-fold cross-validation and kept very similar statements together in the same fold. This prevents the model from getting an unfair advantage by seeing almost identical statements during training and testing.
 
-German by topic, at the peak layer:
+---
 
-| topic | accuracy |
-| --- | --- |
-| history/news | 0.690 |
-| geography | 0.670 |
-| sports | 0.627 |
-| entertainment | 0.506 |
+## The three main datasets
 
-## Controls
+We tested:
 
-Shuffled labels, permuted within the training fold only, sit at 0.500 for German
-and 0.504 for CommonClaim across all layers, confirming the splits do not leak.
+- **English Cities**: structured geography facts.
+- **English CommonClaim**: mixed, crowd-sourced claims.
+- **German**: a dataset created for this project, covering geography, sports, entertainment, and history/news.
 
-The leakage gap, random-split accuracy minus grouped-split accuracy, is -0.016
-for German, +0.000 for CommonClaim and -0.001 for cities. Grouping does not
-inflate any result. For German this is because the near-minimal pairs place the
-same entities on both sides of the label, so surface form carries no consistent
-signal, which the below-chance lexical baseline confirms independently.
+The English CommonClaim dataset was made roughly the same size as the German dataset so the comparison is fairer.
 
-Centred and uncentred fits agree exactly, as expected: the shared residual-stream
-offset cancels in the difference of class means, so centring shifts projections
-and threshold by the same constant. It becomes consequential later, at the
-geometry stage, where absolute orientation matters.
+---
 
-## What this suggests
+## Main results
 
-**The pipeline is validated.** `cities` reaches 0.976 at the exact midpoint of
-the network with the expected profile: chance at the embeddings, 0.900 by layer
-8, plateau across the second half. This is consistent with published results for
-this dataset on Llama-family models, and it was run with the same code that
-produced the German numbers.
+| Dataset | Best accuracy | Simple word-based baseline |
+|---|---:|---:|
+| English Cities | 0.976 | 0.475 |
+| English CommonClaim | 0.757 | 0.596 |
+| German | 0.656 | 0.449 |
 
-**Construction method dominates the measurement.** The gap between `cities` at
-0.976 and CommonClaim at 0.757 is 22 points, within one language, one model and
-one pooling choice, differing only in how the statements were built.
-Template-generated geography against crowd-sourced mixed claims costs more than
-the entire English-German difference. Any cross-lingual comparison run on
-differently-constructed data is therefore measuring construction before it
-measures language.
+At first glance, German looks worse because its accuracy is lower.
 
-**Reported against its floor, the German probe does more work than the English
-one.** CommonClaim's raw 0.757 exceeds German's 0.656, but CommonClaim starts
-from a 0.596 surface-form floor: its false statements are disproportionately
-debunked folk beliefs, and the most false-indicating tokens are "not", "actually"
-and "contrary to popular belief". The probe adds 16 points there against 21 for
-German. Raw accuracy inverts the comparison.
+However, the word-based baseline tells a more interesting story.
 
-**Probe accuracy within one language is not uniform across content.** German
-entertainment sits at chance at every layer while geography and history reach
-0.67 to 0.69, on matched construction and equal sample sizes. The entertainment
-statements concern German directors, comic prizes and television channels, which
-is the category MultiLoKo identifies as locally sourced and unlikely to be
-salient in an English-dominated pretraining corpus. Labels were checked by hand
-and are correct, so this is not a data-quality artefact.
+### English CommonClaim
 
-## Limitations
+A simple classifier using only the words in the statements already achieves **0.596** accuracy.
 
-Single model, single seed, single pooling choice. Everything below is open.
+The representation probe increases this to **0.757**, which is an improvement of about **16 percentage points**.
 
-Pooling is final-token throughout, because none of the three datasets carries
-entity spans. This is the choice the extraction code itself flags as a confound
-for cross-lingual work, since the final token is not the same linguistic position
-in verb-final languages. `cities.csv` carries city and country columns from which
-spans are recoverable, so the effect of pooling can be measured there.
+### German
 
-The German set has almost no negated statements, so polarity and truth cannot be
-separated and the two-dimensional truth subspace cannot be estimated. RQ1's
-principal-angle method is unavailable for German as the data currently stands.
-Rebuilding on the full truth-by-polarity design would fix this and would also
-supply entity spans.
+The word-based classifier gets only **0.449**, below chance.
 
-The shuffled-label control on `cities` fluctuates more than the others, reaching
-0.625 at layer 24 and 0.411 at layer 32 against a mean of 0.522. Plausibly noise
-at 723 groups over five folds, but not yet confirmed across seeds.
+The representation probe increases this to **0.656**, an improvement of about **21 percentage points**.
 
-The entertainment result has two readings that have not been separated: the model
-may not encode these facts, or it may encode them somewhere the final-token probe
-cannot read. A behavioural check, asking the model the same facts directly and
-measuring accuracy per topic, distinguishes them and has not been run.
+### What this means
 
-## Next
+Although German has lower raw accuracy, the probe is finding **more information beyond simple surface wording**.
 
-Behavioural check on German by topic. Repeat all sweeps across seeds to settle
-the shuffled-control variance. Decide whether to rebuild the German set on the
-truth-by-polarity design with entity spans, which gates RQ1. Then the
-topic-transfer matrix within German, which is the content-disjoint control
-brought forward to a single language, where content and language are not
-confounded.
+So raw accuracy alone can be misleading.
+
+---
+
+# The pipeline is working
+
+The English Cities dataset reaches **0.976 accuracy at layer 16**, exactly halfway through the model.
+
+Its performance follows the expected pattern:
+
+- Near chance at the earliest layers.
+- Strong improvement through the middle layers.
+- About 0.90 accuracy by layer 8.
+- A peak around the middle.
+- A plateau afterwards.
+
+Because this dataset produces the expected result using the same code as the German experiment, the German result is unlikely to be caused by a bug in the pipeline.
+
+---
+
+# Dataset construction matters a lot
+
+One of the strongest findings is the difference between the two English datasets:
+
+- English Cities: **0.976**
+- English CommonClaim: **0.757**
+
+That is a difference of about **22 percentage points**.
+
+Both experiments use:
+
+- The same language.
+- The same model.
+- The same code.
+- The same pooling method.
+
+The major difference is the **way the datasets were constructed**.
+
+This suggests that dataset construction can strongly affect truth-probing results.
+
+Therefore, comparing two languages using differently constructed datasets can be dangerous. A difference that looks like a language effect might actually be caused by differences in the datasets.
+
+---
+
+# German results also depend strongly on topic
+
+Within German, the results differ by topic:
+
+| Topic | Accuracy |
+|---|---:|
+| History/News | 0.690 |
+| Geography | 0.670 |
+| Sports | 0.627 |
+| Entertainment | 0.506 |
+
+Entertainment is essentially at chance.
+
+This is interesting because all four topics were constructed in a similar way and have similar numbers of examples.
+
+The entertainment statements involve things such as German directors, comic prizes, and television channels. These facts may be more locally specific and less common in the model's training data.
+
+However, there are currently two possible explanations:
+
+1. **The model does not reliably know these entertainment facts.**
+2. **The model knows them, but the current probe cannot read the information properly.**
+
+A behavioural test is needed to distinguish between these possibilities.
+
+---
+
+# The controls look good
+
+The shuffled-label experiments are close to chance for German and CommonClaim.
+
+This is important because it suggests that the evaluation procedure is not leaking answers from training to testing.
+
+Also, using grouped splits instead of random splits does not artificially improve the results.
+
+The lexical baseline for German is below chance, which also suggests that simple wording does not provide an easy shortcut for solving the task.
+
+---
+
+# Current limitations
+
+## Only one model
+
+So far, these results are only for **Llama 3.1 8B**.
+
+Other models are still being tested.
+
+## Only one pooling method
+
+We use the activation of the final token as the representation of the statement.
+
+This may be a problem for cross-lingual comparisons because the final token can represent different linguistic positions in different languages.
+
+## German lacks enough negated statements
+
+The German dataset mostly contains affirmative statements.
+
+Because of this, we cannot separate:
+
+- Truth
+- Negation/polarity
+
+This means the planned two-dimensional truth representation and principal-angle analysis cannot currently be performed for German.
+
+A rebuilt German dataset with both truth and negation conditions would solve this problem.
+
+## Some shuffled results for Cities vary more than expected
+
+The shuffled control for the Cities dataset has some unusually high and low values at individual layers.
+
+This may simply be random noise, but it needs to be checked using several random seeds.
+
+---
+
+# What happens next?
+
+The next steps are:
+
+1. **Run a behavioural test for the German topics.**  
+   Ask the model directly whether the statements are true or false. This will show whether the entertainment problem comes from missing knowledge or from the representation/probe.
+
+2. **Repeat the experiments with multiple random seeds.**  
+   This will confirm that the shuffled controls behave as expected.
+
+3. **Decide whether to rebuild the German dataset.**  
+   A new truth-by-polarity design with entity spans would allow the full cross-lingual geometry analysis.
+
+4. **Run topic-transfer experiments within German.**  
+   This will test whether a truth direction learned from one topic transfers to another topic.
+
+---
+
+# Bottom line
+
+The experiments successfully validate the technical pipeline.
+
+The most important scientific lesson so far is that **truth-probing results are strongly affected by how the dataset is constructed and what type of knowledge it contains**.
+
+This means raw cross-lingual accuracy comparisons should be treated carefully. Before claiming that two languages represent truth differently, we need to make sure that differences are not caused by dataset construction, lexical shortcuts, or differences in knowledge domains.
+
+The German entertainment result is currently the most interesting open question, and the behavioural check is the next experiment most likely to explain it.
