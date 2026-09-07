@@ -25,3 +25,4 @@ logs/
 # os / editor
 .DS_Store
 .vscode/
+*.code-workspace
