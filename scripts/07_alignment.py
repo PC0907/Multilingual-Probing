@@ -190,16 +190,21 @@ def main() -> int:
         cos_match = float(np.mean(matched))
         cos_match_sd = float(np.std(matched, ddof=1))
 
-        ceil_a = split_half_ceiling(
-            Xa, ya, mass_mean_direction, groups=ga,
-            n_repeats=args.repeats, n_per_split=None, seed=args.seed)
-        ceil_b = split_half_ceiling(
-            Xb, yb, mass_mean_direction, groups=gb,
-            n_repeats=args.repeats, n_per_split=None, seed=args.seed)
-        floor = split_half_ceiling(
-            Xa, ya, mass_mean_direction, groups=ga,
-            n_repeats=args.repeats, n_per_split=None,
-            permute_labels=True, seed=args.seed)
+        try:
+            ceil_a = split_half_ceiling(
+                Xa, ya, mass_mean_direction, groups=ga,
+                n_repeats=args.repeats, n_per_split=None, seed=args.seed)
+            ceil_b = split_half_ceiling(
+                Xb, yb, mass_mean_direction, groups=gb,
+                n_repeats=args.repeats, n_per_split=None, seed=args.seed)
+            floor = split_half_ceiling(
+                Xa, ya, mass_mean_direction, groups=ga,
+                n_repeats=args.repeats, n_per_split=None,
+                permute_labels=True, seed=args.seed)
+        except (ValueError, RuntimeError) as e:
+            print(f"{layer:>6}   skipped: {e}")
+            del Xa, Xb
+            continue
 
         # Attenuation correction: a cross-lingual cosine is bounded by the
         # reliability of BOTH directions, not just one.
