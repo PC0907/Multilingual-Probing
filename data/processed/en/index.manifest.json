@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "true_label_in_source": 1,
+  "shuffle_seed": 0,
+  "group_words": 4,
+  "n_input": 4450,
+  "n_output": 1996,
+  "sampled_from": 4450,
+  "sample_n": 1996,
+  "dropped_duplicate_ids": [],
+  "n_groups": 1898,
+  "largest_group": 6,
+  "singleton_groups": 1823,
+  "tags": {
+    "untagged": 1996
+  },
+  "cells": {
+    "label=0,polarity=1": 153,
+    "label=1,polarity=0": 907,
+    "label=0,polarity=0": 845,
+    "label=1,polarity=1": 91
+  },
+  "has_entity_spans": false,
+  "pooling_supported": [
+    "last",
+    "mean"
+  ]
+}

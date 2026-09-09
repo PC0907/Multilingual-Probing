@@ -1,0 +1,1497 @@
+row_id,source_id,text,label,polarity,language,group_id,template_id,tag
+0,1127,The city of Huizhou is in the United States.,0,0,en,the city of huizhou,native.en,untagged
+1,353,The city of Xuanzhou is in Tanzania.,0,0,en,the city of xuanzhou,native.en,untagged
+2,733,The city of Arequipa is in India.,0,0,en,the city of arequipa,native.en,untagged
+3,54,The city of Niigata is in Japan.,1,0,en,the city of niigata,native.en,untagged
+4,794,The city of Yinchuan is in China.,1,0,en,the city of yinchuan,native.en,untagged
+5,1427,The city of Cankaya is in the United States.,0,0,en,the city of cankaya,native.en,untagged
+6,489,The city of Yerevan is in Bangladesh.,0,0,en,the city of yerevan,native.en,untagged
+7,445,The city of Bandar Lampung is in South Africa.,0,0,en,the city of bandar,native.en,untagged
+8,1079,The city of Kampala is in Turkey.,0,0,en,the city of kampala,native.en,untagged
+9,360,The city of Liuzhou is in China.,1,0,en,the city of liuzhou,native.en,untagged
+10,1133,The city of Kleinzschocher is in Brazil.,0,0,en,the city of kleinzschocher,native.en,untagged
+11,9,The city of Baoji is in Guatemala.,0,0,en,the city of baoji,native.en,untagged
+12,1049,The city of Huaibei is in Brazil.,0,0,en,the city of huaibei,native.en,untagged
+13,1061,The city of Dakar is in India.,0,0,en,the city of dakar,native.en,untagged
+14,789,The city of Port Said is in China.,0,0,en,the city of port,native.en,untagged
+15,557,The city of Culiacan is in China.,0,0,en,the city of culiacan,native.en,untagged
+16,613,The city of Hannover is in China.,0,0,en,the city of hannover,native.en,untagged
+17,580,The city of Cixi is in China.,1,0,en,the city of cixi,native.en,untagged
+18,1325,The city of Hiroshima is in Malaysia.,0,0,en,the city of hiroshima,native.en,untagged
+19,922,The city of Bekasi is in Indonesia.,1,0,en,the city of bekasi,native.en,untagged
+20,578,The city of Kunming is in China.,1,0,en,the city of kunming,native.en,untagged
+21,1169,The city of Jamshedpur is in China.,0,0,en,the city of jamshedpur,native.en,untagged
+22,1150,The city of Tabriz is in Iran.,1,0,en,the city of tabriz,native.en,untagged
+23,790,The city of Asyut is in Egypt.,1,0,en,the city of asyut,native.en,untagged
+24,279,The city of Accra is in China.,0,0,en,the city of accra,native.en,untagged
+25,1092,The city of Ribeirao Preto is in Brazil.,1,0,en,the city of ribeirao,native.en,untagged
+26,442,The city of Tolyatti is in Russia.,1,0,en,the city of tolyatti,native.en,untagged
+27,278,The city of Accra is in Ghana.,1,0,en,the city of accra,native.en,untagged
+28,540,The city of Diyarbakir is in Turkey.,1,0,en,the city of diyarbakir,native.en,untagged
+29,568,The city of Indore is in India.,1,0,en,the city of indore,native.en,untagged
+30,204,The city of Lipetsk is in Russia.,1,0,en,the city of lipetsk,native.en,untagged
+31,315,The city of Jilin is in the United States.,0,0,en,the city of jilin,native.en,untagged
+32,1017,The city of Wanxian is in Algeria.,0,0,en,the city of wanxian,native.en,untagged
+33,1425,The city of Esenler is in India.,0,0,en,the city of esenler,native.en,untagged
+34,1335,The city of Coimbatore is in Malaysia.,0,0,en,the city of coimbatore,native.en,untagged
+35,1156,The city of Kota Kinabalu is in Malaysia.,1,0,en,the city of kota,native.en,untagged
+36,152,The city of Bhubaneswar is in India.,1,0,en,the city of bhubaneswar,native.en,untagged
+37,182,The city of Porto Velho is in Brazil.,1,0,en,the city of porto,native.en,untagged
+38,202,The city of Sevastopol is in Ukraine.,1,0,en,the city of sevastopol,native.en,untagged
+39,319,The city of Jaboatao dos Guararapes is in Myanmar.,0,0,en,the city of jaboatao,native.en,untagged
+40,1282,The city of Dushanbe is in Tajikistan.,1,0,en,the city of dushanbe,native.en,untagged
+41,506,The city of Chattogram is in Bangladesh.,1,0,en,the city of chattogram,native.en,untagged
+42,1274,The city of Cuttack is in India.,1,0,en,the city of cuttack,native.en,untagged
+43,253,The city of Kumamoto is in China.,0,0,en,the city of kumamoto,native.en,untagged
+44,82,The city of Bucaramanga is in Colombia.,1,0,en,the city of bucaramanga,native.en,untagged
+45,347,The city of Joao Pessoa is in South Africa.,0,0,en,the city of joao,native.en,untagged
+46,443,The city of Tolyatti is in Ghana.,0,0,en,the city of tolyatti,native.en,untagged
+47,771,The city of Chennai is in China.,0,0,en,the city of chennai,native.en,untagged
+48,826,The city of Guang'an is in China.,1,0,en,the city of guang,native.en,untagged
+49,1069,The city of Makhachkala is in Indonesia.,0,0,en,the city of makhachkala,native.en,untagged
+50,122,The city of Seongnam-si is in South Korea.,1,0,en,the city of seongnam,native.en,untagged
+51,825,The city of Sanming is in Bulgaria.,0,0,en,the city of sanming,native.en,untagged
+52,471,The city of Zhumadian is in Brazil.,0,0,en,the city of zhumadian,native.en,untagged
+53,609,The city of Duesseldorf is in Mexico.,0,0,en,the city of duesseldorf,native.en,untagged
+54,1308,The city of Baise is in China.,1,0,en,the city of baise,native.en,untagged
+55,792,The city of Ziyang is in China.,1,0,en,the city of ziyang,native.en,untagged
+56,159,The city of Palembang is in Brazil.,0,0,en,the city of palembang,native.en,untagged
+57,233,The city of Qiqihar is in India.,0,0,en,the city of qiqihar,native.en,untagged
+58,1148,The city of Bokaro is in India.,1,0,en,the city of bokaro,native.en,untagged
+59,18,The city of Lu'an is in China.,1,0,en,the city of lu,native.en,untagged
+60,175,The city of Shaoxing is in the Philippines.,0,0,en,the city of shaoxing,native.en,untagged
+61,191,The city of Lyon is in Canada.,0,0,en,the city of lyon,native.en,untagged
+62,422,The city of Ahmedabad is in India.,1,0,en,the city of ahmedabad,native.en,untagged
+63,1358,The city of Tonghua is in China.,1,0,en,the city of tonghua,native.en,untagged
+64,427,The city of Hamadan is in Pakistan.,0,0,en,the city of hamadan,native.en,untagged
+65,679,The city of Xiamen is in Pakistan.,0,0,en,the city of xiamen,native.en,untagged
+66,538,The city of Kigali is in Rwanda.,1,0,en,the city of kigali,native.en,untagged
+67,1463,The city of Rostov-na-Donu is in the United Arab Emirates.,0,0,en,the city of rostov,native.en,untagged
+68,342,The city of Sarajevo is in Bosnia and Herzegovina.,1,0,en,the city of sarajevo,native.en,untagged
+69,231,The city of Yiwu is in India.,0,0,en,the city of yiwu,native.en,untagged
+70,1231,The city of New York City is in India.,0,0,en,the city of new,native.en,untagged
+71,436,The city of Baghdad is in Iraq.,1,0,en,the city of baghdad,native.en,untagged
+72,1300,The city of Putian is in China.,1,0,en,the city of putian,native.en,untagged
+73,1492,The city of Al Mawsil al Jadidah is in Iraq.,1,0,en,the city of al,native.en,untagged
+74,740,The city of Kharkiv is in Ukraine.,1,0,en,the city of kharkiv,native.en,untagged
+75,511,The city of Kaifeng is in Mexico.,0,0,en,the city of kaifeng,native.en,untagged
+76,761,The city of Nouakchott is in China.,0,0,en,the city of nouakchott,native.en,untagged
+77,1147,The city of Dhanbad is in Kenya.,0,0,en,the city of dhanbad,native.en,untagged
+78,1131,The city of Herat is in China.,0,0,en,the city of herat,native.en,untagged
+79,1254,The city of Chongqing is in China.,1,0,en,the city of chongqing,native.en,untagged
+80,935,The city of Nova Iguacu is in India.,0,0,en,the city of nova,native.en,untagged
+81,670,The city of Semarang is in Indonesia.,1,0,en,the city of semarang,native.en,untagged
+82,1097,The city of Samarkand is in China.,0,0,en,the city of samarkand,native.en,untagged
+83,1192,The city of Buraydah is in Saudi Arabia.,1,0,en,the city of buraydah,native.en,untagged
+84,1090,The city of Rio de Janeiro is in Brazil.,1,0,en,the city of rio,native.en,untagged
+85,785,The city of Recife is in North Korea.,0,0,en,the city of recife,native.en,untagged
+86,1056,The city of Antwerpen is in Belgium.,1,0,en,the city of antwerpen,native.en,untagged
+87,432,The city of Stockholm is in Sweden.,1,0,en,the city of stockholm,native.en,untagged
+88,1070,The city of Thiruvananthapuram is in India.,1,0,en,the city of thiruvananthapuram,native.en,untagged
+89,31,The city of Guatemala City is in Croatia.,0,0,en,the city of guatemala,native.en,untagged
+90,512,The city of Heze is in China.,1,0,en,the city of heze,native.en,untagged
+91,1430,The city of Rawalpindi is in Pakistan.,1,0,en,the city of rawalpindi,native.en,untagged
+92,565,The city of Benin City is in China.,0,0,en,the city of benin,native.en,untagged
+93,464,The city of Taiz is in Yemen.,1,0,en,the city of taiz,native.en,untagged
+94,943,The city of Fukuoka is in Senegal.,0,0,en,the city of fukuoka,native.en,untagged
+95,1283,The city of Dushanbe is in Nigeria.,0,0,en,the city of dushanbe,native.en,untagged
+96,1447,The city of Cape Town is in China.,0,0,en,the city of cape,native.en,untagged
+97,260,The city of Jalandhar is in India.,1,0,en,the city of jalandhar,native.en,untagged
+98,308,The city of Xuchang is in China.,1,0,en,the city of xuchang,native.en,untagged
+99,1305,The city of Lanzhou is in Mexico.,0,0,en,the city of lanzhou,native.en,untagged
+100,1088,The city of Curitiba is in Brazil.,1,0,en,the city of curitiba,native.en,untagged
+101,412,The city of Kagoshima is in Japan.,1,0,en,the city of kagoshima,native.en,untagged
+102,4,The city of Maracay is in Venezuela.,1,0,en,the city of maracay,native.en,untagged
+103,1303,The city of Luzhou is in Peru.,0,0,en,the city of luzhou,native.en,untagged
+104,89,The city of Abuja is in China.,0,0,en,the city of abuja,native.en,untagged
+105,438,The city of Al Basrah al Qadimah is in Iraq.,1,0,en,the city of al,native.en,untagged
+106,482,The city of Bengbu is in China.,1,0,en,the city of bengbu,native.en,untagged
+107,34,The city of Tokyo is in Japan.,1,0,en,the city of tokyo,native.en,untagged
+108,984,The city of Chizhou is in China.,1,0,en,the city of chizhou,native.en,untagged
+109,1259,The city of Winnipeg is in Mexico.,0,0,en,the city of winnipeg,native.en,untagged
+110,1438,The city of Ibadan is in Nigeria.,1,0,en,the city of ibadan,native.en,untagged
+111,52,The city of Serang is in Indonesia.,1,0,en,the city of serang,native.en,untagged
+112,553,The city of Cheonan is in Myanmar.,0,0,en,the city of cheonan,native.en,untagged
+113,310,The city of Changde is in China.,1,0,en,the city of changde,native.en,untagged
+114,1371,The city of Bien Hoa is in South Korea.,0,0,en,the city of bien,native.en,untagged
+115,1212,The city of Sao Paulo is in Brazil.,1,0,en,the city of sao,native.en,untagged
+116,425,The city of Sulaymaniyah is in Turkey.,0,0,en,the city of sulaymaniyah,native.en,untagged
+117,575,The city of Wenzhou is in Moldova.,0,0,en,the city of wenzhou,native.en,untagged
+118,317,The city of Manaus is in Turkey.,0,0,en,the city of manaus,native.en,untagged
+119,1370,The city of Bien Hoa is in Vietnam.,1,0,en,the city of bien,native.en,untagged
+120,898,The city of Kalininskiy is in Russia.,1,0,en,the city of kalininskiy,native.en,untagged
+121,14,The city of Yongzhou is in China.,1,0,en,the city of yongzhou,native.en,untagged
+122,1030,The city of Sorocaba is in Brazil.,1,0,en,the city of sorocaba,native.en,untagged
+123,1343,The city of Ilorin is in Ukraine.,0,0,en,the city of ilorin,native.en,untagged
+124,141,The city of Basrah is in China.,0,0,en,the city of basrah,native.en,untagged
+125,192,The city of Suez is in Egypt.,1,0,en,the city of suez,native.en,untagged
+126,615,The city of Penza is in China.,0,0,en,the city of penza,native.en,untagged
+127,53,The city of Serang is in Poland.,0,0,en,the city of serang,native.en,untagged
+128,838,The city of Dortmund is in Germany.,1,0,en,the city of dortmund,native.en,untagged
+129,1413,The city of Quebec is in Zimbabwe.,0,0,en,the city of quebec,native.en,untagged
+130,1292,The city of Xining is in China.,1,0,en,the city of xining,native.en,untagged
+131,974,The city of Krasnoyarsk is in Russia.,1,0,en,the city of krasnoyarsk,native.en,untagged
+132,227,The city of Neijiang is in Ghana.,0,0,en,the city of neijiang,native.en,untagged
+133,1313,The city of Daqing is in Brazil.,0,0,en,the city of daqing,native.en,untagged
+134,891,The city of Sanya is in India.,0,0,en,the city of sanya,native.en,untagged
+135,610,The city of Zagreb is in Croatia.,1,0,en,the city of zagreb,native.en,untagged
+136,1232,The city of Bulawayo is in Zimbabwe.,1,0,en,the city of bulawayo,native.en,untagged
+137,1101,The city of Tomsk is in Ghana.,0,0,en,the city of tomsk,native.en,untagged
+138,638,The city of Ar Raqqah is in Syria.,1,0,en,the city of ar,native.en,untagged
+139,880,The city of Daejeon is in South Korea.,1,0,en,the city of daejeon,native.en,untagged
+140,5,The city of Maracay is in China.,0,0,en,the city of maracay,native.en,untagged
+141,530,The city of Dar es Salaam is in Tanzania.,1,0,en,the city of dar,native.en,untagged
+142,520,The city of Pimpri is in India.,1,0,en,the city of pimpri,native.en,untagged
+143,22,The city of Huaihua is in China.,1,0,en,the city of huaihua,native.en,untagged
+144,1029,The city of Brazzaville is in Nigeria.,0,0,en,the city of brazzaville,native.en,untagged
+145,1319,The city of Gold Coast is in China.,0,0,en,the city of gold,native.en,untagged
+146,1083,The city of Milwaukee is in China.,0,0,en,the city of milwaukee,native.en,untagged
+147,1422,The city of Ankara is in Turkey.,1,0,en,the city of ankara,native.en,untagged
+148,354,The city of Wuhan is in China.,1,0,en,the city of wuhan,native.en,untagged
+149,678,The city of Xiamen is in China.,1,0,en,the city of xiamen,native.en,untagged
+150,1372,The city of Durban is in South Africa.,1,0,en,the city of durban,native.en,untagged
+151,1108,The city of Izhevsk is in Russia.,1,0,en,the city of izhevsk,native.en,untagged
+152,187,The city of Kayseri is in Iraq.,0,0,en,the city of kayseri,native.en,untagged
+153,295,The city of Libreville is in the United States.,0,0,en,the city of libreville,native.en,untagged
+154,904,The city of Tegucigalpa is in Honduras.,1,0,en,the city of tegucigalpa,native.en,untagged
+155,744,The city of Lviv is in Ukraine.,1,0,en,the city of lviv,native.en,untagged
+156,364,The city of Bijie is in China.,1,0,en,the city of bijie,native.en,untagged
+157,303,The city of Karol Bagh is in Syria.,0,0,en,the city of karol,native.en,untagged
+158,808,The city of Lusaka is in Zambia.,1,0,en,the city of lusaka,native.en,untagged
+159,27,The city of Yingkou is in the Philippines.,0,0,en,the city of yingkou,native.en,untagged
+160,1357,The city of Suqian is in Mexico.,0,0,en,the city of suqian,native.en,untagged
+161,1320,The city of Ouagadougou is in Burkina Faso.,1,0,en,the city of ouagadougou,native.en,untagged
+162,907,The city of Koeln is in Nigeria.,0,0,en,the city of koeln,native.en,untagged
+163,921,The city of Kallakurichi is in Iraq.,0,0,en,the city of kallakurichi,native.en,untagged
+164,965,The city of Lome is in Yemen.,0,0,en,the city of lome,native.en,untagged
+165,1054,The city of Fortaleza is in Brazil.,1,0,en,the city of fortaleza,native.en,untagged
+166,142,The city of Qom is in Iran.,1,0,en,the city of qom,native.en,untagged
+167,211,The city of Cebu City is in China.,0,0,en,the city of cebu,native.en,untagged
+168,362,The city of Guangyuan is in China.,1,0,en,the city of guangyuan,native.en,untagged
+169,569,The city of Indore is in Turkey.,0,0,en,the city of indore,native.en,untagged
+170,820,The city of Kunshan is in China.,1,0,en,the city of kunshan,native.en,untagged
+171,1191,The city of Barnaul is in South Africa.,0,0,en,the city of barnaul,native.en,untagged
+172,667,The city of Aligarh is in China.,0,0,en,the city of aligarh,native.en,untagged
+173,2,The city of Lodz is in Poland.,1,0,en,the city of lodz,native.en,untagged
+174,1073,The city of Madurai is in Burundi.,0,0,en,the city of madurai,native.en,untagged
+175,85,The city of Niamey is in China.,0,0,en,the city of niamey,native.en,untagged
+176,219,The city of Xuzhou is in Mexico.,0,0,en,the city of xuzhou,native.en,untagged
+177,107,The city of Konya is in Russia.,0,0,en,the city of konya,native.en,untagged
+178,787,The city of Contagem is in Indonesia.,0,0,en,the city of contagem,native.en,untagged
+179,148,The city of Naucalpan de Juarez is in Mexico.,1,0,en,the city of naucalpan,native.en,untagged
+180,1086,The city of Uberlandia is in Brazil.,1,0,en,the city of uberlandia,native.en,untagged
+181,517,The city of Jeonju is in the United States.,0,0,en,the city of jeonju,native.en,untagged
+182,1255,The city of Chongqing is in Sweden.,0,0,en,the city of chongqing,native.en,untagged
+183,376,The city of Ansan-si is in South Korea.,1,0,en,the city of ansan,native.en,untagged
+184,997,The city of Wroclaw is in Mexico.,0,0,en,the city of wroclaw,native.en,untagged
+185,842,The city of Latakia is in Syria.,1,0,en,the city of latakia,native.en,untagged
+186,1263,The city of Irbid is in India.,0,0,en,the city of irbid,native.en,untagged
+187,80,The city of Panzhihua is in China.,1,0,en,the city of panzhihua,native.en,untagged
+188,619,The city of Enugu is in South Korea.,0,0,en,the city of enugu,native.en,untagged
+189,1393,The city of Denpasar is in Brazil.,0,0,en,the city of denpasar,native.en,untagged
+190,674,The city of Korla is in China.,1,0,en,the city of korla,native.en,untagged
+191,19,The city of Lu'an is in Turkey.,0,0,en,the city of lu,native.en,untagged
+192,805,The city of Dandong is in Niger.,0,0,en,the city of dandong,native.en,untagged
+193,96,The city of Boumerdes is in Algeria.,1,0,en,the city of boumerdes,native.en,untagged
+194,420,The city of Cochin is in India.,1,0,en,the city of cochin,native.en,untagged
+195,178,The city of Mudanjiang is in China.,1,0,en,the city of mudanjiang,native.en,untagged
+196,254,The city of Daegu is in South Korea.,1,0,en,the city of daegu,native.en,untagged
+197,223,The city of Santo Domingo Oeste is in Zambia.,0,0,en,the city of santo,native.en,untagged
+198,390,The city of New Kingston is in Jamaica.,1,0,en,the city of new,native.en,untagged
+199,962,The city of Shiraz is in Iran.,1,0,en,the city of shiraz,native.en,untagged
+200,381,The city of Coyoacan is in Kenya.,0,0,en,the city of coyoacan,native.en,untagged
+201,944,The city of Goyang-si is in South Korea.,1,0,en,the city of goyang,native.en,untagged
+202,1,The city of Krasnodar is in South Africa.,0,0,en,the city of krasnodar,native.en,untagged
+203,477,The city of Xianyang is in Russia.,0,0,en,the city of xianyang,native.en,untagged
+204,1309,The city of Baise is in Japan.,0,0,en,the city of baise,native.en,untagged
+205,483,The city of Bengbu is in India.,0,0,en,the city of bengbu,native.en,untagged
+206,1235,The city of Santiago de Cuba is in India.,0,0,en,the city of santiago,native.en,untagged
+207,333,The city of Balikpapan is in Japan.,0,0,en,the city of balikpapan,native.en,untagged
+208,881,The city of Daejeon is in India.,0,0,en,the city of daejeon,native.en,untagged
+209,991,The city of Samarinda is in Iraq.,0,0,en,the city of samarinda,native.en,untagged
+210,161,The city of Novokuznetsk is in China.,0,0,en,the city of novokuznetsk,native.en,untagged
+211,309,The city of Xuchang is in Japan.,0,0,en,the city of xuchang,native.en,untagged
+212,720,The city of Cancun is in Mexico.,1,0,en,the city of cancun,native.en,untagged
+213,1132,The city of Kleinzschocher is in Germany.,1,0,en,the city of kleinzschocher,native.en,untagged
+214,1031,The city of Sorocaba is in Mexico.,0,0,en,the city of sorocaba,native.en,untagged
+215,516,The city of Jeonju is in South Korea.,1,0,en,the city of jeonju,native.en,untagged
+216,461,The city of Qionghai is in Ecuador.,0,0,en,the city of qionghai,native.en,untagged
+217,113,The city of Poznan is in Mexico.,0,0,en,the city of poznan,native.en,untagged
+218,1317,The city of Kandahar is in China.,0,0,en,the city of kandahar,native.en,untagged
+219,946,The city of Meknes is in Morocco.,1,0,en,the city of meknes,native.en,untagged
+220,994,The city of Khabarovsk Vtoroy is in Russia.,1,0,en,the city of khabarovsk,native.en,untagged
+221,979,The city of Pingliang is in Tanzania.,0,0,en,the city of pingliang,native.en,untagged
+222,906,The city of Koeln is in Germany.,1,0,en,the city of koeln,native.en,untagged
+223,298,The city of Algiers is in Algeria.,1,0,en,the city of algiers,native.en,untagged
+224,1417,The city of Mar del Plata is in Nigeria.,0,0,en,the city of mar,native.en,untagged
+225,215,The city of Maturin is in Saudi Arabia.,0,0,en,the city of maturin,native.en,untagged
+226,268,The city of Al Fayyum is in Egypt.,1,0,en,the city of al,native.en,untagged
+227,393,The city of Pyongyang is in Argentina.,0,0,en,the city of pyongyang,native.en,untagged
+228,45,The city of Nowrangapur is in Vietnam.,0,0,en,the city of nowrangapur,native.en,untagged
+229,322,The city of Agadir is in Morocco.,1,0,en,the city of agadir,native.en,untagged
+230,1490,The city of Kirkuk is in Iraq.,1,0,en,the city of kirkuk,native.en,untagged
+231,55,The city of Niigata is in Yemen.,0,0,en,the city of niigata,native.en,untagged
+232,649,The city of Qinhuangdao is in Eritrea.,0,0,en,the city of qinhuangdao,native.en,untagged
+233,831,The city of Dongying is in India.,0,0,en,the city of dongying,native.en,untagged
+234,1318,The city of Gold Coast is in Australia.,1,0,en,the city of gold,native.en,untagged
+235,481,The city of Pingdingshan is in South Africa.,0,0,en,the city of pingdingshan,native.en,untagged
+236,963,The city of Shiraz is in China.,0,0,en,the city of shiraz,native.en,untagged
+237,1421,The city of Bujumbura is in Nigeria.,0,0,en,the city of bujumbura,native.en,untagged
+238,581,The city of Cixi is in Indonesia.,0,0,en,the city of cixi,native.en,untagged
+239,224,The city of Tangshan is in China.,1,0,en,the city of tangshan,native.en,untagged
+240,1405,The city of Nanning is in Japan.,0,0,en,the city of nanning,native.en,untagged
+241,1219,The city of Taicang is in Madagascar.,0,0,en,the city of taicang,native.en,untagged
+242,1260,The city of Klang is in Malaysia.,1,0,en,the city of klang,native.en,untagged
+243,218,The city of Xuzhou is in China.,1,0,en,the city of xuzhou,native.en,untagged
+244,567,The city of Kanpur is in Brazil.,0,0,en,the city of kanpur,native.en,untagged
+245,572,The city of Zhanjiang is in China.,1,0,en,the city of zhanjiang,native.en,untagged
+246,1203,The city of Thuan An is in Mozambique.,0,0,en,the city of thuan,native.en,untagged
+247,1050,The city of Hebi is in China.,1,0,en,the city of hebi,native.en,untagged
+248,695,The city of Lubumbashi is in India.,0,0,en,the city of lubumbashi,native.en,untagged
+249,1233,The city of Bulawayo is in China.,0,0,en,the city of bulawayo,native.en,untagged
+250,1116,The city of Rui'an is in China.,1,0,en,the city of rui,native.en,untagged
+251,1041,The city of Asansol is in China.,0,0,en,the city of asansol,native.en,untagged
+252,713,The city of Al Ahmadi is in Japan.,0,0,en,the city of al,native.en,untagged
+253,299,The city of Algiers is in China.,0,0,en,the city of algiers,native.en,untagged
+254,108,The city of Macapa is in Brazil.,1,0,en,the city of macapa,native.en,untagged
+255,435,The city of Siliguri is in China.,0,0,en,the city of siliguri,native.en,untagged
+256,1485,The city of Puducherry is in Brazil.,0,0,en,the city of puducherry,native.en,untagged
+257,923,The city of Bekasi is in China.,0,0,en,the city of bekasi,native.en,untagged
+258,302,The city of Karol Bagh is in India.,1,0,en,the city of karol,native.en,untagged
+259,620,The city of Shizuoka is in Japan.,1,0,en,the city of shizuoka,native.en,untagged
+260,968,The city of Seattle is in the United States.,1,0,en,the city of seattle,native.en,untagged
+261,1002,The city of Ryazan' is in Russia.,1,0,en,the city of ryazan,native.en,untagged
+262,549,The city of Sapporo is in Mexico.,0,0,en,the city of sapporo,native.en,untagged
+263,1072,The city of Madurai is in India.,1,0,en,the city of madurai,native.en,untagged
+264,361,The city of Liuzhou is in Russia.,0,0,en,the city of liuzhou,native.en,untagged
+265,1336,The city of Chandigarh is in India.,1,0,en,the city of chandigarh,native.en,untagged
+266,654,The city of Beijing is in China.,1,0,en,the city of beijing,native.en,untagged
+267,651,The city of Meizhou is in Russia.,0,0,en,the city of meizhou,native.en,untagged
+268,1489,The city of Kanayannur is in Saudi Arabia.,0,0,en,the city of kanayannur,native.en,untagged
+269,864,The city of Voronezh is in Russia.,1,0,en,the city of voronezh,native.en,untagged
+270,1095,The city of The Bronx is in South Korea.,0,0,en,the city of the,native.en,untagged
+271,184,The city of N'Djamena is in Chad.,1,0,en,the city of n,native.en,untagged
+272,657,The city of Shah Alam is in China.,0,0,en,the city of shah,native.en,untagged
+273,1386,The city of Kolkata is in India.,1,0,en,the city of kolkata,native.en,untagged
+274,1278,The city of Yekaterinburg is in Russia.,1,0,en,the city of yekaterinburg,native.en,untagged
+275,1385,The city of Faridabad is in the United States.,0,0,en,the city of faridabad,native.en,untagged
+276,861,The city of Vladivostok is in Romania.,0,0,en,the city of vladivostok,native.en,untagged
+277,1418,The city of Salta is in Argentina.,1,0,en,the city of salta,native.en,untagged
+278,688,The city of Shuangyashan is in China.,1,0,en,the city of shuangyashan,native.en,untagged
+279,1059,The city of Pikine is in Pakistan.,0,0,en,the city of pikine,native.en,untagged
+280,579,The city of Kunming is in Mexico.,0,0,en,the city of kunming,native.en,untagged
+281,1121,The city of Jiujiang is in Indonesia.,0,0,en,the city of jiujiang,native.en,untagged
+282,1439,The city of Ibadan is in Malaysia.,0,0,en,the city of ibadan,native.en,untagged
+283,621,The city of Shizuoka is in China.,0,0,en,the city of shizuoka,native.en,untagged
+284,936,The city of Abeokuta is in Nigeria.,1,0,en,the city of abeokuta,native.en,untagged
+285,47,The city of Sambhaji Nagar is in China.,0,0,en,the city of sambhaji,native.en,untagged
+286,618,The city of Enugu is in Nigeria.,1,0,en,the city of enugu,native.en,untagged
+287,644,The city of Wanzhou is in China.,1,0,en,the city of wanzhou,native.en,untagged
+288,220,The city of Cucuta is in Colombia.,1,0,en,the city of cucuta,native.en,untagged
+289,452,The city of Abobo is in Côte d'Ivoire.,1,0,en,the city of abobo,native.en,untagged
+290,1373,The city of Durban is in Ukraine.,0,0,en,the city of durban,native.en,untagged
+291,863,The city of Adana is in Togo.,0,0,en,the city of adana,native.en,untagged
+292,1294,The city of Tanggu is in China.,1,0,en,the city of tanggu,native.en,untagged
+293,491,The city of Albuquerque is in Egypt.,0,0,en,the city of albuquerque,native.en,untagged
+294,1136,The city of Sargodha is in Pakistan.,1,0,en,the city of sargodha,native.en,untagged
+295,1051,The city of Hebi is in Nigeria.,0,0,en,the city of hebi,native.en,untagged
+296,140,The city of Basrah is in Iraq.,1,0,en,the city of basrah,native.en,untagged
+297,1105,The city of Bangkok is in China.,0,0,en,the city of bangkok,native.en,untagged
+298,467,The city of Tembisa is in the Philippines.,0,0,en,the city of tembisa,native.en,untagged
+299,39,The city of Ulsan is in South Africa.,0,0,en,the city of ulsan,native.en,untagged
+300,414,The city of Hamamatsu is in Japan.,1,0,en,the city of hamamatsu,native.en,untagged
+301,672,The city of Khulna is in Bangladesh.,1,0,en,the city of khulna,native.en,untagged
+302,981,The city of Puning is in India.,0,0,en,the city of puning,native.en,untagged
+303,781,The city of Budapest is in Iraq.,0,0,en,the city of budapest,native.en,untagged
+304,434,The city of Siliguri is in India.,1,0,en,the city of siliguri,native.en,untagged
+305,527,The city of Goeteborg is in South Korea.,0,0,en,the city of goeteborg,native.en,untagged
+306,682,The city of Maoming is in China.,1,0,en,the city of maoming,native.en,untagged
+307,757,The city of Chiclayo is in Venezuela.,0,0,en,the city of chiclayo,native.en,untagged
+308,1184,The city of Leon de los Aldama is in Mexico.,1,0,en,the city of leon,native.en,untagged
+309,330,The city of Rahim Yar Khan is in Pakistan.,1,0,en,the city of rahim,native.en,untagged
+310,1140,The city of Zapopan is in Mexico.,1,0,en,the city of zapopan,native.en,untagged
+311,58,The city of Makati City is in the Philippines.,1,0,en,the city of makati,native.en,untagged
+312,241,The city of Ciudad Nezahualcoyotl is in Senegal.,0,0,en,the city of ciudad,native.en,untagged
+313,326,The city of Muscat is in Oman.,1,0,en,the city of muscat,native.en,untagged
+314,824,The city of Sanming is in China.,1,0,en,the city of sanming,native.en,untagged
+315,646,The city of Anyang is in China.,1,0,en,the city of anyang,native.en,untagged
+316,1488,The city of Kanayannur is in India.,1,0,en,the city of kanayannur,native.en,untagged
+317,56,The city of Marrakesh is in Morocco.,1,0,en,the city of marrakesh,native.en,untagged
+318,703,The city of Sao Bernardo do Campo is in Zambia.,0,0,en,the city of sao,native.en,untagged
+319,642,The city of Johannesburg is in South Africa.,1,0,en,the city of johannesburg,native.en,untagged
+320,526,The city of Goeteborg is in Sweden.,1,0,en,the city of goeteborg,native.en,untagged
+321,1453,The city of Maiduguri is in China.,0,0,en,the city of maiduguri,native.en,untagged
+322,1122,The city of Jiaozuo is in China.,1,0,en,the city of jiaozuo,native.en,untagged
+323,676,The city of Zaozhuang is in China.,1,0,en,the city of zaozhuang,native.en,untagged
+324,717,The city of Lilongwe is in Turkey.,0,0,en,the city of lilongwe,native.en,untagged
+325,546,The city of Osaka is in Japan.,1,0,en,the city of osaka,native.en,untagged
+326,29,The city of Panshan is in Japan.,0,0,en,the city of panshan,native.en,untagged
+327,270,The city of Rizhao is in China.,1,0,en,the city of rizhao,native.en,untagged
+328,1394,The city of Batam is in Indonesia.,1,0,en,the city of batam,native.en,untagged
+329,1200,The city of Port-au-Prince is in Haiti.,1,0,en,the city of port,native.en,untagged
+330,114,The city of Linyi is in China.,1,0,en,the city of linyi,native.en,untagged
+331,1352,The city of Zhaoqing is in China.,1,0,en,the city of zhaoqing,native.en,untagged
+332,729,The city of Zaria is in India.,0,0,en,the city of zaria,native.en,untagged
+333,1375,The city of Kawaguchi is in Indonesia.,0,0,en,the city of kawaguchi,native.en,untagged
+334,124,The city of Matsuyama is in Japan.,1,0,en,the city of matsuyama,native.en,untagged
+335,198,The city of Mukalla is in Yemen.,1,0,en,the city of mukalla,native.en,untagged
+336,1331,The city of Nampula is in India.,0,0,en,the city of nampula,native.en,untagged
+337,1246,The city of Langfang is in China.,1,0,en,the city of langfang,native.en,untagged
+338,798,The city of Shanghai is in China.,1,0,en,the city of shanghai,native.en,untagged
+339,1399,The city of Shangrao is in Russia.,0,0,en,the city of shangrao,native.en,untagged
+340,602,The city of Deyang is in China.,1,0,en,the city of deyang,native.en,untagged
+341,1115,The city of Sanmenxia is in Brazil.,0,0,en,the city of sanmenxia,native.en,untagged
+342,1145,The city of Rourkela is in Brazil.,0,0,en,the city of rourkela,native.en,untagged
+343,1114,The city of Sanmenxia is in China.,1,0,en,the city of sanmenxia,native.en,untagged
+344,1249,The city of Jinan is in Rwanda.,0,0,en,the city of jinan,native.en,untagged
+345,558,The city of Kaduna is in Nigeria.,1,0,en,the city of kaduna,native.en,untagged
+346,1096,The city of Samarkand is in Uzbekistan.,1,0,en,the city of samarkand,native.en,untagged
+347,1125,The city of Jiangmen is in South Korea.,0,0,en,the city of jiangmen,native.en,untagged
+348,1258,The city of Winnipeg is in Canada.,1,0,en,the city of winnipeg,native.en,untagged
+349,1261,The city of Klang is in China.,0,0,en,the city of klang,native.en,untagged
+350,969,The city of Seattle is in Yemen.,0,0,en,the city of seattle,native.en,untagged
+351,494,The city of Calgary is in Canada.,1,0,en,the city of calgary,native.en,untagged
+352,1495,The city of Tangerang is in China.,0,0,en,the city of tangerang,native.en,untagged
+353,795,The city of Yinchuan is in Bangladesh.,0,0,en,the city of yinchuan,native.en,untagged
+354,61,The city of Tirunelveli is in China.,0,0,en,the city of tirunelveli,native.en,untagged
+355,574,The city of Wenzhou is in China.,1,0,en,the city of wenzhou,native.en,untagged
+356,844,The city of Ashgabat is in Turkmenistan.,1,0,en,the city of ashgabat,native.en,untagged
+357,92,The city of Odesa is in Ukraine.,1,0,en,the city of odesa,native.en,untagged
+358,892,The city of Foshan is in China.,1,0,en,the city of foshan,native.en,untagged
+359,693,The city of Minsk is in South Korea.,0,0,en,the city of minsk,native.en,untagged
+360,721,The city of Cancun is in Myanmar.,0,0,en,the city of cancun,native.en,untagged
+361,40,The city of Warangal is in India.,1,0,en,the city of warangal,native.en,untagged
+362,1026,The city of Jiangyin is in China.,1,0,en,the city of jiangyin,native.en,untagged
+363,75,The city of Jiaozhou is in Latvia.,0,0,en,the city of jiaozhou,native.en,untagged
+364,474,The city of Ya'an is in China.,1,0,en,the city of ya,native.en,untagged
+365,1458,The city of Las Pinas is in the Philippines.,1,0,en,the city of las,native.en,untagged
+366,742,The city of Malatya is in Turkey.,1,0,en,the city of malatya,native.en,untagged
+367,1000,The city of Caloocan City is in the Philippines.,1,0,en,the city of caloocan,native.en,untagged
+368,247,The city of Kampung Baru Subang is in the Philippines.,0,0,en,the city of kampung,native.en,untagged
+369,656,The city of Shah Alam is in Malaysia.,1,0,en,the city of shah,native.en,untagged
+370,716,The city of Lilongwe is in Malawi.,1,0,en,the city of lilongwe,native.en,untagged
+371,887,The city of Zhangzhou is in Nicaragua.,0,0,en,the city of zhangzhou,native.en,untagged
+372,186,The city of Kayseri is in Turkey.,1,0,en,the city of kayseri,native.en,untagged
+373,156,The city of Kumasi is in Ghana.,1,0,en,the city of kumasi,native.en,untagged
+374,1182,The city of Mexico City is in Mexico.,1,0,en,the city of mexico,native.en,untagged
+375,312,The city of Shaoguan is in China.,1,0,en,the city of shaoguan,native.en,untagged
+376,8,The city of Baoji is in China.,1,0,en,the city of baoji,native.en,untagged
+377,465,The city of Taiz is in Burkina Faso.,0,0,en,the city of taiz,native.en,untagged
+378,1368,The city of Caracas is in Venezuela.,1,0,en,the city of caracas,native.en,untagged
+379,1493,The city of Al Mawsil al Jadidah is in India.,0,0,en,the city of al,native.en,untagged
+380,934,The city of Nova Iguacu is in Brazil.,1,0,en,the city of nova,native.en,untagged
+381,1353,The city of Zhaoqing is in Brazil.,0,0,en,the city of zhaoqing,native.en,untagged
+382,1299,The city of Shangluo is in Honduras.,0,0,en,the city of shangluo,native.en,untagged
+383,879,The city of Okayama is in Russia.,0,0,en,the city of okayama,native.en,untagged
+384,473,The city of Zhengzhou is in Brazil.,0,0,en,the city of zhengzhou,native.en,untagged
+385,853,The city of Nasiriyah is in Rwanda.,0,0,en,the city of nasiriyah,native.en,untagged
+386,686,The city of Siping is in China.,1,0,en,the city of siping,native.en,untagged
+387,1034,The city of Chisinau is in Moldova.,1,0,en,the city of chisinau,native.en,untagged
+388,1062,The city of Faisalabad is in Pakistan.,1,0,en,the city of faisalabad,native.en,untagged
+389,446,The city of Tucson is in the United States.,1,0,en,the city of tucson,native.en,untagged
+390,960,The city of Amravati is in India.,1,0,en,the city of amravati,native.en,untagged
+391,1166,The city of Ludhiana is in India.,1,0,en,the city of ludhiana,native.en,untagged
+392,479,The city of Weihai is in Russia.,0,0,en,the city of weihai,native.en,untagged
+393,828,The city of Ma'anshan is in China.,1,0,en,the city of ma,native.en,untagged
+394,634,The city of Astrakhan is in Russia.,1,0,en,the city of astrakhan,native.en,untagged
+395,704,The city of Feira de Santana is in Brazil.,1,0,en,the city of feira,native.en,untagged
+396,408,The city of Warri is in Nigeria.,1,0,en,the city of warri,native.en,untagged
+397,536,The city of Yaroslavl is in Russia.,1,0,en,the city of yaroslavl,native.en,untagged
+398,590,The city of Malang is in Indonesia.,1,0,en,the city of malang,native.en,untagged
+399,1441,The city of Managua is in Turkey.,0,0,en,the city of managua,native.en,untagged
+400,685,The city of Anshun is in Brazil.,0,0,en,the city of anshun,native.en,untagged
+401,883,The city of Battagram is in Tanzania.,0,0,en,the city of battagram,native.en,untagged
+402,751,The city of Onitsha is in China.,0,0,en,the city of onitsha,native.en,untagged
+403,528,The city of Bursa is in Turkey.,1,0,en,the city of bursa,native.en,untagged
+404,513,The city of Heze is in Yemen.,0,0,en,the city of heze,native.en,untagged
+405,971,The city of Barquisimeto is in Poland.,0,0,en,the city of barquisimeto,native.en,untagged
+406,440,The city of Krakow is in Poland.,1,0,en,the city of krakow,native.en,untagged
+407,401,The city of Zaporizhzhya is in South Korea.,0,0,en,the city of zaporizhzhya,native.en,untagged
+408,1276,The city of Makassar is in Indonesia.,1,0,en,the city of makassar,native.en,untagged
+409,1333,The city of Mysore is in Mexico.,0,0,en,the city of mysore,native.en,untagged
+410,874,The city of Shivaji Nagar is in India.,1,0,en,the city of shivaji,native.en,untagged
+411,725,The city of Conakry is in Belarus.,0,0,en,the city of conakry,native.en,untagged
+412,1322,The city of Duque de Caxias is in Brazil.,1,0,en,the city of duque,native.en,untagged
+413,1484,The city of Puducherry is in India.,1,0,en,the city of puducherry,native.en,untagged
+414,1382,The city of Ulhasnagar is in India.,1,0,en,the city of ulhasnagar,native.en,untagged
+415,666,The city of Aligarh is in India.,1,0,en,the city of aligarh,native.en,untagged
+416,1076,The city of Karaj is in Iran.,1,0,en,the city of karaj,native.en,untagged
+417,985,The city of Chizhou is in the Republic of the Congo.,0,0,en,the city of chizhou,native.en,untagged
+418,1348,The city of Gujranwala is in Pakistan.,1,0,en,the city of gujranwala,native.en,untagged
+419,632,The city of Dubai is in the United Arab Emirates.,1,0,en,the city of dubai,native.en,untagged
+420,259,The city of Ranchi is in Venezuela.,0,0,en,the city of ranchi,native.en,untagged
+421,1342,The city of Ilorin is in Nigeria.,1,0,en,the city of ilorin,native.en,untagged
+422,519,The city of Almaty is in Iraq.,0,0,en,the city of almaty,native.en,untagged
+423,989,The city of Cangzhou is in Germany.,0,0,en,the city of cangzhou,native.en,untagged
+424,458,The city of Xiangtan is in China.,1,0,en,the city of xiangtan,native.en,untagged
+425,857,The city of Surakarta is in India.,0,0,en,the city of surakarta,native.en,untagged
+426,251,The city of Maputo is in Japan.,0,0,en,the city of maputo,native.en,untagged
+427,411,The city of Peshawar is in Tanzania.,0,0,en,the city of peshawar,native.en,untagged
+428,529,The city of Bursa is in Bosnia and Herzegovina.,0,0,en,the city of bursa,native.en,untagged
+429,249,The city of Subang Jaya is in Germany.,0,0,en,the city of subang,native.en,untagged
+430,1128,The city of Harbin is in China.,1,0,en,the city of harbin,native.en,untagged
+431,1089,The city of Curitiba is in India.,0,0,en,the city of curitiba,native.en,untagged
+432,938,The city of Amman is in Jordan.,1,0,en,the city of amman,native.en,untagged
+433,1390,The city of Jakarta is in Indonesia.,1,0,en,the city of jakarta,native.en,untagged
+434,426,The city of Hamadan is in Iran.,1,0,en,the city of hamadan,native.en,untagged
+435,1466,The city of Copenhagen is in Denmark.,1,0,en,the city of copenhagen,native.en,untagged
+436,539,The city of Kigali is in Indonesia.,0,0,en,the city of kigali,native.en,untagged
+437,1374,The city of Kawaguchi is in Japan.,1,0,en,the city of kawaguchi,native.en,untagged
+438,1327,The city of Saitama is in India.,0,0,en,the city of saitama,native.en,untagged
+439,542,The city of Tyumen is in Russia.,1,0,en,the city of tyumen,native.en,untagged
+440,1248,The city of Jinan is in China.,1,0,en,the city of jinan,native.en,untagged
+441,810,The city of Aden is in Yemen.,1,0,en,the city of aden,native.en,untagged
+442,867,The city of Namangan is in India.,0,0,en,the city of namangan,native.en,untagged
+443,1412,The city of Quebec is in Canada.,1,0,en,the city of quebec,native.en,untagged
+444,1351,The city of Nizhniy Novgorod is in China.,0,0,en,the city of nizhniy,native.en,untagged
+445,829,The city of Ma'anshan is in India.,0,0,en,the city of ma,native.en,untagged
+446,896,The city of Al Ain City is in the United Arab Emirates.,1,0,en,the city of al,native.en,untagged
+447,501,The city of Sao Jose dos Campos is in Iran.,0,0,en,the city of sao,native.en,untagged
+448,1036,The city of Tiruppur is in India.,1,0,en,the city of tiruppur,native.en,untagged
+449,1100,The city of Tomsk is in Russia.,1,0,en,the city of tomsk,native.en,untagged
+450,1440,The city of Managua is in Nicaragua.,1,0,en,the city of managua,native.en,untagged
+451,431,The city of Ta'if is in Venezuela.,0,0,en,the city of ta,native.en,untagged
+452,194,The city of Giza is in Egypt.,1,0,en,the city of giza,native.en,untagged
+453,240,The city of Ciudad Nezahualcoyotl is in Mexico.,1,0,en,the city of ciudad,native.en,untagged
+454,1311,The city of Shenyang is in Somalia.,0,0,en,the city of shenyang,native.en,untagged
+455,743,The city of Malatya is in Russia.,0,0,en,the city of malatya,native.en,untagged
+456,1432,The city of Karachi is in Pakistan.,1,0,en,the city of karachi,native.en,untagged
+457,1437,The city of Jos is in India.,0,0,en,the city of jos,native.en,untagged
+458,870,The city of Moradabad is in India.,1,0,en,the city of moradabad,native.en,untagged
+459,49,The city of Ajmer is in Russia.,0,0,en,the city of ajmer,native.en,untagged
+460,884,The city of Yaounde is in Cameroon.,1,0,en,the city of yaounde,native.en,untagged
+461,655,The city of Beijing is in Ghana.,0,0,en,the city of beijing,native.en,untagged
+462,601,The city of Laibin is in Ethiopia.,0,0,en,the city of laibin,native.en,untagged
+463,1193,The city of Buraydah is in Rwanda.,0,0,en,the city of buraydah,native.en,untagged
+464,629,The city of Meerut is in Nigeria.,0,0,en,the city of meerut,native.en,untagged
+465,746,The city of Kyiv is in Ukraine.,1,0,en,the city of kyiv,native.en,untagged
+466,920,The city of Kallakurichi is in India.,1,0,en,the city of kallakurichi,native.en,untagged
+467,77,The city of Guilin is in the Dominican Republic.,0,0,en,the city of guilin,native.en,untagged
+468,459,The city of Xiangtan is in Brazil.,0,0,en,the city of xiangtan,native.en,untagged
+469,641,The city of Saint Petersburg is in Canada.,0,0,en,the city of saint,native.en,untagged
+470,708,The city of Juiz de Fora is in Brazil.,1,0,en,the city of juiz,native.en,untagged
+471,44,The city of Nowrangapur is in India.,1,0,en,the city of nowrangapur,native.en,untagged
+472,1230,The city of New York City is in the United States.,1,0,en,the city of new,native.en,untagged
+473,245,The city of Ciudad Juarez is in India.,0,0,en,the city of ciudad,native.en,untagged
+474,773,The city of Changshu is in the Philippines.,0,0,en,the city of changshu,native.en,untagged
+475,300,The city of Nashik is in India.,1,0,en,the city of nashik,native.en,untagged
+476,587,The city of Munich is in China.,0,0,en,the city of munich,native.en,untagged
+477,687,The city of Siping is in Iraq.,0,0,en,the city of siping,native.en,untagged
+478,276,The city of Bilimora is in India.,1,0,en,the city of bilimora,native.en,untagged
+479,913,The city of Riga is in Japan.,0,0,en,the city of riga,native.en,untagged
+480,548,The city of Sapporo is in Japan.,1,0,en,the city of sapporo,native.en,untagged
+481,402,The city of Iztapalapa is in Mexico.,1,0,en,the city of iztapalapa,native.en,untagged
+482,269,The city of Al Fayyum is in Chile.,0,0,en,the city of al,native.en,untagged
+483,728,The city of Zaria is in Nigeria.,1,0,en,the city of zaria,native.en,untagged
+484,487,The city of Mississauga is in India.,0,0,en,the city of mississauga,native.en,untagged
+485,1483,The city of Varanasi is in Turkey.,0,0,en,the city of varanasi,native.en,untagged
+486,1290,The city of Zhuzhou is in China.,1,0,en,the city of zhuzhou,native.en,untagged
+487,823,The city of Yichang is in Japan.,0,0,en,the city of yichang,native.en,untagged
+488,283,The city of Nyala is in Mozambique.,0,0,en,the city of nyala,native.en,untagged
+489,1039,The city of Kozhikode is in the United States.,0,0,en,the city of kozhikode,native.en,untagged
+490,1205,The city of Sanaa is in China.,0,0,en,the city of sanaa,native.en,untagged
+491,399,The city of Kemerovo is in India.,0,0,en,the city of kemerovo,native.en,untagged
+492,271,The city of Rizhao is in Iraq.,0,0,en,the city of rizhao,native.en,untagged
+493,406,The city of Kuala Lumpur is in Malaysia.,1,0,en,the city of kuala,native.en,untagged
+494,554,The city of San Luis Potosi is in Mexico.,1,0,en,the city of san,native.en,untagged
+495,338,The city of Ulyanovsk is in Russia.,1,0,en,the city of ulyanovsk,native.en,untagged
+496,466,The city of Tembisa is in South Africa.,1,0,en,the city of tembisa,native.en,untagged
+497,363,The city of Guangyuan is in Mexico.,0,0,en,the city of guangyuan,native.en,untagged
+498,933,The city of Sofia is in South Korea.,0,0,en,the city of sofia,native.en,untagged
+499,988,The city of Cangzhou is in China.,1,0,en,the city of cangzhou,native.en,untagged
+500,1470,The city of Weinan is in China.,1,0,en,the city of weinan,native.en,untagged
+501,320,The city of Kakamega is in Kenya.,1,0,en,the city of kakamega,native.en,untagged
+502,1186,The city of Fes is in Morocco.,1,0,en,the city of fes,native.en,untagged
+503,195,The city of Giza is in India.,0,0,en,the city of giza,native.en,untagged
+504,762,The city of Vijayawada is in India.,1,0,en,the city of vijayawada,native.en,untagged
+505,966,The city of Erzurum is in Turkey.,1,0,en,the city of erzurum,native.en,untagged
+506,70,The city of Zhabei is in China.,1,0,en,the city of zhabei,native.en,untagged
+507,1157,The city of Kota Kinabalu is in the United States.,0,0,en,the city of kota,native.en,untagged
+508,759,The city of Phnom Penh is in Senegal.,0,0,en,the city of phnom,native.en,untagged
+509,500,The city of Sao Jose dos Campos is in Brazil.,1,0,en,the city of sao,native.en,untagged
+510,10,The city of Addis Ababa is in Ethiopia.,1,0,en,the city of addis,native.en,untagged
+511,1057,The city of Antwerpen is in Japan.,0,0,en,the city of antwerpen,native.en,untagged
+512,1170,The city of Bhiwandi is in India.,1,0,en,the city of bhiwandi,native.en,untagged
+513,505,The city of Cuiaba is in Latvia.,0,0,en,the city of cuiaba,native.en,untagged
+514,726,The city of Petaling Jaya is in Malaysia.,1,0,en,the city of petaling,native.en,untagged
+515,1188,The city of Surat is in India.,1,0,en,the city of surat,native.en,untagged
+516,1315,The city of Brasilia is in South Korea.,0,0,en,the city of brasilia,native.en,untagged
+517,64,The city of Solapur is in India.,1,0,en,the city of solapur,native.en,untagged
+518,1027,The city of Jiangyin is in Bulgaria.,0,0,en,the city of jiangyin,native.en,untagged
+519,1419,The city of Salta is in India.,0,0,en,the city of salta,native.en,untagged
+520,416,The city of Cheongju-si is in South Korea.,1,0,en,the city of cheongju,native.en,untagged
+521,535,The city of Goiania is in China.,0,0,en,the city of goiania,native.en,untagged
+522,205,The city of Lipetsk is in China.,0,0,en,the city of lipetsk,native.en,untagged
+523,328,The city of Paranaque City is in the Philippines.,1,0,en,the city of paranaque,native.en,untagged
+524,486,The city of Mississauga is in Canada.,1,0,en,the city of mississauga,native.en,untagged
+525,818,The city of Zigong is in China.,1,0,en,the city of zigong,native.en,untagged
+526,1262,The city of Irbid is in Jordan.,1,0,en,the city of irbid,native.en,untagged
+527,1434,The city of Tijuana is in Mexico.,1,0,en,the city of tijuana,native.en,untagged
+528,418,The city of Ghaziabad is in India.,1,0,en,the city of ghaziabad,native.en,untagged
+529,689,The city of Shuangyashan is in India.,0,0,en,the city of shuangyashan,native.en,untagged
+530,1227,The city of Jambi City is in China.,0,0,en,the city of jambi,native.en,untagged
+531,597,The city of Zibo is in India.,0,0,en,the city of zibo,native.en,untagged
+532,1436,The city of Jos is in Nigeria.,1,0,en,the city of jos,native.en,untagged
+533,758,The city of Phnom Penh is in Cambodia.,1,0,en,the city of phnom,native.en,untagged
+534,472,The city of Zhengzhou is in China.,1,0,en,the city of zhengzhou,native.en,untagged
+535,1211,The city of Abu Dhabi is in Oman.,0,0,en,the city of abu,native.en,untagged
+536,131,The city of Hwaseong-si is in Brazil.,0,0,en,the city of hwaseong,native.en,untagged
+537,15,The city of Yongzhou is in Ukraine.,0,0,en,the city of yongzhou,native.en,untagged
+538,918,The city of Dombivli is in India.,1,0,en,the city of dombivli,native.en,untagged
+539,1404,The city of Nanning is in China.,1,0,en,the city of nanning,native.en,untagged
+540,476,The city of Xianyang is in China.,1,0,en,the city of xianyang,native.en,untagged
+541,563,The city of Ebute Ikorodu is in China.,0,0,en,the city of ebute,native.en,untagged
+542,1280,The city of Dammam is in Saudi Arabia.,1,0,en,the city of dammam,native.en,untagged
+543,822,The city of Yichang is in China.,1,0,en,the city of yichang,native.en,untagged
+544,1409,The city of Binzhou is in Brazil.,0,0,en,the city of binzhou,native.en,untagged
+545,103,The city of Perm is in China.,0,0,en,the city of perm,native.en,untagged
+546,60,The city of Tirunelveli is in India.,1,0,en,the city of tirunelveli,native.en,untagged
+547,1461,The city of Reynosa is in China.,0,0,en,the city of reynosa,native.en,untagged
+548,1194,The city of Bikaner is in India.,1,0,en,the city of bikaner,native.en,untagged
+549,391,The city of New Kingston is in South Africa.,0,0,en,the city of new,native.en,untagged
+550,165,The city of Lahore is in China.,0,0,en,the city of lahore,native.en,untagged
+551,1001,The city of Caloocan City is in China.,0,0,en,the city of caloocan,native.en,untagged
+552,760,The city of Nouakchott is in Mauritania.,1,0,en,the city of nouakchott,native.en,untagged
+553,349,The city of Shangqiu is in South Korea.,0,0,en,the city of shangqiu,native.en,untagged
+554,185,The city of N'Djamena is in China.,0,0,en,the city of n,native.en,untagged
+555,1187,The city of Fes is in Mali.,0,0,en,the city of fes,native.en,untagged
+556,371,The city of E'zhou is in Malaysia.,0,0,en,the city of e,native.en,untagged
+557,117,The city of Hohhot is in Indonesia.,0,0,en,the city of hohhot,native.en,untagged
+558,916,The city of Gwalior is in India.,1,0,en,the city of gwalior,native.en,untagged
+559,252,The city of Kumamoto is in Japan.,1,0,en,the city of kumamoto,native.en,untagged
+560,1113,The city of Yibin is in Brazil.,0,0,en,the city of yibin,native.en,untagged
+561,311,The city of Changde is in Mexico.,0,0,en,the city of changde,native.en,untagged
+562,665,The city of Prayagraj is in Kenya.,0,0,en,the city of prayagraj,native.en,untagged
+563,395,The city of Shymkent is in China.,0,0,en,the city of shymkent,native.en,untagged
+564,358,The city of Luancheng is in China.,1,0,en,the city of luancheng,native.en,untagged
+565,263,The city of Bhayandar is in China.,0,0,en,the city of bhayandar,native.en,untagged
+566,359,The city of Luancheng is in Brazil.,0,0,en,the city of luancheng,native.en,untagged
+567,724,The city of Conakry is in Guinea.,1,0,en,the city of conakry,native.en,untagged
+568,1047,The city of Huangshi is in India.,0,0,en,the city of huangshi,native.en,untagged
+569,1384,The city of Faridabad is in India.,1,0,en,the city of faridabad,native.en,untagged
+570,722,The city of Isfahan is in Iran.,1,0,en,the city of isfahan,native.en,untagged
+571,1428,The city of Ufa is in Russia.,1,0,en,the city of ufa,native.en,untagged
+572,16,The city of Nanchong is in China.,1,0,en,the city of nanchong,native.en,untagged
+573,51,The city of Rohini is in Russia.,0,0,en,the city of rohini,native.en,untagged
+574,1151,The city of Tabriz is in India.,0,0,en,the city of tabriz,native.en,untagged
+575,877,The city of Turin is in China.,0,0,en,the city of turin,native.en,untagged
+576,1180,The city of Quezon City is in the Philippines.,1,0,en,the city of quezon,native.en,untagged
+577,351,The city of Zhangye is in Venezuela.,0,0,en,the city of zhangye,native.en,untagged
+578,583,The city of Hanzhong is in Iran.,0,0,en,the city of hanzhong,native.en,untagged
+579,1477,The city of Laiwu is in the United States.,0,0,en,the city of laiwu,native.en,untagged
+580,1365,The city of San Pedro Sula is in India.,0,0,en,the city of san,native.en,untagged
+581,1360,The city of Hezhou is in China.,1,0,en,the city of hezhou,native.en,untagged
+582,1197,The city of Mogadishu is in Iran.,0,0,en,the city of mogadishu,native.en,untagged
+583,97,The city of Boumerdes is in Iran.,0,0,en,the city of boumerdes,native.en,untagged
+584,1103,The city of Najran is in India.,0,0,en,the city of najran,native.en,untagged
+585,1306,The city of Chenzhou is in China.,1,0,en,the city of chenzhou,native.en,untagged
+586,196,The city of Naberezhnyye Chelny is in Russia.,1,0,en,the city of naberezhnyye,native.en,untagged
+587,183,The city of Porto Velho is in Algeria.,0,0,en,the city of porto,native.en,untagged
+588,1397,The city of Liupanshui is in the Philippines.,0,0,en,the city of liupanshui,native.en,untagged
+589,1452,The city of Maiduguri is in Nigeria.,1,0,en,the city of maiduguri,native.en,untagged
+590,1324,The city of Hiroshima is in Japan.,1,0,en,the city of hiroshima,native.en,untagged
+591,811,The city of Aden is in Japan.,0,0,en,the city of aden,native.en,untagged
+592,533,The city of Mbuji-Mayi is in Pakistan.,0,0,en,the city of mbuji,native.en,untagged
+593,1346,The city of Khartoum is in Sudan.,1,0,en,the city of khartoum,native.en,untagged
+594,81,The city of Panzhihua is in Iran.,0,0,en,the city of panzhihua,native.en,untagged
+595,1015,The city of Wuzhou is in Syria.,0,0,en,the city of wuzhou,native.en,untagged
+596,397,The city of Tlalpan is in Egypt.,0,0,en,the city of tlalpan,native.en,untagged
+597,267,The city of Santo Domingo Este is in India.,0,0,en,the city of santo,native.en,untagged
+598,589,The city of Pekanbaru is in India.,0,0,en,the city of pekanbaru,native.en,untagged
+599,386,The city of Kano is in Nigeria.,1,0,en,the city of kano,native.en,untagged
+600,1301,The city of Putian is in Vietnam.,0,0,en,the city of putian,native.en,untagged
+601,132,The city of Changwon is in South Korea.,1,0,en,the city of changwon,native.en,untagged
+602,265,The city of Bareilly is in Mozambique.,0,0,en,the city of bareilly,native.en,untagged
+603,1464,The city of Ibague is in Colombia.,1,0,en,the city of ibague,native.en,untagged
+604,1238,The city of Shubra al Khaymah is in Egypt.,1,0,en,the city of shubra,native.en,untagged
+605,88,The city of Abuja is in Nigeria.,1,0,en,the city of abuja,native.en,untagged
+606,793,The city of Ziyang is in Belgium.,0,0,en,the city of ziyang,native.en,untagged
+607,1424,The city of Esenler is in Turkey.,1,0,en,the city of esenler,native.en,untagged
+608,748,The city of Kitakyushu is in Japan.,1,0,en,the city of kitakyushu,native.en,untagged
+609,1288,The city of Tebessa is in Algeria.,1,0,en,the city of tebessa,native.en,untagged
+610,294,The city of Libreville is in Gabon.,1,0,en,the city of libreville,native.en,untagged
+611,261,The city of Jalandhar is in Iraq.,0,0,en,the city of jalandhar,native.en,untagged
+612,1407,The city of Huainan is in Egypt.,0,0,en,the city of huainan,native.en,untagged
+613,1091,The city of Rio de Janeiro is in Japan.,0,0,en,the city of rio,native.en,untagged
+614,1236,The city of Quito is in Ecuador.,1,0,en,the city of quito,native.en,untagged
+615,1449,The city of Ipoh is in Brazil.,0,0,en,the city of ipoh,native.en,untagged
+616,405,The city of Aguascalientes is in China.,0,0,en,the city of aguascalientes,native.en,untagged
+617,897,The city of Al Ain City is in India.,0,0,en,the city of al,native.en,untagged
+618,356,The city of Nanchang is in China.,1,0,en,the city of nanchang,native.en,untagged
+619,608,The city of Duesseldorf is in Germany.,1,0,en,the city of duesseldorf,native.en,untagged
+620,239,The city of Kinshasa is in Brazil.,0,0,en,the city of kinshasa,native.en,untagged
+621,948,The city of Antananarivo is in Madagascar.,1,0,en,the city of antananarivo,native.en,untagged
+622,711,The city of Nagoya is in China.,0,0,en,the city of nagoya,native.en,untagged
+623,1064,The city of Kyoto is in Japan.,1,0,en,the city of kyoto,native.en,untagged
+624,961,The city of Amravati is in China.,0,0,en,the city of amravati,native.en,untagged
+625,692,The city of Minsk is in Belarus.,1,0,en,the city of minsk,native.en,untagged
+626,899,The city of Kalininskiy is in Japan.,0,0,en,the city of kalininskiy,native.en,untagged
+627,374,The city of Bucharest is in Romania.,1,0,en,the city of bucharest,native.en,untagged
+628,453,The city of Abobo is in India.,0,0,en,the city of abobo,native.en,untagged
+629,110,The city of Belo Horizonte is in Brazil.,1,0,en,the city of belo,native.en,untagged
+630,1224,The city of Shangyu is in China.,1,0,en,the city of shangyu,native.en,untagged
+631,1275,The city of Cuttack is in Pakistan.,0,0,en,the city of cuttack,native.en,untagged
+632,681,The city of Shenzhen is in Mexico.,0,0,en,the city of shenzhen,native.en,untagged
+633,1179,The city of Bagcilar is in Iran.,0,0,en,the city of bagcilar,native.en,untagged
+634,503,The city of Florianopolis is in Ecuador.,0,0,en,the city of florianopolis,native.en,untagged
+635,648,The city of Qinhuangdao is in China.,1,0,en,the city of qinhuangdao,native.en,untagged
+636,1486,The city of Bhopal is in India.,1,0,en,the city of bhopal,native.en,untagged
+637,764,The city of Theni is in India.,1,0,en,the city of theni,native.en,untagged
+638,871,The city of Moradabad is in China.,0,0,en,the city of moradabad,native.en,untagged
+639,927,The city of Santa Maria Chimalhuacan is in Saudi Arabia.,0,0,en,the city of santa,native.en,untagged
+640,367,The city of Zhoushan is in the Philippines.,0,0,en,the city of zhoushan,native.en,untagged
+641,1480,The city of Changchun is in China.,1,0,en,the city of changchun,native.en,untagged
+642,384,The city of Pasig City is in the Philippines.,1,0,en,the city of pasig,native.en,untagged
+643,200,The city of Harare is in Zimbabwe.,1,0,en,the city of harare,native.en,untagged
+644,65,The city of Solapur is in the United States.,0,0,en,the city of solapur,native.en,untagged
+645,1244,The city of Guankou is in China.,1,0,en,the city of guankou,native.en,untagged
+646,839,The city of Dortmund is in India.,0,0,en,the city of dortmund,native.en,untagged
+647,272,"The city of Mianzhu, Deyang, Sichuan is in China.",1,0,en,the city of mianzhu,native.en,untagged
+648,1302,The city of Luzhou is in China.,1,0,en,the city of luzhou,native.en,untagged
+649,784,The city of Recife is in Brazil.,1,0,en,the city of recife,native.en,untagged
+650,999,The city of Oslo is in Venezuela.,0,0,en,the city of oslo,native.en,untagged
+651,1038,The city of Kozhikode is in India.,1,0,en,the city of kozhikode,native.en,untagged
+652,799,The city of Shanghai is in Mexico.,0,0,en,the city of shanghai,native.en,untagged
+653,541,The city of Diyarbakir is in Colombia.,0,0,en,the city of diyarbakir,native.en,untagged
+654,478,The city of Weihai is in China.,1,0,en,the city of weihai,native.en,untagged
+655,915,The city of Nanded is in China.,0,0,en,the city of nanded,native.en,untagged
+656,1158,The city of Nairobi is in Kenya.,1,0,en,the city of nairobi,native.en,untagged
+657,1433,The city of Karachi is in India.,0,0,en,the city of karachi,native.en,untagged
+658,1214,The city of Lianyungang is in China.,1,0,en,the city of lianyungang,native.en,untagged
+659,188,The city of Marseille is in France.,1,0,en,the city of marseille,native.en,untagged
+660,940,The city of Hachioji is in Japan.,1,0,en,the city of hachioji,native.en,untagged
+661,1099,The city of Da Nang is in China.,0,0,en,the city of da,native.en,untagged
+662,970,The city of Barquisimeto is in Venezuela.,1,0,en,the city of barquisimeto,native.en,untagged
+663,316,The city of Manaus is in Brazil.,1,0,en,the city of manaus,native.en,untagged
+664,214,The city of Maturin is in Venezuela.,1,0,en,the city of maturin,native.en,untagged
+665,942,The city of Fukuoka is in Japan.,1,0,en,the city of fukuoka,native.en,untagged
+666,1380,The city of Nay Pyi Taw is in Myanmar.,1,0,en,the city of nay,native.en,untagged
+667,953,The city of Jaipur is in China.,0,0,en,the city of jaipur,native.en,untagged
+668,993,The city of Helsinki is in Pakistan.,0,0,en,the city of helsinki,native.en,untagged
+669,531,The city of Dar es Salaam is in Italy.,0,0,en,the city of dar,native.en,untagged
+670,255,The city of Daegu is in the United States.,0,0,en,the city of daegu,native.en,untagged
+671,30,The city of Guatemala City is in Guatemala.,1,0,en,the city of guatemala,native.en,untagged
+672,662,The city of Guwahati is in India.,1,0,en,the city of guwahati,native.en,untagged
+673,1146,The city of Dhanbad is in India.,1,0,en,the city of dhanbad,native.en,untagged
+674,230,The city of Yiwu is in China.,1,0,en,the city of yiwu,native.en,untagged
+675,905,The city of Tegucigalpa is in China.,0,0,en,the city of tegucigalpa,native.en,untagged
+676,958,The city of Bhavnagar is in India.,1,0,en,the city of bhavnagar,native.en,untagged
+677,980,The city of Puning is in China.,1,0,en,the city of puning,native.en,untagged
+678,1478,The city of Hengyang is in China.,1,0,en,the city of hengyang,native.en,untagged
+679,1159,The city of Nairobi is in Mexico.,0,0,en,the city of nairobi,native.en,untagged
+680,264,The city of Bareilly is in India.,1,0,en,the city of bareilly,native.en,untagged
+681,101,The city of Santiago de Queretaro is in Ecuador.,0,0,en,the city of santiago,native.en,untagged
+682,13,The city of Abidjan is in China.,0,0,en,the city of abidjan,native.en,untagged
+683,1410,The city of Fuxin is in China.,1,0,en,the city of fuxin,native.en,untagged
+684,846,The city of Maracaibo is in Venezuela.,1,0,en,the city of maracaibo,native.en,untagged
+685,840,The city of Detroit is in the United States.,1,0,en,the city of detroit,native.en,untagged
+686,1012,The city of Benoni is in South Africa.,1,0,en,the city of benoni,native.en,untagged
+687,1366,The city of Queens is in the United States.,1,0,en,the city of queens,native.en,untagged
+688,1450,The city of Kuantan is in Malaysia.,1,0,en,the city of kuantan,native.en,untagged
+689,566,The city of Kanpur is in India.,1,0,en,the city of kanpur,native.en,untagged
+690,1003,The city of Ryazan' is in South Korea.,0,0,en,the city of ryazan,native.en,untagged
+691,847,The city of Maracaibo is in Russia.,0,0,en,the city of maracaibo,native.en,untagged
+692,523,The city of Navi Mumbai is in China.,0,0,en,the city of navi,native.en,untagged
+693,1023,The city of Hefei is in Germany.,0,0,en,the city of hefei,native.en,untagged
+694,495,The city of Calgary is in India.,0,0,en,the city of calgary,native.en,untagged
+695,768,The city of Quetta is in Pakistan.,1,0,en,the city of quetta,native.en,untagged
+696,1010,The city of Soweto is in South Africa.,1,0,en,the city of soweto,native.en,untagged
+697,817,The city of Londrina is in India.,0,0,en,the city of londrina,native.en,untagged
+698,912,The city of Riga is in Latvia.,1,0,en,the city of riga,native.en,untagged
+699,1237,The city of Quito is in China.,0,0,en,the city of quito,native.en,untagged
+700,1124,The city of Jiangmen is in China.,1,0,en,the city of jiangmen,native.en,untagged
+701,366,The city of Zhoushan is in China.,1,0,en,the city of zhoushan,native.en,untagged
+702,712,The city of Al Ahmadi is in Kuwait.,1,0,en,the city of al,native.en,untagged
+703,228,The city of Linfen is in China.,1,0,en,the city of linfen,native.en,untagged
+704,417,The city of Cheongju-si is in India.,0,0,en,the city of cheongju,native.en,untagged
+705,206,The city of Istanbul is in Turkey.,1,0,en,the city of istanbul,native.en,untagged
+706,79,The city of Chaozhou is in South Korea.,0,0,en,the city of chaozhou,native.en,untagged
+707,190,The city of Lyon is in France.,1,0,en,the city of lyon,native.en,untagged
+708,492,The city of New South Memphis is in the United States.,1,0,en,the city of new,native.en,untagged
+709,1369,The city of Caracas is in Sudan.,0,0,en,the city of caracas,native.en,untagged
+710,145,The city of Torreon is in India.,0,0,en,the city of torreon,native.en,untagged
+711,1465,The city of Ibague is in Finland.,0,0,en,the city of ibague,native.en,untagged
+712,318,The city of Jaboatao dos Guararapes is in Brazil.,1,0,en,the city of jaboatao,native.en,untagged
+713,878,The city of Okayama is in Japan.,1,0,en,the city of okayama,native.en,untagged
+714,866,The city of Namangan is in Uzbekistan.,1,0,en,the city of namangan,native.en,untagged
+715,457,The city of Yunfu is in Honduras.,0,0,en,the city of yunfu,native.en,untagged
+716,144,The city of Torreon is in Mexico.,1,0,en,the city of torreon,native.en,untagged
+717,1245,The city of Guankou is in Pakistan.,0,0,en,the city of guankou,native.en,untagged
+718,1183,The city of Mexico City is in China.,0,0,en,the city of mexico,native.en,untagged
+719,1142,The city of Visakhapatnam is in India.,1,0,en,the city of visakhapatnam,native.en,untagged
+720,1044,The city of Jingmen is in China.,1,0,en,the city of jingmen,native.en,untagged
+721,1042,The city of Suizhou is in China.,1,0,en,the city of suizhou,native.en,untagged
+722,737,The city of Bahcelievler is in Germany.,0,0,en,the city of bahcelievler,native.en,untagged
+723,592,The city of Douala is in Cameroon.,1,0,en,the city of douala,native.en,untagged
+724,995,The city of Khabarovsk Vtoroy is in China.,0,0,en,the city of khabarovsk,native.en,untagged
+725,911,The city of Zarqa is in India.,0,0,en,the city of zarqa,native.en,untagged
+726,83,The city of Bucaramanga is in Brazil.,0,0,en,the city of bucaramanga,native.en,untagged
+727,154,The city of Ahvaz is in Iran.,1,0,en,the city of ahvaz,native.en,untagged
+728,1045,The city of Jingmen is in Japan.,0,0,en,the city of jingmen,native.en,untagged
+729,1175,The city of Chelyabinsk is in China.,0,0,en,the city of chelyabinsk,native.en,untagged
+730,1243,The city of Suining is in Algeria.,0,0,en,the city of suining,native.en,untagged
+731,127,The city of Suwon is in Russia.,0,0,en,the city of suwon,native.en,untagged
+732,1074,The city of Abu Ghurayb is in Iraq.,1,0,en,the city of abu,native.en,untagged
+733,752,The city of Anyang-si is in South Korea.,1,0,en,the city of anyang,native.en,untagged
+734,403,The city of Iztapalapa is in Yemen.,0,0,en,the city of iztapalapa,native.en,untagged
+735,150,The city of Dehra Dun is in India.,1,0,en,the city of dehra,native.en,untagged
+736,1387,The city of Kolkata is in Japan.,0,0,en,the city of kolkata,native.en,untagged
+737,413,The city of Kagoshima is in India.,0,0,en,the city of kagoshima,native.en,untagged
+738,1024,The city of Handan is in China.,1,0,en,the city of handan,native.en,untagged
+739,955,The city of Guntur is in China.,0,0,en,the city of guntur,native.en,untagged
+740,394,The city of Shymkent is in Kazakhstan.,1,0,en,the city of shymkent,native.en,untagged
+741,1286,The city of Asuncion is in Paraguay.,1,0,en,the city of asuncion,native.en,untagged
+742,930,The city of Qingdao is in China.,1,0,en,the city of qingdao,native.en,untagged
+743,862,The city of Adana is in Turkey.,1,0,en,the city of adana,native.en,untagged
+744,1102,The city of Najran is in Saudi Arabia.,1,0,en,the city of najran,native.en,untagged
+745,352,The city of Xuanzhou is in China.,1,0,en,the city of xuanzhou,native.en,untagged
+746,95,The city of Fort Worth is in Russia.,0,0,en,the city of fort,native.en,untagged
+747,625,The city of Hamhung is in China.,0,0,en,the city of hamhung,native.en,untagged
+748,571,The city of Zunyi is in Senegal.,0,0,en,the city of zunyi,native.en,untagged
+749,37,The city of Mombasa is in India.,0,0,en,the city of mombasa,native.en,untagged
+750,485,The city of Zhangjiakou is in India.,0,0,en,the city of zhangjiakou,native.en,untagged
+751,143,The city of Qom is in Vietnam.,0,0,en,the city of qom,native.en,untagged
+752,776,The city of Bayannur is in China.,1,0,en,the city of bayannur,native.en,untagged
+753,158,The city of Palembang is in Indonesia.,1,0,en,the city of palembang,native.en,untagged
+754,552,The city of Cheonan is in South Korea.,1,0,en,the city of cheonan,native.en,untagged
+755,1341,The city of Arak is in India.,0,0,en,the city of arak,native.en,untagged
+756,1018,The city of Qinzhou is in China.,1,0,en,the city of qinzhou,native.en,untagged
+757,518,The city of Almaty is in Kazakhstan.,1,0,en,the city of almaty,native.en,untagged
+758,1161,The city of Taguig is in India.,0,0,en,the city of taguig,native.en,untagged
+759,801,The city of Jieyang is in the Philippines.,0,0,en,the city of jieyang,native.en,untagged
+760,236,The city of Aparecida de Goiania is in Brazil.,1,0,en,the city of aparecida,native.en,untagged
+761,987,The city of Chengdu is in South Korea.,0,0,en,the city of chengdu,native.en,untagged
+762,222,The city of Santo Domingo Oeste is in the Dominican Republic.,1,0,en,the city of santo,native.en,untagged
+763,1314,The city of Brasilia is in Brazil.,1,0,en,the city of brasilia,native.en,untagged
+764,937,The city of Abeokuta is in Mozambique.,0,0,en,the city of abeokuta,native.en,untagged
+765,1411,The city of Fuxin is in Pakistan.,0,0,en,the city of fuxin,native.en,untagged
+766,661,The city of Sangli is in Japan.,0,0,en,the city of sangli,native.en,untagged
+767,588,The city of Pekanbaru is in Indonesia.,1,0,en,the city of pekanbaru,native.en,untagged
+768,1414,The city of Mazar-e Sharif is in Afghanistan.,1,0,en,the city of mazar,native.en,untagged
+769,1021,The city of Wuwei is in India.,0,0,en,the city of wuwei,native.en,untagged
+770,62,The city of Thane is in India.,1,0,en,the city of thane,native.en,untagged
+771,1459,The city of Las Pinas is in Yemen.,0,0,en,the city of las,native.en,untagged
+772,193,The city of Suez is in Brazil.,0,0,en,the city of suez,native.en,untagged
+773,235,The city of Baotou is in Japan.,0,0,en,the city of baotou,native.en,untagged
+774,181,The city of Anshan is in Cameroon.,0,0,en,the city of anshan,native.en,untagged
+775,1355,The city of Xianning is in Lebanon.,0,0,en,the city of xianning,native.en,untagged
+776,957,The city of Bhilai is in Venezuela.,0,0,en,the city of bhilai,native.en,untagged
+777,1109,The city of Izhevsk is in Nigeria.,0,0,en,the city of izhevsk,native.en,untagged
+778,521,The city of Pimpri is in China.,0,0,en,the city of pimpri,native.en,untagged
+779,669,The city of Kermanshah is in China.,0,0,en,the city of kermanshah,native.en,untagged
+780,1435,The city of Tijuana is in the United Arab Emirates.,0,0,en,the city of tijuana,native.en,untagged
+781,1078,The city of Kampala is in Uganda.,1,0,en,the city of kampala,native.en,untagged
+782,1058,The city of Pikine is in Senegal.,1,0,en,the city of pikine,native.en,untagged
+783,1165,The city of Pune is in South Korea.,0,0,en,the city of pune,native.en,untagged
+784,382,The city of Oyo is in Nigeria.,1,0,en,the city of oyo,native.en,untagged
+785,1267,The city of Muzaffarabad is in China.,0,0,en,the city of muzaffarabad,native.en,untagged
+786,1389,The city of Karbala is in Turkey.,0,0,en,the city of karbala,native.en,untagged
+787,331,The city of Rahim Yar Khan is in Lithuania.,0,0,en,the city of rahim,native.en,untagged
+788,1126,The city of Huizhou is in China.,1,0,en,the city of huizhou,native.en,untagged
+789,262,The city of Bhayandar is in India.,1,0,en,the city of bhayandar,native.en,untagged
+790,6,The city of Baku is in Azerbaijan.,1,0,en,the city of baku,native.en,untagged
+791,266,The city of Santo Domingo Este is in the Dominican Republic.,1,0,en,the city of santo,native.en,untagged
+792,769,The city of Quetta is in Kenya.,0,0,en,the city of quetta,native.en,untagged
+793,38,The city of Ulsan is in South Korea.,1,0,en,the city of ulsan,native.en,untagged
+794,1451,The city of Kuantan is in India.,0,0,en,the city of kuantan,native.en,untagged
+795,545,The city of Orenburg is in Malaysia.,0,0,en,the city of orenburg,native.en,untagged
+796,118,The city of Malacca is in Malaysia.,1,0,en,the city of malacca,native.en,untagged
+797,783,The city of Pontianak is in India.,0,0,en,the city of pontianak,native.en,untagged
+798,652,The city of Yangjiang is in China.,1,0,en,the city of yangjiang,native.en,untagged
+799,841,The city of Detroit is in China.,0,0,en,the city of detroit,native.en,untagged
+800,706,The city of Porto Alegre is in Brazil.,1,0,en,the city of porto,native.en,untagged
+801,105,The city of Jeddah is in Myanmar.,0,0,en,the city of jeddah,native.en,untagged
+802,1268,The city of Kotli is in Pakistan.,1,0,en,the city of kotli,native.en,untagged
+803,484,The city of Zhangjiakou is in China.,1,0,en,the city of zhangjiakou,native.en,untagged
+804,1443,The city of Ha'il is in China.,0,0,en,the city of ha,native.en,untagged
+805,1149,The city of Bokaro is in China.,0,0,en,the city of bokaro,native.en,untagged
+806,683,The city of Maoming is in Brazil.,0,0,en,the city of maoming,native.en,untagged
+807,20,The city of Jiaxing is in China.,1,0,en,the city of jiaxing,native.en,untagged
+808,242,The city of Mexicali is in Mexico.,1,0,en,the city of mexicali,native.en,untagged
+809,50,The city of Rohini is in India.,1,0,en,the city of rohini,native.en,untagged
+810,162,The city of Izmir is in Turkey.,1,0,en,the city of izmir,native.en,untagged
+811,441,The city of Krakow is in South Korea.,0,0,en,the city of krakow,native.en,untagged
+812,731,The city of Cimahi is in Germany.,0,0,en,the city of cimahi,native.en,untagged
+813,1462,The city of Rostov-na-Donu is in Russia.,1,0,en,the city of rostov,native.en,untagged
+814,1154,The city of Victoria de Durango is in Mexico.,1,0,en,the city of victoria,native.en,untagged
+815,1416,The city of Mar del Plata is in Argentina.,1,0,en,the city of mar,native.en,untagged
+816,301,The city of Nashik is in China.,0,0,en,the city of nashik,native.en,untagged
+817,996,The city of Wroclaw is in Poland.,1,0,en,the city of wroclaw,native.en,untagged
+818,172,The city of Tianjin is in China.,1,0,en,the city of tianjin,native.en,untagged
+819,707,The city of Porto Alegre is in Belarus.,0,0,en,the city of porto,native.en,untagged
+820,658,The city of Vadodara is in India.,1,0,en,the city of vadodara,native.en,untagged
+821,977,The city of Quzhou is in Vietnam.,0,0,en,the city of quzhou,native.en,untagged
+822,284,The city of Eskisehir is in Turkey.,1,0,en,the city of eskisehir,native.en,untagged
+823,1367,The city of Queens is in India.,0,0,en,the city of queens,native.en,untagged
+824,1297,The city of Shantou is in Pakistan.,0,0,en,the city of shantou,native.en,untagged
+825,1481,The city of Changchun is in Germany.,0,0,en,the city of changchun,native.en,untagged
+826,959,The city of Bhavnagar is in Japan.,0,0,en,the city of bhavnagar,native.en,untagged
+827,1226,The city of Jambi City is in Indonesia.,1,0,en,the city of jambi,native.en,untagged
+828,1279,The city of Yekaterinburg is in Lithuania.,0,0,en,the city of yekaterinburg,native.en,untagged
+829,668,The city of Kermanshah is in Iran.,1,0,en,the city of kermanshah,native.en,untagged
+830,1381,The city of Nay Pyi Taw is in Mozambique.,0,0,en,the city of nay,native.en,untagged
+831,788,The city of Port Said is in Egypt.,1,0,en,the city of port,native.en,untagged
+832,210,The city of Cebu City is in the Philippines.,1,0,en,the city of cebu,native.en,untagged
+833,344,The city of Maceio is in Brazil.,1,0,en,the city of maceio,native.en,untagged
+834,306,The city of Zahedan is in Iran.,1,0,en,the city of zahedan,native.en,untagged
+835,217,The city of Hanoi is in Poland.,0,0,en,the city of hanoi,native.en,untagged
+836,1467,The city of Copenhagen is in China.,0,0,en,the city of copenhagen,native.en,untagged
+837,289,The city of Dnipro is in Russia.,0,0,en,the city of dnipro,native.en,untagged
+838,378,The city of Casablanca is in Morocco.,1,0,en,the city of casablanca,native.en,untagged
+839,167,The city of Zhenjiang is in Germany.,0,0,en,the city of zhenjiang,native.en,untagged
+840,421,The city of Cochin is in China.,0,0,en,the city of cochin,native.en,untagged
+841,225,The city of Tangshan is in India.,0,0,en,the city of tangshan,native.en,untagged
+842,616,The city of Matola is in Mozambique.,1,0,en,the city of matola,native.en,untagged
+843,12,The city of Abidjan is in Côte d'Ivoire.,1,0,en,the city of abidjan,native.en,untagged
+844,522,The city of Navi Mumbai is in India.,1,0,en,the city of navi,native.en,untagged
+845,1123,The city of Jiaozuo is in Bangladesh.,0,0,en,the city of jiaozuo,native.en,untagged
+846,68,The city of Borivli is in India.,1,0,en,the city of borivli,native.en,untagged
+847,90,The city of South Tangerang is in Indonesia.,1,0,en,the city of south,native.en,untagged
+848,1242,The city of Suining is in China.,1,0,en,the city of suining,native.en,untagged
+849,380,The city of Coyoacan is in Mexico.,1,0,en,the city of coyoacan,native.en,untagged
+850,1019,The city of Qinzhou is in India.,0,0,en,the city of qinzhou,native.en,untagged
+851,372,The city of Campos dos Goytacazes is in Brazil.,1,0,en,the city of campos,native.en,untagged
+852,258,The city of Ranchi is in India.,1,0,en,the city of ranchi,native.en,untagged
+853,1271,The city of Nagpur is in Denmark.,0,0,en,the city of nagpur,native.en,untagged
+854,986,The city of Chengdu is in China.,1,0,en,the city of chengdu,native.en,untagged
+855,304,The city of Orumiyeh is in Iran.,1,0,en,the city of orumiyeh,native.en,untagged
+856,1340,The city of Arak is in Iran.,1,0,en,the city of arak,native.en,untagged
+857,1178,The city of Bagcilar is in Turkey.,1,0,en,the city of bagcilar,native.en,untagged
+858,410,The city of Peshawar is in Pakistan.,1,0,en,the city of peshawar,native.en,untagged
+859,1446,The city of Cape Town is in South Africa.,1,0,en,the city of cape,native.en,untagged
+860,893,The city of Foshan is in Mozambique.,0,0,en,the city of foshan,native.en,untagged
+861,42,The city of Tiruchirappalli is in India.,1,0,en,the city of tiruchirappalli,native.en,untagged
+862,208,The city of Callao is in Peru.,1,0,en,the city of callao,native.en,untagged
+863,532,The city of Mbuji-Mayi is in the Democratic Republic of the Congo.,1,0,en,the city of mbuji,native.en,untagged
+864,1298,The city of Shangluo is in China.,1,0,en,the city of shangluo,native.en,untagged
+865,490,The city of Albuquerque is in the United States.,1,0,en,the city of albuquerque,native.en,untagged
+866,596,The city of Zibo is in China.,1,0,en,the city of zibo,native.en,untagged
+867,74,The city of Jiaozhou is in China.,1,0,en,the city of jiaozhou,native.en,untagged
+868,515,The city of Sendai is in Brazil.,0,0,en,the city of sendai,native.en,untagged
+869,285,The city of Eskisehir is in China.,0,0,en,the city of eskisehir,native.en,untagged
+870,1222,The city of Ganzhou is in China.,1,0,en,the city of ganzhou,native.en,untagged
+871,858,The city of Banjarmasin is in Indonesia.,1,0,en,the city of banjarmasin,native.en,untagged
+872,71,The city of Zhabei is in Afghanistan.,0,0,en,the city of zhabei,native.en,untagged
+873,561,The city of General Santos is in China.,0,0,en,the city of general,native.en,untagged
+874,179,The city of Mudanjiang is in Turkey.,0,0,en,the city of mudanjiang,native.en,untagged
+875,982,The city of Huzhou is in China.,1,0,en,the city of huzhou,native.en,untagged
+876,1403,The city of Qujing is in India.,0,0,en,the city of qujing,native.en,untagged
+877,493,The city of New South Memphis is in China.,0,0,en,the city of new,native.en,untagged
+878,116,The city of Hohhot is in China.,1,0,en,the city of hohhot,native.en,untagged
+879,293,The city of Irkutsk is in Morocco.,0,0,en,the city of irkutsk,native.en,untagged
+880,76,The city of Guilin is in China.,1,0,en,the city of guilin,native.en,untagged
+881,48,The city of Ajmer is in India.,1,0,en,the city of ajmer,native.en,untagged
+882,924,The city of Johor Bahru is in Malaysia.,1,0,en,the city of johor,native.en,untagged
+883,775,The city of Tehran is in Niger.,0,0,en,the city of tehran,native.en,untagged
+884,772,The city of Changshu is in China.,1,0,en,the city of changshu,native.en,untagged
+885,1240,The city of Al Mahallah al Kubra is in Egypt.,1,0,en,the city of al,native.en,untagged
+886,1046,The city of Huangshi is in China.,1,0,en,the city of huangshi,native.en,untagged
+887,901,The city of Mersin is in the United States.,0,0,en,the city of mersin,native.en,untagged
+888,332,The city of Balikpapan is in Indonesia.,1,0,en,the city of balikpapan,native.en,untagged
+889,576,The city of Luohe is in China.,1,0,en,the city of luohe,native.en,untagged
+890,622,The city of Himeji is in Japan.,1,0,en,the city of himeji,native.en,untagged
+891,564,The city of Benin City is in Nigeria.,1,0,en,the city of benin,native.en,untagged
+892,875,The city of Shivaji Nagar is in China.,0,0,en,the city of shivaji,native.en,untagged
+893,1217,The city of Xiaogan is in Ukraine.,0,0,en,the city of xiaogan,native.en,untagged
+894,1025,The city of Handan is in Russia.,0,0,en,the city of handan,native.en,untagged
+895,409,The city of Warri is in China.,0,0,en,the city of warri,native.en,untagged
+896,636,The city of Aleppo is in Syria.,1,0,en,the city of aleppo,native.en,untagged
+897,1487,The city of Bhopal is in Russia.,0,0,en,the city of bhopal,native.en,untagged
+898,1473,The city of Wanning is in the United States.,0,0,en,the city of wanning,native.en,untagged
+899,1264,The city of Bishkek is in Kyrgyzstan.,1,0,en,the city of bishkek,native.en,untagged
+900,288,The city of Dnipro is in Ukraine.,1,0,en,the city of dnipro,native.en,untagged
+901,1323,The city of Duque de Caxias is in Côte d'Ivoire.,0,0,en,the city of duque,native.en,untagged
+902,814,The city of Aracaju is in Brazil.,1,0,en,the city of aracaju,native.en,untagged
+903,630,The city of Hubli is in India.,1,0,en,the city of hubli,native.en,untagged
+904,524,The city of Novosibirsk is in Russia.,1,0,en,the city of novosibirsk,native.en,untagged
+905,157,The city of Kumasi is in India.,0,0,en,the city of kumasi,native.en,untagged
+906,337,The city of Volgograd is in Nigeria.,0,0,en,the city of volgograd,native.en,untagged
+907,1415,The city of Mazar-e Sharif is in India.,0,0,en,the city of mazar,native.en,untagged
+908,496,The city of Kisangani is in the Democratic Republic of the Congo.,1,0,en,the city of kisangani,native.en,untagged
+909,46,The city of Sambhaji Nagar is in India.,1,0,en,the city of sambhaji,native.en,untagged
+910,747,The city of Kyiv is in Russia.,0,0,en,the city of kyiv,native.en,untagged
+911,135,The city of Bamako is in India.,0,0,en,the city of bamako,native.en,untagged
+912,753,The city of Anyang-si is in Iraq.,0,0,en,the city of anyang,native.en,untagged
+913,462,The city of Chuzhou is in China.,1,0,en,the city of chuzhou,native.en,untagged
+914,1266,The city of Muzaffarabad is in Pakistan.,1,0,en,the city of muzaffarabad,native.en,untagged
+915,914,The city of Nanded is in India.,1,0,en,the city of nanded,native.en,untagged
+916,1295,The city of Tanggu is in South Korea.,0,0,en,the city of tanggu,native.en,untagged
+917,1328,The city of Mandalay is in Myanmar.,1,0,en,the city of mandalay,native.en,untagged
+918,439,The city of Al Basrah al Qadimah is in China.,0,0,en,the city of al,native.en,untagged
+919,177,The city of Hangzhou is in Russia.,0,0,en,the city of hangzhou,native.en,untagged
+920,570,The city of Zunyi is in China.,1,0,en,the city of zunyi,native.en,untagged
+921,1210,The city of Abu Dhabi is in the United Arab Emirates.,1,0,en,the city of abu,native.en,untagged
+922,424,The city of Sulaymaniyah is in Iraq.,1,0,en,the city of sulaymaniyah,native.en,untagged
+923,325,The city of Ulan Bator is in Ukraine.,0,0,en,the city of ulan,native.en,untagged
+924,643,The city of Johannesburg is in China.,0,0,en,the city of johannesburg,native.en,untagged
+925,664,The city of Prayagraj is in India.,1,0,en,the city of prayagraj,native.en,untagged
+926,350,The city of Zhangye is in China.,1,0,en,the city of zhangye,native.en,untagged
+927,447,The city of Tucson is in Canada.,0,0,en,the city of tucson,native.en,untagged
+928,983,The city of Huzhou is in Germany.,0,0,en,the city of huzhou,native.en,untagged
+929,17,The city of Nanchong is in Nigeria.,0,0,en,the city of nanchong,native.en,untagged
+930,900,The city of Mersin is in Turkey.,1,0,en,the city of mersin,native.en,untagged
+931,1098,The city of Da Nang is in Vietnam.,1,0,en,the city of da,native.en,untagged
+932,1084,The city of Bloemfontein is in South Africa.,1,0,en,the city of bloemfontein,native.en,untagged
+933,1468,The city of Xinyang is in China.,1,0,en,the city of xinyang,native.en,untagged
+934,1063,The city of Faisalabad is in India.,0,0,en,the city of faisalabad,native.en,untagged
+935,1014,The city of Wuzhou is in China.,1,0,en,the city of wuzhou,native.en,untagged
+936,1395,The city of Batam is in Turkey.,0,0,en,the city of batam,native.en,untagged
+937,345,The city of Maceio is in China.,0,0,en,the city of maceio,native.en,untagged
+938,475,The city of Ya'an is in Morocco.,0,0,en,the city of ya,native.en,untagged
+939,313,The city of Shaoguan is in Pakistan.,0,0,en,the city of shaoguan,native.en,untagged
+940,754,The city of Kobe is in Japan.,1,0,en,the city of kobe,native.en,untagged
+941,1013,The city of Benoni is in the Philippines.,0,0,en,the city of benoni,native.en,untagged
+942,451,The city of Bouake is in China.,0,0,en,the city of bouake,native.en,untagged
+943,170,The city of Weifang is in China.,1,0,en,the city of weifang,native.en,untagged
+944,699,The city of Cotonou is in China.,0,0,en,the city of cotonou,native.en,untagged
+945,1494,The city of Tangerang is in Indonesia.,1,0,en,the city of tangerang,native.en,untagged
+946,133,The city of Changwon is in Indonesia.,0,0,en,the city of changwon,native.en,untagged
+947,813,The city of Jaboatao is in Syria.,0,0,en,the city of jaboatao,native.en,untagged
+948,1269,The city of Kotli is in the United States.,0,0,en,the city of kotli,native.en,untagged
+949,1199,The city of Homs is in Indonesia.,0,0,en,the city of homs,native.en,untagged
+950,830,The city of Dongying is in China.,1,0,en,the city of dongying,native.en,untagged
+951,78,The city of Chaozhou is in China.,1,0,en,the city of chaozhou,native.en,untagged
+952,950,The city of Kalyan is in India.,1,0,en,the city of kalyan,native.en,untagged
+953,1173,The city of Erbil is in Cuba.,0,0,en,the city of erbil,native.en,untagged
+954,346,The city of Joao Pessoa is in Brazil.,1,0,en,the city of joao,native.en,untagged
+955,396,The city of Tlalpan is in Mexico.,1,0,en,the city of tlalpan,native.en,untagged
+956,1228,The city of Indianapolis is in the United States.,1,0,en,the city of indianapolis,native.en,untagged
+957,389,The city of Bahawalpur is in China.,0,0,en,the city of bahawalpur,native.en,untagged
+958,385,The city of Pasig City is in Morocco.,0,0,en,the city of pasig,native.en,untagged
+959,895,The city of Sharjah is in China.,0,0,en,the city of sharjah,native.en,untagged
+960,1344,The city of Omdurman is in Sudan.,1,0,en,the city of omdurman,native.en,untagged
+961,119,The city of Malacca is in China.,0,0,en,the city of malacca,native.en,untagged
+962,1326,The city of Saitama is in Japan.,1,0,en,the city of saitama,native.en,untagged
+963,1195,The city of Bikaner is in South Korea.,0,0,en,the city of bikaner,native.en,untagged
+964,229,The city of Linfen is in India.,0,0,en,the city of linfen,native.en,untagged
+965,1270,The city of Nagpur is in India.,1,0,en,the city of nagpur,native.en,untagged
+966,21,The city of Jiaxing is in Ukraine.,0,0,en,the city of jiaxing,native.en,untagged
+967,1189,The city of Surat is in Burkina Faso.,0,0,en,the city of surat,native.en,untagged
+968,766,The city of Narela is in India.,1,0,en,the city of narela,native.en,untagged
+969,392,The city of Pyongyang is in North Korea.,1,0,en,the city of pyongyang,native.en,untagged
+970,250,The city of Maputo is in Mozambique.,1,0,en,the city of maputo,native.en,untagged
+971,243,The city of Mexicali is in South Africa.,0,0,en,the city of mexicali,native.en,untagged
+972,1110,The city of Madinat an Nasr is in Egypt.,1,0,en,the city of madinat,native.en,untagged
+973,35,The city of Tokyo is in Pakistan.,0,0,en,the city of tokyo,native.en,untagged
+974,593,The city of Douala is in Russia.,0,0,en,the city of douala,native.en,untagged
+975,671,The city of Semarang is in Saudi Arabia.,0,0,en,the city of semarang,native.en,untagged
+976,507,The city of Chattogram is in China.,0,0,en,the city of chattogram,native.en,untagged
+977,1392,The city of Denpasar is in Indonesia.,1,0,en,the city of denpasar,native.en,untagged
+978,1476,The city of Laiwu is in China.,1,0,en,the city of laiwu,native.en,untagged
+979,1120,The city of Jiujiang is in China.,1,0,en,the city of jiujiang,native.en,untagged
+980,1139,The city of Islamabad is in Japan.,0,0,en,the city of islamabad,native.en,untagged
+981,1215,The city of Lianyungang is in the Philippines.,0,0,en,the city of lianyungang,native.en,untagged
+982,109,The city of Macapa is in China.,0,0,en,the city of macapa,native.en,untagged
+983,1005,The city of Ciudad Guayana is in South Africa.,0,0,en,the city of ciudad,native.en,untagged
+984,379,The city of Casablanca is in Russia.,0,0,en,the city of casablanca,native.en,untagged
+985,869,The city of Ordos is in Brazil.,0,0,en,the city of ordos,native.en,untagged
+986,614,The city of Penza is in Russia.,1,0,en,the city of penza,native.en,untagged
+987,604,The city of Teresina is in Brazil.,1,0,en,the city of teresina,native.en,untagged
+988,1032,The city of Aktobe is in Kazakhstan.,1,0,en,the city of aktobe,native.en,untagged
+989,992,The city of Helsinki is in Finland.,1,0,en,the city of helsinki,native.en,untagged
+990,627,The city of Seoul is in Nicaragua.,0,0,en,the city of seoul,native.en,untagged
+991,796,The city of Zhangjiagang is in China.,1,0,en,the city of zhangjiagang,native.en,untagged
+992,902,The city of Guayaquil is in Ecuador.,1,0,en,the city of guayaquil,native.en,untagged
+993,660,The city of Sangli is in India.,1,0,en,the city of sangli,native.en,untagged
+994,582,The city of Hanzhong is in China.,1,0,en,the city of hanzhong,native.en,untagged
+995,1137,The city of Sargodha is in India.,0,0,en,the city of sargodha,native.en,untagged
+996,723,The city of Isfahan is in China.,0,0,en,the city of isfahan,native.en,untagged
+997,171,The city of Weifang is in Indonesia.,0,0,en,the city of weifang,native.en,untagged
+998,677,The city of Zaozhuang is in Belarus.,0,0,en,the city of zaozhuang,native.en,untagged
+999,238,The city of Kinshasa is in the Democratic Republic of the Congo.,1,0,en,the city of kinshasa,native.en,untagged
+1000,700,The city of Comilla is in Bangladesh.,1,0,en,the city of comilla,native.en,untagged
+1001,1093,The city of Ribeirao Preto is in China.,0,0,en,the city of ribeirao,native.en,untagged
+1002,1052,The city of Benxi is in China.,1,0,en,the city of benxi,native.en,untagged
+1003,1257,The city of Homyel' is in Iran.,0,0,en,the city of homyel,native.en,untagged
+1004,856,The city of Surakarta is in Indonesia.,1,0,en,the city of surakarta,native.en,untagged
+1005,709,The city of Juiz de Fora is in India.,0,0,en,the city of juiz,native.en,untagged
+1006,1469,The city of Xinyang is in Japan.,0,0,en,the city of xinyang,native.en,untagged
+1007,321,The city of Kakamega is in Russia.,0,0,en,the city of kakamega,native.en,untagged
+1008,120,The city of Busan is in South Korea.,1,0,en,the city of busan,native.en,untagged
+1009,1330,The city of Nampula is in Mozambique.,1,0,en,the city of nampula,native.en,untagged
+1010,155,The city of Ahvaz is in China.,0,0,en,the city of ahvaz,native.en,untagged
+1011,1273,The city of Kolhapur is in Mozambique.,0,0,en,the city of kolhapur,native.en,untagged
+1012,624,The city of Hamhung is in North Korea.,1,0,en,the city of hamhung,native.en,untagged
+1013,138,The city of Mosul is in Iraq.,1,0,en,the city of mosul,native.en,untagged
+1014,125,The city of Matsuyama is in Burkina Faso.,0,0,en,the city of matsuyama,native.en,untagged
+1015,1011,The city of Soweto is in Gabon.,0,0,en,the city of soweto,native.en,untagged
+1016,456,The city of Yunfu is in China.,1,0,en,the city of yunfu,native.en,untagged
+1017,66,The city of Najafgarh is in India.,1,0,en,the city of najafgarh,native.en,untagged
+1018,848,The city of Erode is in India.,1,0,en,the city of erode,native.en,untagged
+1019,745,The city of Lviv is in China.,0,0,en,the city of lviv,native.en,untagged
+1020,1087,The city of Uberlandia is in India.,0,0,en,the city of uberlandia,native.en,untagged
+1021,780,The city of Budapest is in Hungary.,1,0,en,the city of budapest,native.en,untagged
+1022,1321,The city of Ouagadougou is in China.,0,0,en,the city of ouagadougou,native.en,untagged
+1023,626,The city of Seoul is in South Korea.,1,0,en,the city of seoul,native.en,untagged
+1024,605,The city of Teresina is in Vietnam.,0,0,en,the city of teresina,native.en,untagged
+1025,1479,The city of Hengyang is in Turkey.,0,0,en,the city of hengyang,native.en,untagged
+1026,1239,The city of Shubra al Khaymah is in Nigeria.,0,0,en,the city of shubra,native.en,untagged
+1027,415,The city of Hamamatsu is in Russia.,0,0,en,the city of hamamatsu,native.en,untagged
+1028,100,The city of Santiago de Queretaro is in Mexico.,1,0,en,the city of santiago,native.en,untagged
+1029,741,The city of Kharkiv is in Moldova.,0,0,en,the city of kharkiv,native.en,untagged
+1030,334,The city of Guarulhos is in Brazil.,1,0,en,the city of guarulhos,native.en,untagged
+1031,1225,The city of Shangyu is in the United Arab Emirates.,0,0,en,the city of shangyu,native.en,untagged
+1032,834,The city of Rajshahi is in Bangladesh.,1,0,en,the city of rajshahi,native.en,untagged
+1033,833,The city of Fushun is in Mexico.,0,0,en,the city of fushun,native.en,untagged
+1034,1379,The city of Tangier is in Ecuador.,0,0,en,the city of tangier,native.en,untagged
+1035,939,The city of Amman is in Malaysia.,0,0,en,the city of amman,native.en,untagged
+1036,1307,The city of Chenzhou is in Brazil.,0,0,en,the city of chenzhou,native.en,untagged
+1037,1401,The city of Xingtai is in Russia.,0,0,en,the city of xingtai,native.en,untagged
+1038,1081,The city of Chicago is in Madagascar.,0,0,en,the city of chicago,native.en,untagged
+1039,1075,The city of Abu Ghurayb is in Indonesia.,0,0,en,the city of abu,native.en,untagged
+1040,640,The city of Saint Petersburg is in Russia.,1,0,en,the city of saint,native.en,untagged
+1041,104,The city of Jeddah is in Saudi Arabia.,1,0,en,the city of jeddah,native.en,untagged
+1042,815,The city of Aracaju is in Russia.,0,0,en,the city of aracaju,native.en,untagged
+1043,998,The city of Oslo is in Norway.,1,0,en,the city of oslo,native.en,untagged
+1044,1406,The city of Huainan is in China.,1,0,en,the city of huainan,native.en,untagged
+1045,460,The city of Qionghai is in China.,1,0,en,the city of qionghai,native.en,untagged
+1046,585,The city of Guangzhou is in India.,0,0,en,the city of guangzhou,native.en,untagged
+1047,1055,The city of Fortaleza is in Honduras.,0,0,en,the city of fortaleza,native.en,untagged
+1048,1265,The city of Bishkek is in Germany.,0,0,en,the city of bishkek,native.en,untagged
+1049,497,The city of Kisangani is in China.,0,0,en,the city of kisangani,native.en,untagged
+1050,702,The city of Sao Bernardo do Campo is in Brazil.,1,0,en,the city of sao,native.en,untagged
+1051,375,The city of Bucharest is in Italy.,0,0,en,the city of bucharest,native.en,untagged
+1052,975,The city of Krasnoyarsk is in India.,0,0,en,the city of krasnoyarsk,native.en,untagged
+1053,1164,The city of Pune is in India.,1,0,en,the city of pune,native.en,untagged
+1054,404,The city of Aguascalientes is in Mexico.,1,0,en,the city of aguascalientes,native.en,untagged
+1055,419,The city of Ghaziabad is in South Korea.,0,0,en,the city of ghaziabad,native.en,untagged
+1056,1220,The city of Guiyang is in China.,1,0,en,the city of guiyang,native.en,untagged
+1057,173,The city of Tianjin is in Bangladesh.,0,0,en,the city of tianjin,native.en,untagged
+1058,690,The city of Jiamusi is in China.,1,0,en,the city of jiamusi,native.en,untagged
+1059,827,The city of Guang'an is in Germany.,0,0,en,the city of guang,native.en,untagged
+1060,428,The city of Omsk is in Russia.,1,0,en,the city of omsk,native.en,untagged
+1061,1223,The city of Ganzhou is in South Korea.,0,0,en,the city of ganzhou,native.en,untagged
+1062,1291,The city of Zhuzhou is in France.,0,0,en,the city of zhuzhou,native.en,untagged
+1063,718,The city of Ecatepec de Morelos is in Mexico.,1,0,en,the city of ecatepec,native.en,untagged
+1064,282,The city of Nyala is in Sudan.,1,0,en,the city of nyala,native.en,untagged
+1065,1400,The city of Xingtai is in China.,1,0,en,the city of xingtai,native.en,untagged
+1066,1135,The city of Davao is in Brazil.,0,0,en,the city of davao,native.en,untagged
+1067,635,The city of Astrakhan is in India.,0,0,en,the city of astrakhan,native.en,untagged
+1068,738,The city of Saratov is in Russia.,1,0,en,the city of saratov,native.en,untagged
+1069,499,The city of Bobo-Dioulasso is in China.,0,0,en,the city of bobo,native.en,untagged
+1070,691,The city of Jiamusi is in Germany.,0,0,en,the city of jiamusi,native.en,untagged
+1071,0,The city of Krasnodar is in Russia.,1,0,en,the city of krasnodar,native.en,untagged
+1072,926,The city of Santa Maria Chimalhuacan is in Mexico.,1,0,en,the city of santa,native.en,untagged
+1073,1181,The city of Quezon City is in China.,0,0,en,the city of quezon,native.en,untagged
+1074,1185,The city of Leon de los Aldama is in China.,0,0,en,the city of leon,native.en,untagged
+1075,327,The city of Muscat is in Bangladesh.,0,0,en,the city of muscat,native.en,untagged
+1076,102,The city of Perm is in Russia.,1,0,en,the city of perm,native.en,untagged
+1077,213,The city of Tashkent is in Mexico.,0,0,en,the city of tashkent,native.en,untagged
+1078,852,The city of Nasiriyah is in Iraq.,1,0,en,the city of nasiriyah,native.en,untagged
+1079,246,The city of Kampung Baru Subang is in Malaysia.,1,0,en,the city of kampung,native.en,untagged
+1080,1475,The city of Shijiazhuang is in Uzbekistan.,0,0,en,the city of shijiazhuang,native.en,untagged
+1081,1209,The city of Pietermaritzburg is in China.,0,0,en,the city of pietermaritzburg,native.en,untagged
+1082,1350,The city of Nizhniy Novgorod is in Russia.,1,0,en,the city of nizhniy,native.en,untagged
+1083,1129,The city of Harbin is in Russia.,0,0,en,the city of harbin,native.en,untagged
+1084,1256,The city of Homyel' is in Belarus.,1,0,en,the city of homyel,native.en,untagged
+1085,365,The city of Bijie is in Indonesia.,0,0,en,the city of bijie,native.en,untagged
+1086,248,The city of Subang Jaya is in Malaysia.,1,0,en,the city of subang,native.en,untagged
+1087,736,The city of Bahcelievler is in Turkey.,1,0,en,the city of bahcelievler,native.en,untagged
+1088,26,The city of Yingkou is in China.,1,0,en,the city of yingkou,native.en,untagged
+1089,836,The city of Rangpur is in Bangladesh.,1,0,en,the city of rangpur,native.en,untagged
+1090,1354,The city of Xianning is in China.,1,0,en,the city of xianning,native.en,untagged
+1091,680,The city of Shenzhen is in China.,1,0,en,the city of shenzhen,native.en,untagged
+1092,1359,The city of Tonghua is in Venezuela.,0,0,en,the city of tonghua,native.en,untagged
+1093,3,The city of Lodz is in the Dominican Republic.,0,0,en,the city of lodz,native.en,untagged
+1094,134,The city of Bamako is in Mali.,1,0,en,the city of bamako,native.en,untagged
+1095,837,The city of Rangpur is in Russia.,0,0,en,the city of rangpur,native.en,untagged
+1096,355,The city of Wuhan is in Egypt.,0,0,en,the city of wuhan,native.en,untagged
+1097,292,The city of Irkutsk is in Russia.,1,0,en,the city of irkutsk,native.en,untagged
+1098,698,The city of Cotonou is in Benin.,1,0,en,the city of cotonou,native.en,untagged
+1099,1048,The city of Huaibei is in China.,1,0,en,the city of huaibei,native.en,untagged
+1100,1277,The city of Makassar is in China.,0,0,en,the city of makassar,native.en,untagged
+1101,369,The city of Hegang is in Russia.,0,0,en,the city of hegang,native.en,untagged
+1102,1234,The city of Santiago de Cuba is in Cuba.,1,0,en,the city of santiago,native.en,untagged
+1103,226,The city of Neijiang is in China.,1,0,en,the city of neijiang,native.en,untagged
+1104,339,The city of Ulyanovsk is in Ukraine.,0,0,en,the city of ulyanovsk,native.en,untagged
+1105,1287,The city of Asuncion is in Nigeria.,0,0,en,the city of asuncion,native.en,untagged
+1106,603,The city of Deyang is in Japan.,0,0,en,the city of deyang,native.en,untagged
+1107,454,The city of Shihezi is in China.,1,0,en,the city of shihezi,native.en,untagged
+1108,63,The city of Thane is in China.,0,0,en,the city of thane,native.en,untagged
+1109,990,The city of Samarinda is in Indonesia.,1,0,en,the city of samarinda,native.en,untagged
+1110,237,The city of Aparecida de Goiania is in China.,0,0,en,the city of aparecida,native.en,untagged
+1111,650,The city of Meizhou is in China.,1,0,en,the city of meizhou,native.en,untagged
+1112,112,The city of Poznan is in Poland.,1,0,en,the city of poznan,native.en,untagged
+1113,1472,The city of Wanning is in China.,1,0,en,the city of wanning,native.en,untagged
+1114,1247,The city of Langfang is in India.,0,0,en,the city of langfang,native.en,untagged
+1115,577,The city of Luohe is in Brazil.,0,0,en,the city of luohe,native.en,untagged
+1116,126,The city of Suwon is in South Korea.,1,0,en,the city of suwon,native.en,untagged
+1117,1008,The city of Al Hudaydah is in Yemen.,1,0,en,the city of al,native.en,untagged
+1118,1190,The city of Barnaul is in Russia.,1,0,en,the city of barnaul,native.en,untagged
+1119,851,The city of Mumbai is in China.,0,0,en,the city of mumbai,native.en,untagged
+1120,694,The city of Lubumbashi is in the Democratic Republic of the Congo.,1,0,en,the city of lubumbashi,native.en,untagged
+1121,137,The city of Acapulco de Juarez is in Morocco.,0,0,en,the city of acapulco,native.en,untagged
+1122,1009,The city of Al Hudaydah is in South Korea.,0,0,en,the city of al,native.en,untagged
+1123,1213,The city of Sao Paulo is in China.,0,0,en,the city of sao,native.en,untagged
+1124,7,The city of Baku is in Ukraine.,0,0,en,the city of baku,native.en,untagged
+1125,502,The city of Florianopolis is in Brazil.,1,0,en,the city of florianopolis,native.en,untagged
+1126,854,The city of Kahriz is in Iran.,1,0,en,the city of kahriz,native.en,untagged
+1127,947,The city of Meknes is in China.,0,0,en,the city of meknes,native.en,untagged
+1128,631,The city of Hubli is in Indonesia.,0,0,en,the city of hubli,native.en,untagged
+1129,929,The city of Urumqi is in Vietnam.,0,0,en,the city of urumqi,native.en,untagged
+1130,1285,The city of Gaziantep is in Mexico.,0,0,en,the city of gaziantep,native.en,untagged
+1131,407,The city of Kuala Lumpur is in Oman.,0,0,en,the city of kuala,native.en,untagged
+1132,1457,The city of Kathmandu is in China.,0,0,en,the city of kathmandu,native.en,untagged
+1133,357,The city of Nanchang is in Malaysia.,0,0,en,the city of nanchang,native.en,untagged
+1134,153,The city of Bhubaneswar is in China.,0,0,en,the city of bhubaneswar,native.en,untagged
+1135,343,The city of Sarajevo is in South Africa.,0,0,en,the city of sarajevo,native.en,untagged
+1136,305,The city of Orumiyeh is in Saudi Arabia.,0,0,en,the city of orumiyeh,native.en,untagged
+1137,1338,The city of Amritsar is in India.,1,0,en,the city of amritsar,native.en,untagged
+1138,612,The city of Hannover is in Germany.,1,0,en,the city of hannover,native.en,untagged
+1139,1177,The city of Uskudar is in Bulgaria.,0,0,en,the city of uskudar,native.en,untagged
+1140,280,The city of Bogor is in Indonesia.,1,0,en,the city of bogor,native.en,untagged
+1141,1337,The city of Chandigarh is in China.,0,0,en,the city of chandigarh,native.en,untagged
+1142,1448,The city of Ipoh is in Malaysia.,1,0,en,the city of ipoh,native.en,untagged
+1143,1080,The city of Chicago is in the United States.,1,0,en,the city of chicago,native.en,untagged
+1144,400,The city of Zaporizhzhya is in Ukraine.,1,0,en,the city of zaporizhzhya,native.en,untagged
+1145,468,The city of Puente Alto is in Chile.,1,0,en,the city of puente,native.en,untagged
+1146,504,The city of Cuiaba is in Brazil.,1,0,en,the city of cuiaba,native.en,untagged
+1147,534,The city of Goiania is in Brazil.,1,0,en,the city of goiania,native.en,untagged
+1148,1016,The city of Wanxian is in China.,1,0,en,the city of wanxian,native.en,untagged
+1149,903,The city of Guayaquil is in China.,0,0,en,the city of guayaquil,native.en,untagged
+1150,1196,The city of Mogadishu is in Somalia.,1,0,en,the city of mogadishu,native.en,untagged
+1151,550,The city of Kimhae is in South Korea.,1,0,en,the city of kimhae,native.en,untagged
+1152,1332,The city of Mysore is in India.,1,0,en,the city of mysore,native.en,untagged
+1153,1218,The city of Taicang is in China.,1,0,en,the city of taicang,native.en,untagged
+1154,1130,The city of Herat is in Afghanistan.,1,0,en,the city of herat,native.en,untagged
+1155,945,The city of Goyang-si is in Russia.,0,0,en,the city of goyang,native.en,untagged
+1156,163,The city of Izmir is in Iran.,0,0,en,the city of izmir,native.en,untagged
+1157,336,The city of Volgograd is in Russia.,1,0,en,the city of volgograd,native.en,untagged
+1158,59,The city of Makati City is in India.,0,0,en,the city of makati,native.en,untagged
+1159,1118,The city of Ningbo is in China.,1,0,en,the city of ningbo,native.en,untagged
+1160,1396,The city of Liupanshui is in China.,1,0,en,the city of liupanshui,native.en,untagged
+1161,1442,The city of Ha'il is in Saudi Arabia.,1,0,en,the city of ha,native.en,untagged
+1162,449,The city of Can Tho is in Venezuela.,0,0,en,the city of can,native.en,untagged
+1163,855,The city of Kahriz is in Uzbekistan.,0,0,en,the city of kahriz,native.en,untagged
+1164,1174,The city of Chelyabinsk is in Russia.,1,0,en,the city of chelyabinsk,native.en,untagged
+1165,1168,The city of Jamshedpur is in India.,1,0,en,the city of jamshedpur,native.en,untagged
+1166,1334,The city of Coimbatore is in India.,1,0,en,the city of coimbatore,native.en,untagged
+1167,437,The city of Baghdad is in China.,0,0,en,the city of baghdad,native.en,untagged
+1168,786,The city of Contagem is in Brazil.,1,0,en,the city of contagem,native.en,untagged
+1169,873,The city of Bengaluru is in China.,0,0,en,the city of bengaluru,native.en,untagged
+1170,1378,The city of Tangier is in Morocco.,1,0,en,the city of tangier,native.en,untagged
+1171,819,The city of Zigong is in Turkey.,0,0,en,the city of zigong,native.en,untagged
+1172,1006,The city of Ho Chi Minh City is in Vietnam.,1,0,en,the city of ho,native.en,untagged
+1173,586,The city of Munich is in Germany.,1,0,en,the city of munich,native.en,untagged
+1174,941,The city of Hachioji is in Mexico.,0,0,en,the city of hachioji,native.en,untagged
+1175,348,The city of Shangqiu is in China.,1,0,en,the city of shangqiu,native.en,untagged
+1176,1229,The city of Indianapolis is in Côte d'Ivoire.,0,0,en,the city of indianapolis,native.en,untagged
+1177,1028,The city of Brazzaville is in the Republic of the Congo.,1,0,en,the city of brazzaville,native.en,untagged
+1178,1163,The city of Rajkot is in Russia.,0,0,en,the city of rajkot,native.en,untagged
+1179,463,The city of Chuzhou is in India.,0,0,en,the city of chuzhou,native.en,untagged
+1180,1160,The city of Taguig is in the Philippines.,1,0,en,the city of taguig,native.en,untagged
+1181,1398,The city of Shangrao is in China.,1,0,en,the city of shangrao,native.en,untagged
+1182,653,The city of Yangjiang is in Indonesia.,0,0,en,the city of yangjiang,native.en,untagged
+1183,573,The city of Zhanjiang is in India.,0,0,en,the city of zhanjiang,native.en,untagged
+1184,647,The city of Anyang is in Kuwait.,0,0,en,the city of anyang,native.en,untagged
+1185,595,The city of Kashgar is in Turkey.,0,0,en,the city of kashgar,native.en,untagged
+1186,890,The city of Sanya is in China.,1,0,en,the city of sanya,native.en,untagged
+1187,470,The city of Zhumadian is in China.,1,0,en,the city of zhumadian,native.en,untagged
+1188,800,The city of Jieyang is in China.,1,0,en,the city of jieyang,native.en,untagged
+1189,281,The city of Bogor is in South Korea.,0,0,en,the city of bogor,native.en,untagged
+1190,932,The city of Sofia is in Bulgaria.,1,0,en,the city of sofia,native.en,untagged
+1191,732,The city of Arequipa is in Peru.,1,0,en,the city of arequipa,native.en,untagged
+1192,715,The city of Beirut is in Algeria.,0,0,en,the city of beirut,native.en,untagged
+1193,832,The city of Fushun is in China.,1,0,en,the city of fushun,native.en,untagged
+1194,951,The city of Kalyan is in South Korea.,0,0,en,the city of kalyan,native.en,untagged
+1195,1144,The city of Rourkela is in India.,1,0,en,the city of rourkela,native.en,untagged
+1196,1037,The city of Tiruppur is in Japan.,0,0,en,the city of tiruppur,native.en,untagged
+1197,1202,The city of Thuan An is in Vietnam.,1,0,en,the city of thuan,native.en,untagged
+1198,455,The city of Shihezi is in Russia.,0,0,en,the city of shihezi,native.en,untagged
+1199,584,The city of Guangzhou is in China.,1,0,en,the city of guangzhou,native.en,untagged
+1200,147,The city of Beira is in India.,0,0,en,the city of beira,native.en,untagged
+1201,160,The city of Novokuznetsk is in Russia.,1,0,en,the city of novokuznetsk,native.en,untagged
+1202,1111,The city of Madinat an Nasr is in India.,0,0,en,the city of madinat,native.en,untagged
+1203,750,The city of Onitsha is in Nigeria.,1,0,en,the city of onitsha,native.en,untagged
+1204,1117,The city of Rui'an is in Indonesia.,0,0,en,the city of rui,native.en,untagged
+1205,859,The city of Banjarmasin is in South Korea.,0,0,en,the city of banjarmasin,native.en,untagged
+1206,952,The city of Jaipur is in India.,1,0,en,the city of jaipur,native.en,untagged
+1207,1253,The city of Dalian is in Saudi Arabia.,0,0,en,the city of dalian,native.en,untagged
+1208,628,The city of Meerut is in India.,1,0,en,the city of meerut,native.en,untagged
+1209,606,The city of Leipzig is in Germany.,1,0,en,the city of leipzig,native.en,untagged
+1210,164,The city of Lahore is in Pakistan.,1,0,en,the city of lahore,native.en,untagged
+1211,106,The city of Konya is in Turkey.,1,0,en,the city of konya,native.en,untagged
+1212,1040,The city of Asansol is in India.,1,0,en,the city of asansol,native.en,untagged
+1213,617,The city of Matola is in India.,0,0,en,the city of matola,native.en,untagged
+1214,1347,The city of Khartoum is in China.,0,0,en,the city of khartoum,native.en,untagged
+1215,329,The city of Paranaque City is in India.,0,0,en,the city of paranaque,native.en,untagged
+1216,480,The city of Pingdingshan is in China.,1,0,en,the city of pingdingshan,native.en,untagged
+1217,498,The city of Bobo-Dioulasso is in Burkina Faso.,1,0,en,the city of bobo,native.en,untagged
+1218,1391,The city of Jakarta is in Colombia.,0,0,en,the city of jakarta,native.en,untagged
+1219,1281,The city of Dammam is in Russia.,0,0,en,the city of dammam,native.en,untagged
+1220,93,The city of Odesa is in China.,0,0,en,the city of odesa,native.en,untagged
+1221,809,The city of Lusaka is in Poland.,0,0,en,the city of lusaka,native.en,untagged
+1222,433,The city of Stockholm is in Russia.,0,0,en,the city of stockholm,native.en,untagged
+1223,1107,The city of Oklahoma City is in China.,0,0,en,the city of oklahoma,native.en,untagged
+1224,43,The city of Tiruchirappalli is in Iraq.,0,0,en,the city of tiruchirappalli,native.en,untagged
+1225,860,The city of Vladivostok is in Russia.,1,0,en,the city of vladivostok,native.en,untagged
+1226,1310,The city of Shenyang is in China.,1,0,en,the city of shenyang,native.en,untagged
+1227,967,The city of Erzurum is in the Democratic Republic of the Congo.,0,0,en,the city of erzurum,native.en,untagged
+1228,710,The city of Nagoya is in Japan.,1,0,en,the city of nagoya,native.en,untagged
+1229,1460,The city of Reynosa is in Mexico.,1,0,en,the city of reynosa,native.en,untagged
+1230,1426,The city of Cankaya is in Turkey.,1,0,en,the city of cankaya,native.en,untagged
+1231,765,The city of Theni is in Nigeria.,0,0,en,the city of theni,native.en,untagged
+1232,885,The city of Yaounde is in China.,0,0,en,the city of yaounde,native.en,untagged
+1233,556,The city of Culiacan is in Mexico.,1,0,en,the city of culiacan,native.en,untagged
+1234,1423,The city of Ankara is in Japan.,0,0,en,the city of ankara,native.en,untagged
+1235,69,The city of Borivli is in Ukraine.,0,0,en,the city of borivli,native.en,untagged
+1236,514,The city of Sendai is in Japan.,1,0,en,the city of sendai,native.en,untagged
+1237,509,The city of Nanjing is in Germany.,0,0,en,the city of nanjing,native.en,untagged
+1238,340,The city of Kota Bharu is in Malaysia.,1,0,en,the city of kota,native.en,untagged
+1239,221,The city of Cucuta is in India.,0,0,en,the city of cucuta,native.en,untagged
+1240,146,The city of Beira is in Mozambique.,1,0,en,the city of beira,native.en,untagged
+1241,1053,The city of Benxi is in Brazil.,0,0,en,the city of benxi,native.en,untagged
+1242,1138,The city of Islamabad is in Pakistan.,1,0,en,the city of islamabad,native.en,untagged
+1243,803,The city of Longyan is in Benin.,0,0,en,the city of longyan,native.en,untagged
+1244,508,The city of Nanjing is in China.,1,0,en,the city of nanjing,native.en,untagged
+1245,1339,The city of Amritsar is in Moldova.,0,0,en,the city of amritsar,native.en,untagged
+1246,176,The city of Hangzhou is in China.,1,0,en,the city of hangzhou,native.en,untagged
+1247,804,The city of Dandong is in China.,1,0,en,the city of dandong,native.en,untagged
+1248,168,The city of Zhaotong is in China.,1,0,en,the city of zhaotong,native.en,untagged
+1249,1296,The city of Shantou is in China.,1,0,en,the city of shantou,native.en,untagged
+1250,1376,The city of Bucheon-si is in South Korea.,1,0,en,the city of bucheon,native.en,untagged
+1251,129,The city of Incheon is in India.,0,0,en,the city of incheon,native.en,untagged
+1252,189,The city of Marseille is in Russia.,0,0,en,the city of marseille,native.en,untagged
+1253,136,The city of Acapulco de Juarez is in Mexico.,1,0,en,the city of acapulco,native.en,untagged
+1254,1362,The city of Grosszschocher is in Germany.,1,0,en,the city of grosszschocher,native.en,untagged
+1255,894,The city of Sharjah is in the United Arab Emirates.,1,0,en,the city of sharjah,native.en,untagged
+1256,197,The city of Naberezhnyye Chelny is in Brazil.,0,0,en,the city of naberezhnyye,native.en,untagged
+1257,290,The city of Khabarovsk is in Russia.,1,0,en,the city of khabarovsk,native.en,untagged
+1258,36,The city of Mombasa is in Kenya.,1,0,en,the city of mombasa,native.en,untagged
+1259,767,The city of Narela is in Turkey.,0,0,en,the city of narela,native.en,untagged
+1260,232,The city of Qiqihar is in China.,1,0,en,the city of qiqihar,native.en,untagged
+1261,645,The city of Wanzhou is in India.,0,0,en,the city of wanzhou,native.en,untagged
+1262,33,The city of Bauchi is in Iran.,0,0,en,the city of bauchi,native.en,untagged
+1263,1112,The city of Yibin is in China.,1,0,en,the city of yibin,native.en,untagged
+1264,1445,The city of Haiphong is in the Dominican Republic.,0,0,en,the city of haiphong,native.en,untagged
+1265,1068,The city of Makhachkala is in Russia.,1,0,en,the city of makhachkala,native.en,untagged
+1266,865,The city of Voronezh is in Romania.,0,0,en,the city of voronezh,native.en,untagged
+1267,341,The city of Kota Bharu is in Norway.,0,0,en,the city of kota,native.en,untagged
+1268,1085,The city of Bloemfontein is in China.,0,0,en,the city of bloemfontein,native.en,untagged
+1269,199,The city of Mukalla is in Iran.,0,0,en,the city of mukalla,native.en,untagged
+1270,429,The city of Omsk is in China.,0,0,en,the city of omsk,native.en,untagged
+1271,1474,The city of Shijiazhuang is in China.,1,0,en,the city of shijiazhuang,native.en,untagged
+1272,876,The city of Turin is in Italy.,1,0,en,the city of turin,native.en,untagged
+1273,730,The city of Cimahi is in Indonesia.,1,0,en,the city of cimahi,native.en,untagged
+1274,919,The city of Dombivli is in Mali.,0,0,en,the city of dombivli,native.en,untagged
+1275,297,The city of Santiago de los Caballeros is in India.,0,0,en,the city of santiago,native.en,untagged
+1276,73,The city of Liaocheng is in South Korea.,0,0,en,the city of liaocheng,native.en,untagged
+1277,807,The city of Frankfurt am Main is in Vietnam.,0,0,en,the city of frankfurt,native.en,untagged
+1278,547,The city of Osaka is in India.,0,0,en,the city of osaka,native.en,untagged
+1279,949,The city of Antananarivo is in Germany.,0,0,en,the city of antananarivo,native.en,untagged
+1280,1377,The city of Bucheon-si is in Romania.,0,0,en,the city of bucheon,native.en,untagged
+1281,1356,The city of Suqian is in China.,1,0,en,the city of suqian,native.en,untagged
+1282,1363,The city of Grosszschocher is in China.,0,0,en,the city of grosszschocher,native.en,untagged
+1283,821,The city of Kunshan is in Russia.,0,0,en,the city of kunshan,native.en,untagged
+1284,663,The city of Guwahati is in China.,0,0,en,the city of guwahati,native.en,untagged
+1285,1241,The city of Al Mahallah al Kubra is in Afghanistan.,0,0,en,the city of al,native.en,untagged
+1286,1349,The city of Gujranwala is in China.,0,0,en,the city of gujranwala,native.en,untagged
+1287,623,The city of Himeji is in the Democratic Republic of the Congo.,0,0,en,the city of himeji,native.en,untagged
+1288,1162,The city of Rajkot is in India.,1,0,en,the city of rajkot,native.en,untagged
+1289,212,The city of Tashkent is in Uzbekistan.,1,0,en,the city of tashkent,native.en,untagged
+1290,1035,The city of Chisinau is in Germany.,0,0,en,the city of chisinau,native.en,untagged
+1291,1361,The city of Hezhou is in India.,0,0,en,the city of hezhou,native.en,untagged
+1292,1388,The city of Karbala is in Iraq.,1,0,en,the city of karbala,native.en,untagged
+1293,727,The city of Petaling Jaya is in Bosnia and Herzegovina.,0,0,en,the city of petaling,native.en,untagged
+1294,701,The city of Comilla is in China.,0,0,en,the city of comilla,native.en,untagged
+1295,1022,The city of Hefei is in China.,1,0,en,the city of hefei,native.en,untagged
+1296,1431,The city of Rawalpindi is in Brazil.,0,0,en,the city of rawalpindi,native.en,untagged
+1297,234,The city of Baotou is in China.,1,0,en,the city of baotou,native.en,untagged
+1298,1007,The city of Ho Chi Minh City is in Gabon.,0,0,en,the city of ho,native.en,untagged
+1299,978,The city of Pingliang is in China.,1,0,en,the city of pingliang,native.en,untagged
+1300,67,The city of Najafgarh is in Brazil.,0,0,en,the city of najafgarh,native.en,untagged
+1301,24,The city of Anqing is in China.,1,0,en,the city of anqing,native.en,untagged
+1302,216,The city of Hanoi is in Vietnam.,1,0,en,the city of hanoi,native.en,untagged
+1303,812,The city of Jaboatao is in Brazil.,1,0,en,the city of jaboatao,native.en,untagged
+1304,735,The city of Multan is in Ecuador.,0,0,en,the city of multan,native.en,untagged
+1305,1153,The city of Tlaquepaque is in Japan.,0,0,en,the city of tlaquepaque,native.en,untagged
+1306,111,The city of Belo Horizonte is in North Korea.,0,0,en,the city of belo,native.en,untagged
+1307,166,The city of Zhenjiang is in China.,1,0,en,the city of zhenjiang,native.en,untagged
+1308,1429,The city of Ufa is in South Korea.,0,0,en,the city of ufa,native.en,untagged
+1309,207,The city of Istanbul is in Ghana.,0,0,en,the city of istanbul,native.en,untagged
+1310,274,The city of Jabalpur is in India.,1,0,en,the city of jabalpur,native.en,untagged
+1311,41,The city of Warangal is in Yemen.,0,0,en,the city of warangal,native.en,untagged
+1312,591,The city of Malang is in Morocco.,0,0,en,the city of malang,native.en,untagged
+1313,1402,The city of Qujing is in China.,1,0,en,the city of qujing,native.en,untagged
+1314,525,The city of Novosibirsk is in the Philippines.,0,0,en,the city of novosibirsk,native.en,untagged
+1315,287,The city of Antalya is in Germany.,0,0,en,the city of antalya,native.en,untagged
+1316,469,The city of Puente Alto is in China.,0,0,en,the city of puente,native.en,untagged
+1317,121,The city of Busan is in Brazil.,0,0,en,the city of busan,native.en,untagged
+1318,1491,The city of Kirkuk is in China.,0,0,en,the city of kirkuk,native.en,untagged
+1319,1252,The city of Dalian is in China.,1,0,en,the city of dalian,native.en,untagged
+1320,928,The city of Urumqi is in China.,1,0,en,the city of urumqi,native.en,untagged
+1321,673,The city of Khulna is in Japan.,0,0,en,the city of khulna,native.en,untagged
+1322,1141,The city of Zapopan is in China.,0,0,en,the city of zapopan,native.en,untagged
+1323,886,The city of Zhangzhou is in China.,1,0,en,the city of zhangzhou,native.en,untagged
+1324,956,The city of Bhilai is in India.,1,0,en,the city of bhilai,native.en,untagged
+1325,25,The city of Anqing is in Brazil.,0,0,en,the city of anqing,native.en,untagged
+1326,1134,The city of Davao is in the Philippines.,1,0,en,the city of davao,native.en,untagged
+1327,149,The city of Naucalpan de Juarez is in Honduras.,0,0,en,the city of naucalpan,native.en,untagged
+1328,925,The city of Johor Bahru is in Cuba.,0,0,en,the city of johor,native.en,untagged
+1329,1176,The city of Uskudar is in Turkey.,1,0,en,the city of uskudar,native.en,untagged
+1330,696,The city of San Miguel de Tucuman is in Argentina.,1,0,en,the city of san,native.en,untagged
+1331,843,The city of Latakia is in Somalia.,0,0,en,the city of latakia,native.en,untagged
+1332,889,The city of Yangquan is in Hungary.,0,0,en,the city of yangquan,native.en,untagged
+1333,598,The city of Tianshui is in China.,1,0,en,the city of tianshui,native.en,untagged
+1334,1020,The city of Wuwei is in China.,1,0,en,the city of wuwei,native.en,untagged
+1335,139,The city of Mosul is in China.,0,0,en,the city of mosul,native.en,untagged
+1336,749,The city of Kitakyushu is in Yemen.,0,0,en,the city of kitakyushu,native.en,untagged
+1337,1284,The city of Gaziantep is in Turkey.,1,0,en,the city of gaziantep,native.en,untagged
+1338,1004,The city of Ciudad Guayana is in Venezuela.,1,0,en,the city of ciudad,native.en,untagged
+1339,323,The city of Agadir is in Bangladesh.,0,0,en,the city of agadir,native.en,untagged
+1340,180,The city of Anshan is in China.,1,0,en,the city of anshan,native.en,untagged
+1341,1272,The city of Kolhapur is in India.,1,0,en,the city of kolhapur,native.en,untagged
+1342,450,The city of Bouake is in Côte d'Ivoire.,1,0,en,the city of bouake,native.en,untagged
+1343,607,The city of Leipzig is in Russia.,0,0,en,the city of leipzig,native.en,untagged
+1344,1043,The city of Suizhou is in Japan.,0,0,en,the city of suizhou,native.en,untagged
+1345,296,The city of Santiago de los Caballeros is in the Dominican Republic.,1,0,en,the city of santiago,native.en,untagged
+1346,1293,The city of Xining is in the United Arab Emirates.,0,0,en,the city of xining,native.en,untagged
+1347,1250,The city of Guigang is in China.,1,0,en,the city of guigang,native.en,untagged
+1348,94,The city of Fort Worth is in the United States.,1,0,en,the city of fort,native.en,untagged
+1349,1364,The city of San Pedro Sula is in Honduras.,1,0,en,the city of san,native.en,untagged
+1350,637,The city of Aleppo is in China.,0,0,en,the city of aleppo,native.en,untagged
+1351,1304,The city of Lanzhou is in China.,1,0,en,the city of lanzhou,native.en,untagged
+1352,286,The city of Antalya is in Turkey.,1,0,en,the city of antalya,native.en,untagged
+1353,488,The city of Yerevan is in Armenia.,1,0,en,the city of yerevan,native.en,untagged
+1354,444,The city of Bandar Lampung is in Indonesia.,1,0,en,the city of bandar,native.en,untagged
+1355,1208,The city of Pietermaritzburg is in South Africa.,1,0,en,the city of pietermaritzburg,native.en,untagged
+1356,1198,The city of Homs is in Syria.,1,0,en,the city of homs,native.en,untagged
+1357,275,The city of Jabalpur is in Ukraine.,0,0,en,the city of jabalpur,native.en,untagged
+1358,806,The city of Frankfurt am Main is in Germany.,1,0,en,the city of frankfurt,native.en,untagged
+1359,1152,The city of Tlaquepaque is in Mexico.,1,0,en,the city of tlaquepaque,native.en,untagged
+1360,1206,The city of Pretoria is in South Africa.,1,0,en,the city of pretoria,native.en,untagged
+1361,32,The city of Bauchi is in Nigeria.,1,0,en,the city of bauchi,native.en,untagged
+1362,1104,The city of Bangkok is in Thailand.,1,0,en,the city of bangkok,native.en,untagged
+1363,307,The city of Zahedan is in Nicaragua.,0,0,en,the city of zahedan,native.en,untagged
+1364,770,The city of Chennai is in India.,1,0,en,the city of chennai,native.en,untagged
+1365,11,The city of Addis Ababa is in Indonesia.,0,0,en,the city of addis,native.en,untagged
+1366,872,The city of Bengaluru is in India.,1,0,en,the city of bengaluru,native.en,untagged
+1367,1067,The city of Port Harcourt is in Eritrea.,0,0,en,the city of port,native.en,untagged
+1368,86,The city of Sokoto is in Nigeria.,1,0,en,the city of sokoto,native.en,untagged
+1369,778,The city of Barranquilla is in Colombia.,1,0,en,the city of barranquilla,native.en,untagged
+1370,1060,The city of Dakar is in Senegal.,1,0,en,the city of dakar,native.en,untagged
+1371,1482,The city of Varanasi is in India.,1,0,en,the city of varanasi,native.en,untagged
+1372,1082,The city of Milwaukee is in the United States.,1,0,en,the city of milwaukee,native.en,untagged
+1373,1065,The city of Kyoto is in China.,0,0,en,the city of kyoto,native.en,untagged
+1374,782,The city of Pontianak is in Indonesia.,1,0,en,the city of pontianak,native.en,untagged
+1375,562,The city of Ebute Ikorodu is in Nigeria.,1,0,en,the city of ebute,native.en,untagged
+1376,209,The city of Callao is in Myanmar.,0,0,en,the city of callao,native.en,untagged
+1377,1172,The city of Erbil is in Iraq.,1,0,en,the city of erbil,native.en,untagged
+1378,739,The city of Saratov is in Indonesia.,0,0,en,the city of saratov,native.en,untagged
+1379,594,The city of Kashgar is in China.,1,0,en,the city of kashgar,native.en,untagged
+1380,123,The city of Seongnam-si is in Russia.,0,0,en,the city of seongnam,native.en,untagged
+1381,734,The city of Multan is in Pakistan.,1,0,en,the city of multan,native.en,untagged
+1382,931,The city of Qingdao is in India.,0,0,en,the city of qingdao,native.en,untagged
+1383,98,The city of Asmara is in Eritrea.,1,0,en,the city of asmara,native.en,untagged
+1384,377,The city of Ansan-si is in Canada.,0,0,en,the city of ansan,native.en,untagged
+1385,130,The city of Hwaseong-si is in South Korea.,1,0,en,the city of hwaseong,native.en,untagged
+1386,23,The city of Huaihua is in South Africa.,0,0,en,the city of huaihua,native.en,untagged
+1387,1408,The city of Binzhou is in China.,1,0,en,the city of binzhou,native.en,untagged
+1388,555,The city of San Luis Potosi is in the Democratic Republic of the Congo.,0,0,en,the city of san,native.en,untagged
+1389,370,The city of E'zhou is in China.,1,0,en,the city of e,native.en,untagged
+1390,383,The city of Oyo is in China.,0,0,en,the city of oyo,native.en,untagged
+1391,201,The city of Harare is in Turkey.,0,0,en,the city of harare,native.en,untagged
+1392,917,The city of Gwalior is in China.,0,0,en,the city of gwalior,native.en,untagged
+1393,368,The city of Hegang is in China.,1,0,en,the city of hegang,native.en,untagged
+1394,973,The city of Kryvyy Rih is in China.,0,0,en,the city of kryvyy,native.en,untagged
+1395,387,The city of Kano is in China.,0,0,en,the city of kano,native.en,untagged
+1396,816,The city of Londrina is in Brazil.,1,0,en,the city of londrina,native.en,untagged
+1397,1316,The city of Kandahar is in Afghanistan.,1,0,en,the city of kandahar,native.en,untagged
+1398,256,The city of Vilnius is in Lithuania.,1,0,en,the city of vilnius,native.en,untagged
+1399,1221,The city of Guiyang is in South Korea.,0,0,en,the city of guiyang,native.en,untagged
+1400,1119,The city of Ningbo is in South Korea.,0,0,en,the city of ningbo,native.en,untagged
+1401,169,The city of Zhaotong is in Iraq.,0,0,en,the city of zhaotong,native.en,untagged
+1402,1329,The city of Mandalay is in Algeria.,0,0,en,the city of mandalay,native.en,untagged
+1403,560,The city of General Santos is in the Philippines.,1,0,en,the city of general,native.en,untagged
+1404,373,The city of Campos dos Goytacazes is in Vietnam.,0,0,en,the city of campos,native.en,untagged
+1405,909,The city of Nuernberg is in China.,0,0,en,the city of nuernberg,native.en,untagged
+1406,719,The city of Ecatepec de Morelos is in India.,0,0,en,the city of ecatepec,native.en,untagged
+1407,791,The city of Asyut is in Japan.,0,0,en,the city of asyut,native.en,untagged
+1408,954,The city of Guntur is in India.,1,0,en,the city of guntur,native.en,untagged
+1409,1251,The city of Guigang is in Japan.,0,0,en,the city of guigang,native.en,untagged
+1410,1167,The city of Ludhiana is in Togo.,0,0,en,the city of ludhiana,native.en,untagged
+1411,1204,The city of Sanaa is in Yemen.,1,0,en,the city of sanaa,native.en,untagged
+1412,868,The city of Ordos is in China.,1,0,en,the city of ordos,native.en,untagged
+1413,972,The city of Kryvyy Rih is in Ukraine.,1,0,en,the city of kryvyy,native.en,untagged
+1414,1155,The city of Victoria de Durango is in Ghana.,0,0,en,the city of victoria,native.en,untagged
+1415,1456,The city of Kathmandu is in Nepal.,1,0,en,the city of kathmandu,native.en,untagged
+1416,1071,The city of Thiruvananthapuram is in Japan.,0,0,en,the city of thiruvananthapuram,native.en,untagged
+1417,964,The city of Lome is in Togo.,1,0,en,the city of lome,native.en,untagged
+1418,774,The city of Tehran is in Iran.,1,0,en,the city of tehran,native.en,untagged
+1419,324,The city of Ulan Bator is in Mongolia.,1,0,en,the city of ulan,native.en,untagged
+1420,203,The city of Sevastopol is in Pakistan.,0,0,en,the city of sevastopol,native.en,untagged
+1421,84,The city of Niamey is in Niger.,1,0,en,the city of niamey,native.en,untagged
+1422,633,The city of Dubai is in the United States.,0,0,en,the city of dubai,native.en,untagged
+1423,908,The city of Nuernberg is in Germany.,1,0,en,the city of nuernberg,native.en,untagged
+1424,611,The city of Zagreb is in Japan.,0,0,en,the city of zagreb,native.en,untagged
+1425,398,The city of Kemerovo is in Russia.,1,0,en,the city of kemerovo,native.en,untagged
+1426,91,The city of South Tangerang is in India.,0,0,en,the city of south,native.en,untagged
+1427,1106,The city of Oklahoma City is in the United States.,1,0,en,the city of oklahoma,native.en,untagged
+1428,430,The city of Ta'if is in Saudi Arabia.,1,0,en,the city of ta,native.en,untagged
+1429,779,The city of Barranquilla is in Pakistan.,0,0,en,the city of barranquilla,native.en,untagged
+1430,1143,The city of Visakhapatnam is in Indonesia.,0,0,en,the city of visakhapatnam,native.en,untagged
+1431,291,The city of Khabarovsk is in Saudi Arabia.,0,0,en,the city of khabarovsk,native.en,untagged
+1432,57,The city of Marrakesh is in Malaysia.,0,0,en,the city of marrakesh,native.en,untagged
+1433,1345,The city of Omdurman is in South Korea.,0,0,en,the city of omdurman,native.en,untagged
+1434,257,The city of Vilnius is in China.,0,0,en,the city of vilnius,native.en,untagged
+1435,888,The city of Yangquan is in China.,1,0,en,the city of yangquan,native.en,untagged
+1436,1454,The city of Yangon is in Myanmar.,1,0,en,the city of yangon,native.en,untagged
+1437,1066,The city of Port Harcourt is in Nigeria.,1,0,en,the city of port,native.en,untagged
+1438,388,The city of Bahawalpur is in Pakistan.,1,0,en,the city of bahawalpur,native.en,untagged
+1439,335,The city of Guarulhos is in China.,0,0,en,the city of guarulhos,native.en,untagged
+1440,273,"The city of Mianzhu, Deyang, Sichuan is in India.",0,0,en,the city of mianzhu,native.en,untagged
+1441,756,The city of Chiclayo is in Peru.,1,0,en,the city of chiclayo,native.en,untagged
+1442,1077,The city of Karaj is in India.,0,0,en,the city of karaj,native.en,untagged
+1443,1444,The city of Haiphong is in Vietnam.,1,0,en,the city of haiphong,native.en,untagged
+1444,128,The city of Incheon is in South Korea.,1,0,en,the city of incheon,native.en,untagged
+1445,802,The city of Longyan is in China.,1,0,en,the city of longyan,native.en,untagged
+1446,28,The city of Panshan is in China.,1,0,en,the city of panshan,native.en,untagged
+1447,1207,The city of Pretoria is in India.,0,0,en,the city of pretoria,native.en,untagged
+1448,882,The city of Battagram is in Pakistan.,1,0,en,the city of battagram,native.en,untagged
+1449,510,The city of Kaifeng is in China.,1,0,en,the city of kaifeng,native.en,untagged
+1450,675,The city of Korla is in Azerbaijan.,0,0,en,the city of korla,native.en,untagged
+1451,151,The city of Dehra Dun is in China.,0,0,en,the city of dehra,native.en,untagged
+1452,244,The city of Ciudad Juarez is in Mexico.,1,0,en,the city of ciudad,native.en,untagged
+1453,714,The city of Beirut is in Lebanon.,1,0,en,the city of beirut,native.en,untagged
+1454,543,The city of Tyumen is in Mexico.,0,0,en,the city of tyumen,native.en,untagged
+1455,544,The city of Orenburg is in Russia.,1,0,en,the city of orenburg,native.en,untagged
+1456,639,The city of Ar Raqqah is in Iraq.,0,0,en,the city of ar,native.en,untagged
+1457,697,The city of San Miguel de Tucuman is in China.,0,0,en,the city of san,native.en,untagged
+1458,1289,The city of Tebessa is in India.,0,0,en,the city of tebessa,native.en,untagged
+1459,1312,The city of Daqing is in China.,1,0,en,the city of daqing,native.en,untagged
+1460,423,The city of Ahmedabad is in China.,0,0,en,the city of ahmedabad,native.en,untagged
+1461,910,The city of Zarqa is in Jordan.,1,0,en,the city of zarqa,native.en,untagged
+1462,1171,The city of Bhiwandi is in China.,0,0,en,the city of bhiwandi,native.en,untagged
+1463,659,The city of Vadodara is in Russia.,0,0,en,the city of vadodara,native.en,untagged
+1464,797,The city of Zhangjiagang is in Brazil.,0,0,en,the city of zhangjiagang,native.en,untagged
+1465,1471,The city of Weinan is in Colombia.,0,0,en,the city of weinan,native.en,untagged
+1466,1201,The city of Port-au-Prince is in South Korea.,0,0,en,the city of port,native.en,untagged
+1467,99,The city of Asmara is in Indonesia.,0,0,en,the city of asmara,native.en,untagged
+1468,850,The city of Mumbai is in India.,1,0,en,the city of mumbai,native.en,untagged
+1469,448,The city of Can Tho is in Vietnam.,1,0,en,the city of can,native.en,untagged
+1470,1455,The city of Yangon is in Kenya.,0,0,en,the city of yangon,native.en,untagged
+1471,755,The city of Kobe is in China.,0,0,en,the city of kobe,native.en,untagged
+1472,976,The city of Quzhou is in China.,1,0,en,the city of quzhou,native.en,untagged
+1473,115,The city of Linyi is in Iraq.,0,0,en,the city of linyi,native.en,untagged
+1474,777,The city of Bayannur is in Russia.,0,0,en,the city of bayannur,native.en,untagged
+1475,72,The city of Liaocheng is in China.,1,0,en,the city of liaocheng,native.en,untagged
+1476,845,The city of Ashgabat is in Bangladesh.,0,0,en,the city of ashgabat,native.en,untagged
+1477,537,The city of Yaroslavl is in India.,0,0,en,the city of yaroslavl,native.en,untagged
+1478,849,The city of Erode is in China.,0,0,en,the city of erode,native.en,untagged
+1479,174,The city of Shaoxing is in China.,1,0,en,the city of shaoxing,native.en,untagged
+1480,87,The city of Sokoto is in South Korea.,0,0,en,the city of sokoto,native.en,untagged
+1481,551,The city of Kimhae is in Senegal.,0,0,en,the city of kimhae,native.en,untagged
+1482,705,The city of Feira de Santana is in China.,0,0,en,the city of feira,native.en,untagged
+1483,314,The city of Jilin is in China.,1,0,en,the city of jilin,native.en,untagged
+1484,1420,The city of Bujumbura is in Burundi.,1,0,en,the city of bujumbura,native.en,untagged
+1485,600,The city of Laibin is in China.,1,0,en,the city of laibin,native.en,untagged
+1486,1094,The city of The Bronx is in the United States.,1,0,en,the city of the,native.en,untagged
+1487,599,The city of Tianshui is in Canada.,0,0,en,the city of tianshui,native.en,untagged
+1488,277,The city of Bilimora is in Uzbekistan.,0,0,en,the city of bilimora,native.en,untagged
+1489,1033,The city of Aktobe is in Afghanistan.,0,0,en,the city of aktobe,native.en,untagged
+1490,1383,The city of Ulhasnagar is in Senegal.,0,0,en,the city of ulhasnagar,native.en,untagged
+1491,763,The city of Vijayawada is in Nigeria.,0,0,en,the city of vijayawada,native.en,untagged
+1492,835,The city of Rajshahi is in Russia.,0,0,en,the city of rajshahi,native.en,untagged
+1493,1216,The city of Xiaogan is in China.,1,0,en,the city of xiaogan,native.en,untagged
+1494,559,The city of Kaduna is in Turkey.,0,0,en,the city of kaduna,native.en,untagged
+1495,684,The city of Anshun is in China.,1,0,en,the city of anshun,native.en,untagged

@@ -1,0 +1,26 @@
+{
+  "language": "en",
+  "true_label_in_source": 1,
+  "shuffle_seed": 0,
+  "group_words": 4,
+  "n_input": 1496,
+  "n_output": 1496,
+  "sampled_from": null,
+  "sample_n": null,
+  "dropped_duplicate_ids": [],
+  "n_groups": 723,
+  "largest_group": 14,
+  "singleton_groups": 0,
+  "tags": {
+    "untagged": 1496
+  },
+  "cells": {
+    "label=0,polarity=0": 748,
+    "label=1,polarity=0": 748
+  },
+  "has_entity_spans": false,
+  "pooling_supported": [
+    "last",
+    "mean"
+  ]
+}
