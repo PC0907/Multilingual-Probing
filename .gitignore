@@ -26,3 +26,8 @@ logs/
 .DS_Store
 .vscode/
 *.code-workspace
+
+# source datasets and indices are small and shared with collaborators
+!data/raw/*.json
+!data/processed/**/index.csv
+!data/processed/**/index.manifest.json
