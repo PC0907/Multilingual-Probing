@@ -35,8 +35,11 @@ from pathlib import Path
 # make a statement false-looking, and "nur"/"ausschliesslich" are hedges that
 # writers reach for when constructing falsehoods.
 NEG_MARKERS = [
+    # German
     "nie", "kein", "keine", "keinen", "keiner", "nicht", "niemals",
     "ausschließlich", "ausschliesslich", "nur", "völlig", "voellig",
+    # English
+    "not", "never", "no", "none", "cannot", "n't", "neither", "nor", "only",
 ]
 
 RULE = "=" * 72
