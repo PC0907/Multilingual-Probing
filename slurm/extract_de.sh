@@ -31,8 +31,8 @@ echo
 echo "=== extraction ==="
 python scripts/02_extract.py \
     --model meta-llama/Llama-3.1-8B \
-    --index data/processed/de/index.csv \
-    --out   data/processed/de/llama-3.1-8b \
+    --index data/processed/de_v2/index.csv \
+    --out   data/processed/de_v2/llama-3.1-8b \
     --pooling last \
     --batch-size 16 \
     --max-length 128 \
@@ -40,4 +40,4 @@ python scripts/02_extract.py \
 
 echo
 echo "=== done ==="
-ls -la data/processed/de/llama-3.1-8b | head
+ls -la data/processed/de_v2/llama-3.1-8b | head
