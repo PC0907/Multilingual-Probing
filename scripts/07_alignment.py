@@ -98,8 +98,11 @@ def resampled_cross_cosine(
         ib = rng.choice(len(yb), n_per_split, replace=False)
         if len(np.unique(ya[ia])) < 2 or len(np.unique(yb[ib])) < 2:
             continue
-        da = mass_mean_direction(Xa[ia], ya[ia])
-        db = mass_mean_direction(Xb[ib], yb[ib])
+        try:
+            da = mass_mean_direction(Xa[ia], ya[ia])
+            db = mass_mean_direction(Xb[ib], yb[ib])
+        except ValueError:
+            continue          # degenerate layer, e.g. embeddings of a shared token
         out.append(cosine(da, db))
     return out
 
@@ -168,8 +171,13 @@ def main() -> int:
         Xb = np.array(np.load(args.cache_b / f"layer_{layer:02d}.npy", mmap_mode="r"),
                       dtype=np.float64)
 
-        da_full = mass_mean_direction(Xa, ya)
-        db_full = mass_mean_direction(Xb, yb)
+        try:
+            da_full = mass_mean_direction(Xa, ya)
+            db_full = mass_mean_direction(Xb, yb)
+        except ValueError as e:
+            print(f"{layer:>6}   skipped: {e}")
+            del Xa, Xb
+            continue
         # A silent sign flip turns +0.8 into -0.8 and reads as a finding.
         if not check_sign_convention(Xa, ya, da_full):
             raise SystemExit(f"layer {layer}: {args.name_a} direction has wrong sign")
