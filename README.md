@@ -168,17 +168,7 @@ RESULTS_ROOT="$PWD/results" PDF_PYTHON="$(which python)" bash study_truth_transp
 The X14 and replication figures and the report's comparison pages also read the translation-robustness and
 replication runs, which are not part of this repository. Without them those parts are skipped or fail.
 
----
 
-## Troubleshooting
-| Message | Meaning and fix |
-|---|---|
-| `GPU N is no longer idle` | Another process is using that GPU. Wait, or rerun with a free `GPU_INDEX`. Finished work is kept. |
-| `GatedRepoError` / 401 on download | Accept the model's licence on Hugging Face and check the token file path. |
-| `Only X GiB free before model download` | Free disk space; the largest model needs about 50 GB at the peak. |
-| `Input hash mismatch` | The prompts changed after activations were extracted. Rebuild them (step 2) and delete `caches/<model_id>`. |
-
----
 
 
 ## Licence
