@@ -180,19 +180,6 @@ replication runs, which are not part of this repository. Without them those part
 
 ---
 
-## Privacy: what must never be committed
-
-This repository contains no credentials, server addresses or personal paths. Keep it that way:
-- Never put tokens, passwords, SSH keys or `.env` files inside the repository. Pass the Hugging Face token as a file
-  path from outside it (step 4).
-- `models/`, `caches/`, `results/`, `logs/`, generated prompts and external data are ignored by `.gitignore`. Do not
-  force-add them.
-- Use GitHub's no-reply email for commits:
-  `git config user.email "<your-id>@users.noreply.github.com"`.
-- Before every push, run the scan and fix anything it reports:
-  ```bash
-  bash scripts/check_before_push.sh
-  ```
 
 ## Licence
 Add a licence file before making the repository public. The external datasets keep their own licences.
