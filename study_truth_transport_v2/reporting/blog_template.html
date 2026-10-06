@@ -1,0 +1,209 @@
+<title>Truth Directions Across Languages</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400;0,600;0,700;1,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a single ACL-style paper column (~68ch) with figures and tables allowed to widen to 1040px; a run ledger sits under the abstract. */
+:root {{
+  --paper: #fbfaf6; --ink: #1b2129; --muted: #5d6673; --rule: #d8d4c8; --accent: #1f4e79; --wash: #eef1ef;
+  --s1: #b4552f; --s2: #1f4e79; --s3: #5b8a3a; --s4: #8a4f9e;
+  --ok: #2f6b3a; --okbg: #e2efe2; --run: #7a5a00; --runbg: #f6ecc8; --wait: #4a5563; --waitbg: #e7e9ec; --na: #8b2c2c; --nabg: #f5e1df;
+  --serif: "STIX Two Text", "Times New Roman", Times, serif;
+  --sans: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  --mono: "IBM Plex Mono", "SFMono-Regular", Menlo, Consolas, monospace;
+}}
+@media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{
+  --paper: #14181d; --ink: #e6e3da; --muted: #9aa3ae; --rule: #343b44; --accent: #8db8e0; --wash: #1c2229;
+  --s1: #e08a63; --s2: #7fb0dd; --s3: #9cc77a; --s4: #c592d6;
+  --ok: #9fd3a6; --okbg: #1f3324; --run: #ecd27f; --runbg: #3a3216; --wait: #b9c0ca; --waitbg: #262c33; --na: #f0a59d; --nabg: #3d2220;
+  color-scheme: dark; }} }}
+:root[data-theme="dark"] {{
+  --paper: #14181d; --ink: #e6e3da; --muted: #9aa3ae; --rule: #343b44; --accent: #8db8e0; --wash: #1c2229;
+  --s1: #e08a63; --s2: #7fb0dd; --s3: #9cc77a; --s4: #c592d6;
+  --ok: #9fd3a6; --okbg: #1f3324; --run: #ecd27f; --runbg: #3a3216; --wait: #b9c0ca; --waitbg: #262c33; --na: #f0a59d; --nabg: #3d2220;
+  color-scheme: dark; }}
+body {{ background: var(--paper); color: var(--ink); font-family: var(--serif); font-size: 17px; line-height: 1.55; }}
+.wrap {{ max-width: 1040px; margin: 0 auto; padding-inline: 20px; padding-block: 40px 80px; }}
+.col {{ max-width: 68ch; margin: 0 auto; }}
+.venue {{ font-family: var(--sans); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); text-align: center; }}
+h1 {{ font-size: clamp(28px, 4.2vw, 40px); line-height: 1.15; text-align: center; font-weight: 700; margin: 14px auto 8px; max-width: 24ch; text-wrap: balance; }}
+.authors {{ text-align: center; font-size: 16px; color: var(--muted); }}
+.updated {{ text-align: center; font-family: var(--mono); font-size: 12.5px; color: var(--muted); margin-top: 10px; }}
+.abstract {{ margin: 34px auto 10px; max-width: 60ch; font-size: 15.5px; }}
+.abstract h2 {{ text-align: center; font-size: 16px; margin: 0 0 6px; }}
+.abstract p {{ text-align: justify; hyphens: auto; margin: 0; }}
+h2 {{ font-size: 21px; margin: 44px 0 10px; font-weight: 700; text-wrap: balance; }}
+h3 {{ font-size: 17.5px; margin: 28px 0 6px; font-weight: 700; }}
+p {{ margin: 0 0 12px; }}
+a {{ color: var(--accent); }}
+a:focus-visible, summary:focus-visible {{ outline: 2px solid var(--accent); outline-offset: 2px; }}
+code {{ font-family: var(--mono); font-size: .82em; background: var(--wash); padding: 1px 4px; border-radius: 3px; overflow-wrap: anywhere; }}
+.ci {{ color: var(--muted); font-size: .9em; }}
+.scroll {{ overflow-x: auto; max-width: 100%; }}
+figure {{ margin: 22px auto; }}
+figure.tbl, figure.fig {{ max-width: 68ch; }}
+figure.wide {{ max-width: 100%; }}
+figcaption {{ font-size: 14px; line-height: 1.45; color: var(--ink); margin: 8px 0; }}
+figure.fig figcaption {{ max-width: 68ch; margin-inline: auto; }}
+table {{ border-collapse: collapse; font-size: 13.5px; width: 100%; font-variant-numeric: tabular-nums; border-top: 1.6px solid var(--ink); border-bottom: 1.6px solid var(--ink); }}
+thead th {{ border-bottom: .8px solid var(--ink); font-weight: 600; text-align: left; padding: 6px 8px; vertical-align: bottom; font-family: var(--sans); font-size: 12px; }}
+td {{ padding: 4px 8px; vertical-align: top; }}
+th.num, td.num {{ text-align: right; white-space: nowrap; }}
+tbody tr:nth-child(even) td {{ background: var(--wash); }}
+sup {{ color: var(--accent); }}
+.chart {{ max-width: 100%; height: auto; display: block; }}
+.png {{ max-width: 100%; height: auto; display: block; margin: 0 auto; background: #ffffff; border-radius: 4px; }}
+.chart text {{ fill: var(--ink); font-family: var(--sans); }}
+.chart .ax {{ font-size: 10px; fill: var(--muted); }}
+.chart .ttl {{ font-size: 11.5px; font-weight: 600; }}
+.chart .mono {{ font-family: var(--mono); }}
+.chart .grid {{ stroke: var(--rule); stroke-width: .7; }}
+.chart .ref {{ stroke: var(--muted); stroke-dasharray: 4 3; stroke-width: 1; }}
+.ln {{ fill: none; stroke-width: 2; }}
+.ln.s1, .pt.s1 {{ stroke: var(--s1); }} .ln.s2, .pt.s2 {{ stroke: var(--s2); }} .ln.s3, .pt.s3 {{ stroke: var(--s3); }} .ln.s4, .pt.s4 {{ stroke: var(--s4); }}
+.pt.s1, .bar.s1, .sw.s1 {{ fill: var(--s1); background: var(--s1); }}
+.pt.s2, .bar.s2, .sw.s2 {{ fill: var(--s2); background: var(--s2); }}
+.pt.s3, .bar.s3, .sw.s3 {{ fill: var(--s3); background: var(--s3); }}
+.pt.s4, .bar.s4, .sw.s4 {{ fill: var(--s4); background: var(--s4); }}
+.pair {{ display: flex; flex-wrap: wrap; gap: 18px; justify-content: center; }}
+.pair > * {{ min-width: 0; }}
+.legend {{ display: flex; flex-wrap: wrap; gap: 14px; justify-content: center; font-family: var(--sans); font-size: 12.5px; margin-top: 6px; }}
+.legend .sw {{ display: inline-block; width: 11px; height: 11px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; }}
+.ledger td:nth-child(4) {{ font-size: 12.5px; color: var(--muted); }}
+.pill {{ font-family: var(--sans); font-size: 11.5px; font-weight: 600; padding: 2px 8px; border-radius: 10px; white-space: nowrap; letter-spacing: .02em; }}
+.pill.ok {{ color: var(--ok); background: var(--okbg); }} .pill.run {{ color: var(--run); background: var(--runbg); }}
+.pill.wait {{ color: var(--wait); background: var(--waitbg); }} .pill.na, .pill.bad {{ color: var(--na); background: var(--nabg); }}
+.queue {{ font-family: var(--sans); font-size: 14px; border-left: 3px solid var(--accent); padding: 8px 14px; background: var(--wash); margin: 18px 0; }}
+.pending {{ font-family: var(--sans); font-size: 14px; color: var(--muted); border: 1px dashed var(--rule); padding: 10px 14px; }}
+details {{ border-top: 1px solid var(--rule); padding: 8px 0; }}
+summary {{ cursor: pointer; font-weight: 600; font-size: 15px; }}
+details ul {{ font-size: 14.5px; padding-left: 20px; }}
+details li {{ margin: 6px 0; }}
+.refs li {{ font-size: 14.5px; margin: 4px 0; }}
+.sources {{ columns: 2 260px; font-size: 12px; padding-left: 18px; }}
+@media (max-width: 520px) {{ body {{ font-size: 16px; }} .wrap {{ padding-inline: 16px; }} }}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="venue">NAACL 2027 long-paper draft · living results page</div>
+  <h1>When Multilingual Truth Directions Align Without Transferring</h1>
+  <div class="authors">Anonymous submission · mass-mean probes · six languages · {n_models} model families</div>
+  <div class="updated">Last rebuilt from JSON artifacts: {updated}</div>
+</header>
+
+<section class="abstract">
+  <h2>Abstract</h2>
+  <p>{abstract}</p>
+</section>
+
+<div class="col">
+<div class="queue"><b>Run status.</b> {queue}</div>
+{ledger}
+
+<h2>1&nbsp; Introduction</h2>
+<p>Linear probes for truthfulness are often trained separately in several languages, and a high cosine between the resulting directions is read as evidence of a shared, language-independent truth representation. That reading conflates three things: the similarity of the facts used to train each probe, the geometry of the directions, and whether a direction trained in one language actually ranks and classifies statements in another.</p>
+<p>We separate these quantities. RQ-A fixes training size and varies only how many fact identities are shared between the two languages' training sets. RQ-B removes a cross-fitted behavioral-difficulty direction. RQ-C decomposes transfer into ranking (AUROC), standardized separation, offset, scale, and threshold transport for all 30 ordered language pairs. RQ-D conditions on whether the model behaviorally knows each fact in each language. RQ-E tests whether zero-overlap directions causally shift judgments. Post-core extensions compare against Rotation–Shift and LSI-style alignment (X1), add a neutral-text damage budget for steering (X2), evaluate zero-shot on professionally translated MMMLU and native-authored INCLUDE (X3, X6), replicate on further families, sizes and one training trajectory (X4, X5, X8, X9), ask which statistic tracks transfer (X7, X14), and test the overlap mechanism (X10 to X13). Every experiment is repeated with a second translation system and on an independently built claim set (Sections 5.11 and 5.12).</p>
+<p>We do not claim to be the first multilingual truth-probing study. The contribution is a controlled measurement design that separates content overlap, geometry, score transport, behavioral knowledge, and causal usefulness, together with evidence that raising latent alignment does not guarantee better truth transfer.</p>
+
+<h2>2&nbsp; Related Work</h2>
+<p>Two recent English-only studies question cosine as a way to compare probes. Ying, Hase and Kriegeskorte (2026) show that the Mahalanobis cosine to the out-of-distribution optimal discriminant predicts out-of-distribution AUROC; its within-class version is exactly the Fisher efficiency used in X7, an established discriminant-analysis diagnostic for which we claim no novelty. X14 adds their total-covariance version as a baseline. Varshney (2026) derives the sampling-noise floor of cosine between independent difference-in-means directions; X10 extends that noise model to training sets that share facts across languages.</p>
+<p>Li et al. (2025) compare multilingual probe accuracy, layer trends, and direction similarity in Gemma and Qwen. Marks and Tegmark (2023) introduced mass-mean truth directions and causal interventions in English. CrossHallu and Shared Doubt show that hallucination and confidence signals transfer across languages. Latent Space Intervention (LSI) learns a shared multilingual autoencoder latent for factual consistency, and Rotation–Shift (RoSh) applies per-language rotations and shifts across layers to close factual-judgment gaps. Work on emergent language-agnostic alignment and CLAS studies when cross-lingual representations converge. We use RoSh and LSI as baselines in adapted, clearly qualified forms (fixed-layer and same-dataset variants) and do not claim priority over them.</p>
+
+<h2>3&nbsp; Data and Setup</h2>
+<p><b>Claims.</b> 2,000 balanced English true/false statements with aligned German, Arabic, Hindi, French, and Spanish versions. Duplicated, paraphrased, or logically coupled rows are linked into 1,972 dependency groups, which are the unit for splitting (1,200/400/400 rows), allocation, residualization, and bootstrap inference. All primary results use non-English versions machine-translated by Claude Opus 5.5 under a frozen, label-blind protocol (names, numbers and units kept). The same experiments on NLLB translations are reported as a translation-system check (Section 5.11). No bilingual human review was carried out, so language-specific conclusions are provisional.</p>
+<p><b>Representation and probe.</b> The residual stream after one decoder block at the final statement token, under one translated judgment prompt. The mass-mean direction is the true-class centroid minus the false-class centroid; its threshold is the midpoint of projected class means. Only mass-mean probes are used. Test labels never choose layers, thresholds, transforms, steering magnitudes, checkpoints, or truncation.</p>
+<p><b>External evaluation.</b> Ten MMLU test questions per subject (57 subjects, fixed hash order; five questions with cross-language answer disagreement excluded), each yielding a true candidate and one fixed false candidate, in English and OpenAI MMMLU's professional translations. These are translations, not native-authored content. Long prompts are fitted to the frozen 512-token limit by a label-blind rule (Section 6).</p>
+{t_models}
+
+<h2>4&nbsp; Core Results (RQ-A to RQ-E)</h2>
+<h3>4.1&nbsp; Shared facts raise cosine, not transfer (RQ-A)</h3>
+<p>{rqa_text} Cosine rises with the share of matched fact identities (the slope interval excludes zero for Gemma, Qwen, and Mistral; Apertus's raw cosine is too noisy for a precise slope) while transfer AUROC is flat in every model, so a full-overlap cosine is contaminated by matched-content covariance and is not a clean estimate of language-independent truth geometry.</p>
+{fig_rqa}
+{t_rqa}
+<h3>4.2&nbsp; Difficulty explains a component (RQ-B)</h3>
+<p>Removing a cross-fitted difficulty direction lowers both cosine and transfer, so item difficulty contributes to the apparent truth geometry. A nonzero residual remains, which rules out the stronger claim that the direction is only difficulty.</p>
+{t_rqb}
+<h3>4.3&nbsp; Ranking transfers better than thresholds (RQ-C)</h3>
+<p>Cross-language AUROC is consistently higher than balanced accuracy at the frozen source threshold. Unlabeled target recentering changes no ranking but improves balanced accuracy, placing part of the failure in score transport rather than missing discrimination. The 30%/70% class-prior checks show where recentering becomes biased.</p>
+{t_rqc}
+{fig_rqc}
+{fig_rqc_ba}
+<h3>4.4&nbsp; Behavioral knowledge quadrants (RQ-D)</h3>
+<p>A fact is behaviorally known when at least two of three translated judgment templates are correct with a consistent margin sign. Conditioning on knowledge changes label balance and leaves many cells single-class, so these numbers are diagnostic and do not support a general claim about unexpressed knowledge.</p>
+{t_rqd}
+<h3>4.5&nbsp; Causal steering (RQ-E)</h3>
+<p>Adding the unit direction, scaled by the target projection standard deviation, at the final statement token shifts the true-versus-false judgment margin. Against random directions whose mean slope is near zero, the zero-overlap direction moves the margin strongly in Qwen, weakly in Gemma and Mistral, and not at all (slightly negative) in Apertus, so the causal result is model dependent.</p>
+{t_rqe}
+
+<h2>5&nbsp; Post-core Extensions</h2>
+<p>These analyses were specified after the core results were known (frozen 1 October 2026) and are reported as prospective extensions, not confirmatory tests.</p>
+<h3>5.1&nbsp; X1: label-blind alignment baselines</h3>
+<p>Centroid shift cannot change AUROC but improves threshold decisions. A correct fixed-layer orthogonal map (our RoSh adaptation) does not beat the raw direction on ranking, while scrambled correspondences fall to chance. Raising geometric alignment through a shared latent space does not reliably improve transfer.</p>
+{t_x1}
+{fig_x1}
+{t_lsi}
+{fig_lsi}
+<h3>5.2&nbsp; X2: damage-budgeted steering</h3>
+<p>The steering magnitude is selected from neutral FLORES continuation cost alone. When every grid magnitude passes the 0.05 budget, the selected |α| is capped by the preregistered grid rather than by the budget, and the slope should be read as an effect at the largest tested magnitude; the table shows how often this happens. Qwen's safe slopes are an order of magnitude larger than Gemma's and Mistral's. Apertus is the exception: neutral damage is large for most pairs and a safe magnitude exists for only a few. In the NLLB-translation run we traced this to a scale artifact: each Apertus unit direction put about 0.78 of its weight on one outlier hidden dimension (at most 0.16 in Qwen and Gemma), so the frozen scaling by target projection SD made one α unit incomparable across Apertus pairs. We keep the frozen rule and report this as a limitation (Section 6).</p>
+{t_x2}
+<h3>5.3&nbsp; X3: professionally translated MMMLU</h3>
+<p>Directions fit only on generic claims are applied zero-shot to MMMLU question–answer statements, a shift in both domain and form. The last column restricts to questions that needed no context compaction in any language, which tests whether truncation drives the result.</p>
+{t_x3}
+{fig_x3}
+<h3>5.4&nbsp; X4: Mistral-7B-v0.3 replication</h3>
+{x4}
+<h3>5.5&nbsp; X5: Pythia training trajectory (exploratory)</h3>
+<p>Six public checkpoints of one Pythia-1.4B-deduped run, with the layer re-selected on validation data at each step. Cosine and transfer both grow during training, but the overlap effect is visible even at random initialization: at step 0, shared facts raise cosine while AUROC is at chance. Zero- and full-overlap AUROC coincide at every step. This describes one 1.4B run, not a general training law.</p>
+{t_x5}
+
+<h3>5.6&nbsp; X6: native-authored exam questions (INCLUDE)</h3>
+<p>To test transfer beyond translated content, X6 applies the same generic-claim directions zero-shot to INCLUDE, a benchmark of exam questions written in each language from local sources (Arabic 540, German 138, Hindi 543, French 419, Spanish 549 questions after label-blind exclusions). Each question yields one true and one hash-selected false candidate. INCLUDE has no English subset. The protocol was frozen before any INCLUDE activation existed. German has only 138 questions, so its intervals are wide.</p>
+{t_x6}
+
+<h3>5.7&nbsp; X7: which statistic tracks transfer?</h3>
+<p>The extensions above show that Euclidean cosine can rise without transfer. X7 asks what should be reported instead, across every decoder block of every model (frozen before any X7 outcome). P1 is the standard cosine between source and target probes. P2, translation consistency, is the correlation of the source probe's scores on the source- and target-language versions of the same unlabeled validation statements; it needs no target labels. P3, Fisher efficiency, is the source direction's target separability as a fraction of the best linear discriminant's (uses target training labels; explanatory). The preregistered primary test (H1) is whether P2 tracks held-out AUROC better than P1.</p>
+{t_x7}
+{fig_x7}
+<h3>5.8&nbsp; X8 and X9: scale, an open-data family, and post-training</h3>
+<p>The frozen core and the cache-only extensions are repeated on Qwen3 base models from 0.6B upward, on OLMo-2-7B, and on post-trained Qwen3-8B (same base-style prompts). Steering is not run for these models.</p>
+{t_x8}
+<h3>5.9&nbsp; X10 to X13: testing the mechanism, translation quality, few-shot labels, and probe families</h3>
+<p>Frozen in a separate protocol before any output existed, on regenerated activations that reproduced stored RQ-C results exactly. X10 tests whether a closed-form estimator-noise model, fitted only on training-pool statistics, predicts each pair's overlap slope of cosine. X11 repeats the transfer analysis after dropping the 10% of test claims per language with the lowest LaBSE similarity to the English source. X12 asks whether a few labeled target statements (k = 8 to 64 per class) estimate Fisher efficiency well enough to beat measuring AUROC on those same items. X13 repeats the overlap experiment with shrinkage LDA and L2 logistic regression probes.</p>
+{t_x10}
+
+<h3>5.10&nbsp; X14: the reference direction matters</h3>
+<p>Frozen before any output (protocol/X14_PREREGISTRATION.md). X14 compares Euclidean cosine and Fisher efficiency with a total-covariance Mahalanobis cosine computed against two references: the target's trained probe, and the target's optimal discriminant (inverse pooled covariance times the class-mean difference). It also tests whether Proposition 1, AUROC = Φ(F·d*/√2), predicts transfer with no fitted parameter, and whether removing high-variance outlier dimensions explains the Apertus failure.</p>
+{t_x14}
+
+<h3>5.11&nbsp; Translation robustness: NLLB versus Claude Opus 5.5</h3>
+{t_trans}
+
+<h3>5.12&nbsp; Replication on an independently built claim set (v5)</h3>
+{t_v5}
+
+<h2>6&nbsp; Deviations and Scope Log</h2>
+<p>Every deviation was recorded before the affected outcome was inspected. Expand an entry to read it in full.</p>
+{deviations}
+
+<h2>7&nbsp; Limitations</h2>
+<p>The five non-English claim files are machine translations (Claude Opus 5.5, with NLLB as a check) without bilingual human review. They were chosen as primary by the first author after results for three core models and the automatic translation checks had been seen, and without the planned blind human comparison; the NLLB results show that no conclusion depends on that choice. The v5 replication set inherits its labels from mLAMA, its false claims are not fact-checked, and it contains a name-overlap shortcut (handled by a shortcut-free control). The overlap formula (X10) does not predict Apertus, and logistic-regression regularization sat at the grid edge in most models. MMMLU is professionally translated, not native-authored; X6 adds native-authored INCLUDE questions as an external test, but the training claims themselves remain translations. Llama-3.1-8B was never run because its repository is manually gated and no approved access existed when models were frozen. Gemma's X2, X3, and X6 were run late, after Hugging Face access was obtained, on the same exact revision with a regenerated cache that reproduced the stored results exactly. RQ-D quadrants are often label-imbalanced. The RoSh and LSI comparisons are qualified adaptations. X5 covers one 1.4B training run and cannot identify a general phase transition.</p>
+
+<h2>References</h2>
+<ul class="refs">
+<li>Li et al. 2025. Multilingual probing of truth representations. <a href="https://aclanthology.org/2025.xllm-1.7/">XLLM 2025</a>.</li>
+<li>Marks and Tegmark. 2023. The Geometry of Truth. <a href="https://arxiv.org/abs/2310.06824">arXiv:2310.06824</a>.</li>
+<li>Rotation–Shift (RoSh). 2026. <a href="https://arxiv.org/abs/2609.34678">arXiv:2609.34678</a>.</li>
+<li>Latent Space Intervention (LSI). 2026. <a href="https://arxiv.org/abs/2608.28860">arXiv:2608.28860</a>.</li>
+<li>CrossHallu. 2026. <a href="https://arxiv.org/abs/2607.04029">arXiv:2607.04029</a>.</li>
+<li>Shared Doubt. 2026. <a href="https://arxiv.org/abs/2605.31220">arXiv:2605.31220</a>.</li>
+<li>CLAS. 2026. <a href="https://arxiv.org/abs/2601.16390">arXiv:2601.16390</a>.</li>
+<li>Ying, Hase and Kriegeskorte. 2026. Comparing Linear Probes with Mahalanobis Cosine Similarity. <a href="https://arxiv.org/abs/2606.19603">arXiv:2606.19603</a>.</li>
+<li>Varshney. 2026. Cosine Similarity Is Not Evidence. <a href="https://arxiv.org/abs/2609.30275">arXiv:2609.30275</a>.</li>
+<li>Emergence of Language-Agnostic Alignment. 2024. <a href="https://arxiv.org/abs/2406.13229">arXiv:2406.13229</a>.</li>
+</ul>
+
+<h2>Appendix: Source Artifacts</h2>
+<p>Each table is computed at build time from these files under <code>study_truth_transport_v2/results/remote/</code>.</p>
+<ul class="sources">{sources}</ul>
+</div>
+</div>

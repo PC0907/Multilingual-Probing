@@ -1,0 +1,35 @@
+{
+  "version": "3.0-candidate",
+  "complete": true,
+  "parent_dataset": "generic_claims_2000_v2 (NLLB translations; not included)",
+  "parent_manifest_sha256": "9129c5e7c576b229cc66f174ee030860c126a7be13cb6fce6aca5ff6db7d9238",
+  "languages": [
+    "en",
+    "de",
+    "ar",
+    "hi",
+    "fr",
+    "es"
+  ],
+  "n": 2000,
+  "labels": {
+    "0": 1000,
+    "1": 1000
+  },
+  "n_dependency_groups": 1972,
+  "translation_human_validated": false,
+  "validation_status": "candidate; LLM translations (label-blind); groups, split, labels and English identical to v2; independent bilingual review pending",
+  "data_sha256": {
+    "en": "959ea4b58d735b5ea976920498434699d22288fed78c92d2fbe1a483f31f9692",
+    "de": "d12ec5eab676cdbc8b04f073f090c16e26c5bc56acb0fa777cf355033f69dc3e",
+    "ar": "d3d13ddab9cec0f00de2b61aad3e9fdc456e3fe762aac1c7b3ff3813073948af",
+    "hi": "f1a2fa8602546cbb6102e607348255a5313f3c90ecbebacc6da1ddf6ef3f989b",
+    "fr": "f540a2ce4132226d8a82fc327afaaea88175a812a07e50e0861a207a791af483",
+    "es": "8ca5ee818b316a86d54bf27d8e7c1c7e01b8f1397ccac11072d81104265f6c6f"
+  },
+  "groups_sha256": "5133d432eb06307c55a3f3cec1a8e50de3a2bdd9271d5455797ee2280913c5c5",
+  "split_sha256": "24771a07118f783bc7318716527b5f83f0bf7f7913a2b28aae9b91dfd340fb36",
+  "source_csv_sha256": "ca2c8e4b6807e60955854a9ced7d2bad6ecb31b6a90bf8f34bcf1d53ca4e6c58",
+  "translation_model": "claude-opus-5-5",
+  "translation_protocol": "generic_claims_2000_v3/TRANSLATION_PROTOCOL.md"
+}

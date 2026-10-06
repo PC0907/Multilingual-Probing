@@ -1,0 +1,170 @@
+{
+ "reference": "NLLB",
+ "systems": [
+  "NLLB",
+  "LLM",
+  "Google"
+ ],
+ "languages": {
+  "de": {
+   "NLLB": {
+    "mean": 0.8655757995031427,
+    "p10": 0.810325437784195,
+    "min": 0.507820725440979,
+    "mean_item_similarity": 0.8659107685089111,
+    "median_diff_vs_ref": 0.0,
+    "share_higher_than_ref": 0.0,
+    "share_tied_with_ref": 1.0,
+    "share_lower_than_ref": 0.0
+   },
+   "LLM": {
+    "mean": 0.8593467410812513,
+    "p10": 0.7988592386245728,
+    "min": 0.5701532363891602,
+    "mean_item_similarity": 0.8596850633621216,
+    "median_diff_vs_ref": -0.000279158353805542,
+    "share_higher_than_ref": 0.3640973630831643,
+    "share_tied_with_ref": 0.13336713995943206,
+    "share_lower_than_ref": 0.5025354969574036
+   },
+   "Google": {
+    "mean": 0.8551531400508862,
+    "p10": 0.7902811586856842,
+    "min": 0.43554621934890747,
+    "mean_item_similarity": 0.8554424047470093,
+    "median_diff_vs_ref": -0.0019151568412780762,
+    "share_higher_than_ref": 0.34127789046653145,
+    "share_tied_with_ref": 0.12829614604462475,
+    "share_lower_than_ref": 0.5304259634888439
+   }
+  },
+  "ar": {
+   "NLLB": {
+    "mean": 0.8547177310677861,
+    "p10": 0.7675778269767761,
+    "min": 0.29298141598701477,
+    "mean_item_similarity": 0.8550308346748352,
+    "median_diff_vs_ref": 0.0,
+    "share_higher_than_ref": 0.0,
+    "share_tied_with_ref": 1.0,
+    "share_lower_than_ref": 0.0
+   },
+   "LLM": {
+    "mean": 0.8483354253411052,
+    "p10": 0.7532016515731812,
+    "min": 0.315632700920105,
+    "mean_item_similarity": 0.8490001559257507,
+    "median_diff_vs_ref": -0.005129724740982056,
+    "share_higher_than_ref": 0.43509127789046653,
+    "share_tied_with_ref": 0.011663286004056795,
+    "share_lower_than_ref": 0.5532454361054767
+   },
+   "Google": {
+    "mean": 0.8561130968540241,
+    "p10": 0.7713817656040192,
+    "min": 0.41870322823524475,
+    "mean_item_similarity": 0.8566292524337769,
+    "median_diff_vs_ref": -0.0004496276378631592,
+    "share_higher_than_ref": 0.48073022312373226,
+    "share_tied_with_ref": 0.017748478701825558,
+    "share_lower_than_ref": 0.5015212981744422
+   }
+  },
+  "hi": {
+   "NLLB": {
+    "mean": 0.8490089818865484,
+    "p10": 0.7886424124240875,
+    "min": 0.5703997611999512,
+    "mean_item_similarity": 0.8493936061859131,
+    "median_diff_vs_ref": 0.0,
+    "share_higher_than_ref": 0.0,
+    "share_tied_with_ref": 1.0,
+    "share_lower_than_ref": 0.0
+   },
+   "LLM": {
+    "mean": 0.842031884417089,
+    "p10": 0.7747638940811158,
+    "min": 0.5857446193695068,
+    "mean_item_similarity": 0.842616856098175,
+    "median_diff_vs_ref": -0.0033964812755584717,
+    "share_higher_than_ref": 0.3975659229208925,
+    "share_tied_with_ref": 0.04107505070993915,
+    "share_lower_than_ref": 0.5613590263691683
+   },
+   "Google": {
+    "mean": 0.8332152290167721,
+    "p10": 0.7571255922317505,
+    "min": 0.4627739489078522,
+    "mean_item_similarity": 0.8337580561637878,
+    "median_diff_vs_ref": -0.007703214883804321,
+    "share_higher_than_ref": 0.33367139959432046,
+    "share_tied_with_ref": 0.04665314401622718,
+    "share_lower_than_ref": 0.6196754563894523
+   }
+  },
+  "fr": {
+   "NLLB": {
+    "mean": 0.887655611257645,
+    "p10": 0.8377369999885559,
+    "min": 0.4748631417751312,
+    "mean_item_similarity": 0.8878564238548279,
+    "median_diff_vs_ref": 0.0,
+    "share_higher_than_ref": 0.0,
+    "share_tied_with_ref": 1.0,
+    "share_lower_than_ref": 0.0
+   },
+   "LLM": {
+    "mean": 0.8774919785544064,
+    "p10": 0.8155326068401336,
+    "min": 0.39356911182403564,
+    "mean_item_similarity": 0.8778835535049438,
+    "median_diff_vs_ref": -0.0020729005336761475,
+    "share_higher_than_ref": 0.2854969574036511,
+    "share_tied_with_ref": 0.17494929006085191,
+    "share_lower_than_ref": 0.539553752535497
+   },
+   "Google": {
+    "mean": 0.8737256494605758,
+    "p10": 0.8109561800956726,
+    "min": 0.5249688625335693,
+    "mean_item_similarity": 0.8740537762641907,
+    "median_diff_vs_ref": -0.0032007992267608643,
+    "share_higher_than_ref": 0.276369168356998,
+    "share_tied_with_ref": 0.16987829614604463,
+    "share_lower_than_ref": 0.5537525354969574
+   }
+  },
+  "es": {
+   "NLLB": {
+    "mean": 0.8965451776920903,
+    "p10": 0.8510026156902313,
+    "min": 0.5739290714263916,
+    "mean_item_similarity": 0.8966867923736572,
+    "median_diff_vs_ref": 0.0,
+    "share_higher_than_ref": 0.0,
+    "share_tied_with_ref": 1.0,
+    "share_lower_than_ref": 0.0
+   },
+   "LLM": {
+    "mean": 0.8872760109920772,
+    "p10": 0.8303794860839844,
+    "min": 0.5739290714263916,
+    "mean_item_similarity": 0.8875684142112732,
+    "median_diff_vs_ref": -0.0012786388397216797,
+    "share_higher_than_ref": 0.27281947261663286,
+    "share_tied_with_ref": 0.19523326572008112,
+    "share_lower_than_ref": 0.531947261663286
+   },
+   "Google": {
+    "mean": 0.884083262865732,
+    "p10": 0.8240946054458618,
+    "min": 0.5739290714263916,
+    "mean_item_similarity": 0.8843775987625122,
+    "median_diff_vs_ref": -0.0020350217819213867,
+    "share_higher_than_ref": 0.2363083164300203,
+    "share_tied_with_ref": 0.22363083164300201,
+    "share_lower_than_ref": 0.5400608519269777
+   }
+  }
+ }
+}

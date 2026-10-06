@@ -1,0 +1,222 @@
+{
+ "systems": {
+  "NLLB": "generic_claims_2000_v2/data",
+  "Opus": "generic_claims_2000_v3/data",
+  "Google": "generic_claims_2000_gt/data"
+ },
+ "n_claims": 2000,
+ "n_imperial_english_claims": 42,
+ "languages": {
+  "de": {
+   "NLLB": {
+    "digit_mismatch": 5,
+    "imperial_to_metric": 7,
+    "digit_mismatch_ids": [
+     "claim_0133",
+     "claim_1073",
+     "claim_1296",
+     "claim_1448",
+     "claim_1692"
+    ],
+    "imperial_to_metric_ids": [
+     "claim_0314",
+     "claim_0318",
+     "claim_0664",
+     "claim_0835",
+     "claim_1209",
+     "claim_1404",
+     "claim_1659"
+    ]
+   },
+   "Opus": {
+    "digit_mismatch": 0,
+    "imperial_to_metric": 0,
+    "digit_mismatch_ids": [],
+    "imperial_to_metric_ids": []
+   },
+   "Google": {
+    "digit_mismatch": 5,
+    "imperial_to_metric": 10,
+    "digit_mismatch_ids": [
+     "claim_0086",
+     "claim_0300",
+     "claim_0318",
+     "claim_0835",
+     "claim_1058"
+    ],
+    "imperial_to_metric_ids": [
+     "claim_0086",
+     "claim_0262",
+     "claim_0300",
+     "claim_0314",
+     "claim_0318",
+     "claim_0755",
+     "claim_0835",
+     "claim_1058",
+     "claim_1404",
+     "claim_1483"
+    ]
+   }
+  },
+  "ar": {
+   "NLLB": {
+    "digit_mismatch": 7,
+    "imperial_to_metric": 0,
+    "digit_mismatch_ids": [
+     "claim_0473",
+     "claim_1304",
+     "claim_1338",
+     "claim_1448",
+     "claim_1692",
+     "claim_1936",
+     "claim_1962"
+    ],
+    "imperial_to_metric_ids": []
+   },
+   "Opus": {
+    "digit_mismatch": 0,
+    "imperial_to_metric": 0,
+    "digit_mismatch_ids": [],
+    "imperial_to_metric_ids": []
+   },
+   "Google": {
+    "digit_mismatch": 0,
+    "imperial_to_metric": 1,
+    "digit_mismatch_ids": [],
+    "imperial_to_metric_ids": [
+     "claim_1404"
+    ]
+   }
+  },
+  "hi": {
+   "NLLB": {
+    "digit_mismatch": 2,
+    "imperial_to_metric": 0,
+    "digit_mismatch_ids": [
+     "claim_0664",
+     "claim_1692"
+    ],
+    "imperial_to_metric_ids": []
+   },
+   "Opus": {
+    "digit_mismatch": 0,
+    "imperial_to_metric": 0,
+    "digit_mismatch_ids": [],
+    "imperial_to_metric_ids": []
+   },
+   "Google": {
+    "digit_mismatch": 0,
+    "imperial_to_metric": 0,
+    "digit_mismatch_ids": [],
+    "imperial_to_metric_ids": []
+   }
+  },
+  "fr": {
+   "NLLB": {
+    "digit_mismatch": 5,
+    "imperial_to_metric": 7,
+    "digit_mismatch_ids": [
+     "claim_1304",
+     "claim_1316",
+     "claim_1586",
+     "claim_1692",
+     "claim_1962"
+    ],
+    "imperial_to_metric_ids": [
+     "claim_0677",
+     "claim_1058",
+     "claim_1209",
+     "claim_1483",
+     "claim_1491",
+     "claim_1659",
+     "claim_1728"
+    ]
+   },
+   "Opus": {
+    "digit_mismatch": 0,
+    "imperial_to_metric": 0,
+    "digit_mismatch_ids": [],
+    "imperial_to_metric_ids": []
+   },
+   "Google": {
+    "digit_mismatch": 11,
+    "imperial_to_metric": 17,
+    "digit_mismatch_ids": [
+     "claim_0086",
+     "claim_0118",
+     "claim_0300",
+     "claim_0324",
+     "claim_0677",
+     "claim_0923",
+     "claim_1058",
+     "claim_1209",
+     "claim_1304",
+     "claim_1472",
+     "claim_1561"
+    ],
+    "imperial_to_metric_ids": [
+     "claim_0086",
+     "claim_0118",
+     "claim_0262",
+     "claim_0300",
+     "claim_0305",
+     "claim_0318",
+     "claim_0677",
+     "claim_0755",
+     "claim_0835",
+     "claim_0923",
+     "claim_1058",
+     "claim_1209",
+     "claim_1404",
+     "claim_1483",
+     "claim_1491",
+     "claim_1561",
+     "claim_1728"
+    ]
+   }
+  },
+  "es": {
+   "NLLB": {
+    "digit_mismatch": 5,
+    "imperial_to_metric": 2,
+    "digit_mismatch_ids": [
+     "claim_0473",
+     "claim_1073",
+     "claim_1304",
+     "claim_1448",
+     "claim_1586"
+    ],
+    "imperial_to_metric_ids": [
+     "claim_1058",
+     "claim_1483"
+    ]
+   },
+   "Opus": {
+    "digit_mismatch": 0,
+    "imperial_to_metric": 0,
+    "digit_mismatch_ids": [],
+    "imperial_to_metric_ids": []
+   },
+   "Google": {
+    "digit_mismatch": 1,
+    "imperial_to_metric": 11,
+    "digit_mismatch_ids": [
+     "claim_1058"
+    ],
+    "imperial_to_metric_ids": [
+     "claim_0086",
+     "claim_0262",
+     "claim_0300",
+     "claim_0318",
+     "claim_0755",
+     "claim_0835",
+     "claim_1058",
+     "claim_1209",
+     "claim_1404",
+     "claim_1483",
+     "claim_1659"
+    ]
+   }
+  }
+ }
+}

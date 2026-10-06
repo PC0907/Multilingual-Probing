@@ -1,0 +1,56 @@
+{
+  "resolved_utc": "2026-10-01T14:33:00Z",
+  "models": {
+    "Qwen3-8B-Base": {
+      "repository": "Qwen/Qwen3-8B-Base",
+      "revision": "49e3418fbbbca6ecbdf9608b4d22e5a407081db4",
+      "access": "public"
+    },
+    "Apertus-8B-2509": {
+      "repository": "swiss-ai/Apertus-8B-2509",
+      "revision": "3162c99675aa588097cecd4a24b9aa1f712af477",
+      "access": "public"
+    },
+    "Llama-3.1-8B": {
+      "repository": "meta-llama/Llama-3.1-8B",
+      "revision": "d04e592bb4f6aa9cfee91e2e20afa771667e1d4b",
+      "access": "manual-gated; remote host had no authenticated token when resolved; still not authorized for the user's account on 2 Oct 2026 (403)"
+    },
+    "Mistral-7B-v0.3": {
+      "repository": "mistralai/Mistral-7B-v0.3",
+      "revision": "caa1feb0e54d415e2df31207e5f4e273e33509b1",
+      "access": "public; post-core X4 replication"
+    },
+    "Qwen3-0.6B-Base": {
+      "repository": "Qwen/Qwen3-0.6B-Base",
+      "revision": "da87bfb608c14b7cf20ba1ce41287e8de496c0cd",
+      "access": "public; post-core X7-X9 (frozen 2 Oct 2026)"
+    },
+    "Qwen3-1.7B-Base": {
+      "repository": "Qwen/Qwen3-1.7B-Base",
+      "revision": "ea980cb0a6c2ae4b936e82123acc929f1cec04c1",
+      "access": "public; post-core X7-X9 (frozen 2 Oct 2026)"
+    },
+    "Qwen3-4B-Base": {
+      "repository": "Qwen/Qwen3-4B-Base",
+      "revision": "906bfd4b4dc7f14ee4320094d8b41684abff8539",
+      "access": "public; post-core X7-X9 (frozen 2 Oct 2026)"
+    },
+    "Qwen3-14B-Base": {
+      "repository": "Qwen/Qwen3-14B-Base",
+      "revision": "0b0bd3732e2c374d483664439ea334928b65f304",
+      "access": "public; post-core X7-X9 (frozen 2 Oct 2026)"
+    },
+    "Qwen3-8B": {
+      "repository": "Qwen/Qwen3-8B",
+      "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+      "access": "public; post-core X7-X9 (frozen 2 Oct 2026)"
+    },
+    "OLMo-2-1124-7B": {
+      "repository": "allenai/OLMo-2-1124-7B",
+      "revision": "7df9a82518afdecae4e8c026b27adccc8c1f0032",
+      "access": "public; post-core X7-X9 (frozen 2 Oct 2026)"
+    }
+  },
+  "source": "Hugging Face HfApi.model_info queried from the experiment host"
+}

@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Per-fact multilingual behavioral results",
+  "type": "object",
+  "required": ["model", "model_revision", "language", "dataset_sha256", "templates", "answer_strings", "records"],
+  "properties": {
+    "model": {"type": "string"},
+    "model_revision": {"type": "string"},
+    "language": {"enum": ["en", "de", "ar", "hi", "fr", "es"]},
+    "dataset_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "templates": {"type": "array", "minItems": 3, "items": {"type": "string"}},
+    "answer_strings": {
+      "type": "object",
+      "required": ["true", "false", "true_token_ids", "false_token_ids"],
+      "properties": {
+        "true": {"type": "string"},
+        "false": {"type": "string"},
+        "true_token_ids": {"type": "array", "minItems": 1, "items": {"type": "integer"}},
+        "false_token_ids": {"type": "array", "minItems": 1, "items": {"type": "integer"}}
+      }
+    },
+    "records": {
+      "type": "array",
+      "minItems": 2000,
+      "maxItems": 2000,
+      "items": {
+        "type": "object",
+        "required": ["id", "group_id", "label", "partition", "templates", "statement_mean_token_loss"],
+        "properties": {
+          "id": {"type": "string"},
+          "group_id": {"type": "string"},
+          "label": {"enum": [0, 1]},
+          "partition": {"enum": ["train", "validation", "test"]},
+          "statement_mean_token_loss": {"type": "number"},
+          "templates": {
+            "type": "array",
+            "minItems": 3,
+            "items": {
+              "type": "object",
+              "required": ["template_index", "true_sequence_log_likelihood", "false_sequence_log_likelihood", "summed_margin", "normalized_margin", "predicted_label", "correct", "binary_entropy"],
+              "properties": {
+                "template_index": {"type": "integer", "minimum": 0},
+                "true_sequence_log_likelihood": {"type": "number"},
+                "false_sequence_log_likelihood": {"type": "number"},
+                "summed_margin": {"type": "number"},
+                "normalized_margin": {"type": "number"},
+                "predicted_label": {"enum": [0, 1]},
+                "correct": {"type": "boolean"},
+                "binary_entropy": {"type": "number", "minimum": 0}
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

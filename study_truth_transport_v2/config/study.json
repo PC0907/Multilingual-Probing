@@ -1,0 +1,28 @@
+{
+  "study_version": "1.0.0",
+  "dataset_version": "2.0-candidate",
+  "languages": ["en", "de", "ar", "hi", "fr", "es"],
+  "primary_models": ["Qwen3-8B-Base", "Llama-3.1-8B", "Apertus-8B"],
+  "secondary_models": ["Gemma-7B"],
+  "probe": "mass_mean",
+  "representation": "decoder-block residual stream at final statement token",
+  "n_groups_per_fit": 400,
+  "n_positive_groups_per_fit": 200,
+  "overlap_fractions": [0.0, 0.25, 0.5, 0.75, 1.0],
+  "allocation_repetitions": 50,
+  "bootstrap_draws": 1000,
+  "random_direction_draws": 1000,
+  "reliability_repetitions": 50,
+  "seed": 20261002,
+  "topic_matching": {
+    "enabled": false,
+    "reason": "The supplied generic-claims CSV has no documented topic annotation. No inferred topic is treated as ground truth."
+  },
+  "allocation_strata": [
+    "label",
+    "pair_normalized_length_quartile",
+    "either_language_negation",
+    "contains_number",
+    "either_language_translation_risk"
+  ]
+}

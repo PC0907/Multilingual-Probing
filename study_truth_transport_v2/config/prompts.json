@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "status": "researcher_screened_not_independently_human_reviewed",
+  "activation_template_id": "judge_v1",
+  "languages": {
+    "en": {
+      "activation_prefix": "Decide whether the following statement is true or false.\nStatement: ",
+      "answer_true": "true",
+      "answer_false": "false",
+      "behavior_templates": [
+        "Decide whether the following statement is true or false.\nStatement: {statement}\nAnswer with only true or false.\nAnswer:",
+        "Judge the factual accuracy of this statement.\nStatement: {statement}\nReply using only true or false.\nJudgment:",
+        "Is the statement below factually correct?\nStatement: {statement}\nWrite only true or false.\nAnswer:"
+      ]
+    },
+    "de": {
+      "activation_prefix": "Entscheide, ob die folgende Aussage wahr oder falsch ist.\nAussage: ",
+      "answer_true": "wahr",
+      "answer_false": "falsch",
+      "behavior_templates": [
+        "Entscheide, ob die folgende Aussage wahr oder falsch ist.\nAussage: {statement}\nAntworte nur mit wahr oder falsch.\nAntwort:",
+        "Beurteile die sachliche Richtigkeit dieser Aussage.\nAussage: {statement}\nAntworte ausschließlich mit wahr oder falsch.\nUrteil:",
+        "Ist die folgende Aussage sachlich richtig?\nAussage: {statement}\nSchreibe nur wahr oder falsch.\nAntwort:"
+      ]
+    },
+    "ar": {
+      "activation_prefix": "حدّد ما إذا كانت العبارة التالية صحيحة أم خاطئة.\nالعبارة: ",
+      "answer_true": "صحيحة",
+      "answer_false": "خاطئة",
+      "behavior_templates": [
+        "حدّد ما إذا كانت العبارة التالية صحيحة أم خاطئة.\nالعبارة: {statement}\nأجب بكلمة صحيحة أو خاطئة فقط.\nالإجابة:",
+        "قيّم الدقة الواقعية لهذه العبارة.\nالعبارة: {statement}\nاكتب صحيحة أو خاطئة فقط.\nالحكم:",
+        "هل العبارة التالية صحيحة من الناحية الواقعية؟\nالعبارة: {statement}\nأجب فقط بصحيحة أو خاطئة.\nالإجابة:"
+      ]
+    },
+    "hi": {
+      "activation_prefix": "तय करें कि निम्न कथन सत्य है या असत्य।\nकथन: ",
+      "answer_true": "सत्य",
+      "answer_false": "असत्य",
+      "behavior_templates": [
+        "तय करें कि निम्न कथन सत्य है या असत्य।\nकथन: {statement}\nकेवल सत्य या असत्य में उत्तर दें।\nउत्तर:",
+        "इस कथन की तथ्यात्मक शुद्धता का निर्णय करें।\nकथन: {statement}\nकेवल सत्य या असत्य लिखें।\nनिर्णय:",
+        "क्या नीचे दिया गया कथन तथ्यात्मक रूप से सही है?\nकथन: {statement}\nसिर्फ सत्य या असत्य में उत्तर दें।\nउत्तर:"
+      ]
+    },
+    "fr": {
+      "activation_prefix": "Décidez si l’affirmation suivante est vraie ou fausse.\nAffirmation : ",
+      "answer_true": "vraie",
+      "answer_false": "fausse",
+      "behavior_templates": [
+        "Décidez si l’affirmation suivante est vraie ou fausse.\nAffirmation : {statement}\nRépondez uniquement par vraie ou fausse.\nRéponse :",
+        "Évaluez l’exactitude factuelle de cette affirmation.\nAffirmation : {statement}\nRépondez seulement par vraie ou fausse.\nJugement :",
+        "L’affirmation ci-dessous est-elle factuellement correcte ?\nAffirmation : {statement}\nÉcrivez uniquement vraie ou fausse.\nRéponse :"
+      ]
+    },
+    "es": {
+      "activation_prefix": "Decide si la siguiente afirmación es verdadera o falsa.\nAfirmación: ",
+      "answer_true": "verdadera",
+      "answer_false": "falsa",
+      "behavior_templates": [
+        "Decide si la siguiente afirmación es verdadera o falsa.\nAfirmación: {statement}\nResponde solo con verdadera o falsa.\nRespuesta:",
+        "Evalúa la exactitud factual de esta afirmación.\nAfirmación: {statement}\nResponde únicamente con verdadera o falsa.\nJuicio:",
+        "¿Es objetivamente correcta la siguiente afirmación?\nAfirmación: {statement}\nEscribe solo verdadera o falsa.\nRespuesta:"
+      ]
+    }
+  }
+}

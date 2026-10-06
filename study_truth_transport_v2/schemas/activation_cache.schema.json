@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Truth transport activation cache metadata",
+  "type": "object",
+  "required": ["complete", "model", "model_revision", "tokenizer_revision", "language", "dataset_sha256", "source_ids", "group_ids", "labels", "partitions", "prompt_template", "representation", "array", "array_sha256"],
+  "properties": {
+    "complete": {"const": true},
+    "model": {"type": "string"},
+    "model_revision": {"type": "string"},
+    "tokenizer_revision": {"type": "string"},
+    "language": {"enum": ["en", "de", "ar", "hi", "fr", "es"]},
+    "dataset_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "source_ids": {"type": "array", "minItems": 2000, "maxItems": 2000, "items": {"type": "string"}},
+    "group_ids": {"type": "array", "minItems": 2000, "maxItems": 2000, "items": {"type": "string"}},
+    "labels": {"type": "array", "minItems": 2000, "maxItems": 2000, "items": {"enum": [0, 1]}},
+    "partitions": {"type": "array", "minItems": 2000, "maxItems": 2000, "items": {"enum": ["train", "validation", "test"]}},
+    "prompt_template": {"type": "string"},
+    "prompt_review_status": {"type": "string"},
+    "representation": {
+      "type": "object",
+      "required": ["site", "token_policy", "decoder_blocks", "embedding_excluded"],
+      "properties": {
+        "site": {"const": "residual_stream_after_decoder_block"},
+        "token_policy": {"const": "final_statement_token"},
+        "decoder_blocks": {"type": "array", "items": {"type": "integer", "minimum": 1}},
+        "embedding_excluded": {"const": true}
+      }
+    },
+    "array": {
+      "type": "object",
+      "required": ["path", "shape", "dtype"],
+      "properties": {
+        "path": {"type": "string"},
+        "shape": {"type": "array", "minItems": 3, "maxItems": 3, "items": {"type": "integer", "minimum": 1}},
+        "dtype": {"enum": ["float16", "bfloat16", "float32"]}
+      }
+    },
+    "array_sha256": {"type": "string", "pattern": "^[0-9a-f]{64}$"},
+    "truncated_inputs": {"const": 0},
+    "gpu_uuid": {"type": "string"}
+  }
+}

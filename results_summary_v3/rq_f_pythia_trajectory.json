@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "analysis": "post-core X5 exploratory RQ-F Pythia training trajectory",
+  "scope": "one Pythia-1.4B-deduped trajectory; validation-selected layer independently per checkpoint",
+  "checkpoints": [
+    {
+      "step": 0,
+      "model_id": "pythia-1.4b-step0",
+      "resolved_revision": "ee49b763c5873072fda3e56443c77108f73d9913",
+      "selected_block_number": 2,
+      "mean_validation_auroc": 0.6297666666666667,
+      "zero_overlap_cosine": 0.01662865858363066,
+      "full_overlap_cosine": 0.1227377792557101,
+      "overlap_cosine_difference": 0.10610912067207943,
+      "zero_overlap_auroc": 0.51580885,
+      "full_overlap_auroc": 0.5149077,
+      "full_train_cross_auroc": 0.5191366666666667,
+      "full_train_direction_cosine": 0.12438389761601397
+    },
+    {
+      "step": 1000,
+      "model_id": "pythia-1.4b-step1000",
+      "resolved_revision": "c55aeee0fcbae6ad588405867a416b850cd0d548",
+      "selected_block_number": 4,
+      "mean_validation_auroc": 0.5993458333333334,
+      "zero_overlap_cosine": 0.18886905973448295,
+      "full_overlap_cosine": 0.22112137373107404,
+      "overlap_cosine_difference": 0.03225231399659109,
+      "zero_overlap_auroc": 0.5221071333333334,
+      "full_overlap_auroc": 0.5220430333333334,
+      "full_train_cross_auroc": 0.5237358333333333,
+      "full_train_direction_cosine": 0.2986956788169866
+    },
+    {
+      "step": 4000,
+      "model_id": "pythia-1.4b-step4000",
+      "resolved_revision": "a643715ae75dc97ef7b1a7694f8995ceb96eb1cf",
+      "selected_block_number": 13,
+      "mean_validation_auroc": 0.6117,
+      "zero_overlap_cosine": 0.24769068105255845,
+      "full_overlap_cosine": 0.28981668013279854,
+      "overlap_cosine_difference": 0.04212599908024009,
+      "zero_overlap_auroc": 0.56183065,
+      "full_overlap_auroc": 0.5621588000000001,
+      "full_train_cross_auroc": 0.5657558333333335,
+      "full_train_direction_cosine": 0.34901687449000096
+    },
+    {
+      "step": 16000,
+      "model_id": "pythia-1.4b-step16000",
+      "resolved_revision": "6b146da0aa9f577be631521754dad50d2a6e9727",
+      "selected_block_number": 10,
+      "mean_validation_auroc": 0.6373541666666666,
+      "zero_overlap_cosine": 0.4295561204081505,
+      "full_overlap_cosine": 0.4900980467568115,
+      "overlap_cosine_difference": 0.06054192634866101,
+      "zero_overlap_auroc": 0.5892414666666667,
+      "full_overlap_auroc": 0.5893616833333333,
+      "full_train_cross_auroc": 0.5915866666666666,
+      "full_train_direction_cosine": 0.5569889084968103
+    },
+    {
+      "step": 64000,
+      "model_id": "pythia-1.4b-step64000",
+      "resolved_revision": "ace43ca627f244d37a4d9246bb6230fbacb43517",
+      "selected_block_number": 10,
+      "mean_validation_auroc": 0.6504333333333333,
+      "zero_overlap_cosine": 0.4679357036874182,
+      "full_overlap_cosine": 0.5438111287122761,
+      "overlap_cosine_difference": 0.07587542502485789,
+      "zero_overlap_auroc": 0.5958900833333334,
+      "full_overlap_auroc": 0.5960453166666667,
+      "full_train_cross_auroc": 0.5987541666666666,
+      "full_train_direction_cosine": 0.5998679267180134
+    },
+    {
+      "step": 143000,
+      "model_id": "pythia-1.4b-step143000",
+      "resolved_revision": "6d1288ca1da05b700367a229ed2000de0eab8c4d",
+      "selected_block_number": 10,
+      "mean_validation_auroc": 0.6594375,
+      "zero_overlap_cosine": 0.4841357740170798,
+      "full_overlap_cosine": 0.5667996614186701,
+      "overlap_cosine_difference": 0.08266388740159031,
+      "zero_overlap_auroc": 0.6051868000000002,
+      "full_overlap_auroc": 0.6052666833333334,
+      "full_train_cross_auroc": 0.6087716666666668,
+      "full_train_direction_cosine": 0.61827284376403
+    }
+  ]
+}
