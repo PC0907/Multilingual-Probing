@@ -1,7 +1,8 @@
-# whitelist: only code, figures and the README are tracked
+# whitelist: only code, figures, data and the README are tracked
 /*
 !/code/
 !/figures/
+!/data/
 !/README.md
 !/.gitignore
 __pycache__/
