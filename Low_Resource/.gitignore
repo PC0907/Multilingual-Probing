@@ -1,0 +1,9 @@
+# whitelist: only code, figures and the README are tracked
+/*
+!/code/
+!/figures/
+!/README.md
+!/.gitignore
+__pycache__/
+*.pyc
+/code/STOP_QUEUE
