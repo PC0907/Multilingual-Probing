@@ -26,7 +26,7 @@ predictor of transfer; script and relatedness change direction cosine much more 
 | `code/build_report_html.py` | report rendering |
 | `figures/` | result figures |
 
-Data, activation caches (~90 GB) and result files are not included.
+`data/` holds all 18 conditions (2,000 claims each, same ids, labels, dependency groups and split), the source CSV, and the raw translation chunks in `data/translation_work/`. Activation caches (~90 GB) and result files are not included.
 
 ## Reproduce
 
